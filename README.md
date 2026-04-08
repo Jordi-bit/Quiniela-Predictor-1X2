@@ -42,8 +42,10 @@ python -m http.server 8000
 ```
 Luego visita `http://localhost:8000` en tu navegador.
 
-## 📄 Licencia
-Este proyecto está bajo la Licencia MIT.
+## 📦 Versión Portable (.exe)
+Si deseas ejecutar la aplicación en un equipo con Windows sin instalar Python ni ninguna librería, puedes usar el ejecutable portable:
+1. Ve a la carpeta `dist/`.
+2. Haz doble clic en `app.exe`.
 
 ---
 Desarrollado para predicción avanzada de resultados deportivos.
