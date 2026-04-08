@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Predicción Quiniela 1X2</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@4.10.0"></script>
+    <script src="app.js" defer></script>
+    <style>
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            margin: 0; 
+            padding: 40px; 
+            background: #121212; 
+            color: #e0e0e0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .container {
+            background: #1e1e1e;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.5);
+            max-width: 500px;
+            width: 100%;
+            border: 1px solid #333;
+        }
+        h1 { color: #3b82f6; text-align: center; margin-bottom: 30px; }
+        label { display: block; margin-top: 15px; font-weight: bold; color: #b0b0b0; }
+        select { 
+            width: 100%; 
+            padding: 10px; 
+            margin-top: 5px; 
+            border: 1px solid #444; 
+            border-radius: 6px;
+            font-size: 16px;
+            background: #2c2c2c;
+            color: #fff;
+        }
+        button { 
+            width: 100%;
+            margin-top: 25px; 
+            padding: 12px; 
+            background: #2563eb; 
+            color: #fff; 
+            border: none; 
+            border-radius: 6px; 
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background 0.3s, transform 0.1s;
+        }
+        button:hover { background: #3b82f6; }
+        button:active { transform: scale(0.98); }
+        #resultados { 
+            margin-top: 25px; 
+            padding: 20px; 
+            background: #2c2c2c; 
+            border-radius: 8px; 
+            border-left: 5px solid #2563eb;
+        }
+        footer { margin-top: 40px; color: #666; font-size: 14px; text-align: center; }
+        footer a { color: #3b82f6; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>⚽ Predicción Quiniela 1X2</h1>
+        
+        <label for="local">Equipo Local:</label>
+        <select id="local"></select>
+        
+        <label for="visitante">Equipo Visitante:</label>
+        <select id="visitante"></select>
+        
+        <button onclick="predecir()">Predecir</button>
+        
+        <div id="resultados">
+            <p style="color: #666; text-align: center;">Selecciona los equipos y pulsa predecir.</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>Desarrollado por <a href="https://github.com/Jordi-bit" target="_blank">Jordi-bit</a></p>
+    </footer>
+</body>
+</html>

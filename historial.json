@@ -1,0 +1,5896 @@
+[
+    {
+        "Equipo_Local": "Athletic Club",
+        "Equipo_Visitante": "Getafe CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Real Betis",
+        "Equipo_Visitante": "Girona FC",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "RC Celta",
+        "Equipo_Visitante": "Deportivo Alavés",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "UD Las Palmas",
+        "Equipo_Visitante": "Sevilla FC",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CA Osasuna",
+        "Equipo_Visitante": "CD Leganés",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Valencia CF",
+        "Equipo_Visitante": "FC Barcelona",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Real Sociedad",
+        "Equipo_Visitante": "Rayo Vallecano",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "RCD Mallorca",
+        "Equipo_Visitante": "Real Madrid",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Real Valladolid CF",
+        "Equipo_Visitante": "RCD Espanyol de Barcelona",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Villarreal CF",
+        "Equipo_Visitante": "Atlético de Madrid",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "RC Celta",
+        "Equipo_Visitante": "Valencia CF",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Sevilla FC",
+        "Equipo_Visitante": "Villarreal CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CA Osasuna",
+        "Equipo_Visitante": "RCD Mallorca",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "FC Barcelona",
+        "Equipo_Visitante": "Athletic Club",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Getafe CF",
+        "Equipo_Visitante": "Rayo Vallecano",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "RCD Espanyol de Barcelona",
+        "Equipo_Visitante": "Real Sociedad",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Real Madrid",
+        "Equipo_Visitante": "Real Valladolid CF",
+        "Goles_Local": 3,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CD Leganés",
+        "Equipo_Visitante": "UD Las Palmas",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Deportivo Alavés",
+        "Equipo_Visitante": "Real Betis",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Atlético de Madrid",
+        "Equipo_Visitante": "Girona FC",
+        "Goles_Local": 3,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Villarreal CF",
+        "Equipo_Visitante": "RC Celta",
+        "Goles_Local": 4,
+        "Goles_Visitante": 3,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RCD Mallorca",
+        "Equipo_Visitante": "Sevilla FC",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Rayo Vallecano",
+        "Equipo_Visitante": "FC Barcelona",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Athletic Club",
+        "Equipo_Visitante": "Valencia CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Valladolid CF",
+        "Equipo_Visitante": "CD Leganés",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Real Sociedad",
+        "Equipo_Visitante": "Deportivo Alavés",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Atlético de Madrid",
+        "Equipo_Visitante": "RCD Espanyol de Barcelona",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Girona FC",
+        "Equipo_Visitante": "CA Osasuna",
+        "Goles_Local": 4,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "UD Las Palmas",
+        "Equipo_Visitante": "Real Madrid",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Real Betis",
+        "Equipo_Visitante": "Getafe CF",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "FC Barcelona",
+        "Equipo_Visitante": "Real Valladolid CF",
+        "Goles_Local": 7,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Athletic Club",
+        "Equipo_Visitante": "Atlético de Madrid",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "RCD Espanyol de Barcelona",
+        "Equipo_Visitante": "Rayo Vallecano",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Valencia CF",
+        "Equipo_Visitante": "Villarreal CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CD Leganés",
+        "Equipo_Visitante": "RCD Mallorca",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Deportivo Alavés",
+        "Equipo_Visitante": "UD Las Palmas",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CA Osasuna",
+        "Equipo_Visitante": "RC Celta",
+        "Goles_Local": 3,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Sevilla FC",
+        "Equipo_Visitante": "Girona FC",
+        "Goles_Local": 0,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Getafe CF",
+        "Equipo_Visitante": "Real Sociedad",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Real Madrid",
+        "Equipo_Visitante": "Real Betis",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Betis",
+        "Equipo_Visitante": "CD Leganés",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RCD Mallorca",
+        "Equipo_Visitante": "Villarreal CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "RCD Espanyol de Barcelona",
+        "Equipo_Visitante": "Deportivo Alavés",
+        "Goles_Local": 3,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Sevilla FC",
+        "Equipo_Visitante": "Getafe CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Sociedad",
+        "Equipo_Visitante": "Real Madrid",
+        "Goles_Local": 0,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "RC Celta",
+        "Equipo_Visitante": "Real Valladolid CF",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Girona FC",
+        "Equipo_Visitante": "FC Barcelona",
+        "Goles_Local": 1,
+        "Goles_Visitante": 4,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "UD Las Palmas",
+        "Equipo_Visitante": "Athletic Club",
+        "Goles_Local": 2,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Atlético de Madrid",
+        "Equipo_Visitante": "Valencia CF",
+        "Goles_Local": 3,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Rayo Vallecano",
+        "Equipo_Visitante": "CA Osasuna",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Deportivo Alavés",
+        "Equipo_Visitante": "Sevilla FC",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Valladolid CF",
+        "Equipo_Visitante": "Real Sociedad",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CA Osasuna",
+        "Equipo_Visitante": "UD Las Palmas",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Valencia CF",
+        "Equipo_Visitante": "Girona FC",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Madrid",
+        "Equipo_Visitante": "RCD Espanyol de Barcelona",
+        "Goles_Local": 4,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Getafe CF",
+        "Equipo_Visitante": "CD Leganés",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Athletic Club",
+        "Equipo_Visitante": "RC Celta",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Villarreal CF",
+        "Equipo_Visitante": "FC Barcelona",
+        "Goles_Local": 1,
+        "Goles_Visitante": 5,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Rayo Vallecano",
+        "Equipo_Visitante": "Atlético de Madrid",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Real Betis",
+        "Equipo_Visitante": "RCD Mallorca",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "RCD Mallorca",
+        "Equipo_Visitante": "Real Sociedad",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CD Leganés",
+        "Equipo_Visitante": "Athletic Club",
+        "Goles_Local": 0,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Sevilla FC",
+        "Equipo_Visitante": "Real Valladolid CF",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Valencia CF",
+        "Equipo_Visitante": "CA Osasuna",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Real Madrid",
+        "Equipo_Visitante": "Deportivo Alavés",
+        "Goles_Local": 3,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Girona FC",
+        "Equipo_Visitante": "Rayo Vallecano",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "FC Barcelona",
+        "Equipo_Visitante": "Getafe CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RCD Espanyol de Barcelona",
+        "Equipo_Visitante": "Villarreal CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "UD Las Palmas",
+        "Equipo_Visitante": "Real Betis",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "RC Celta",
+        "Equipo_Visitante": "Atlético de Madrid",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Real Valladolid CF",
+        "Equipo_Visitante": "RCD Mallorca",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Getafe CF",
+        "Equipo_Visitante": "Deportivo Alavés",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Rayo Vallecano",
+        "Equipo_Visitante": "CD Leganés",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Real Sociedad",
+        "Equipo_Visitante": "Valencia CF",
+        "Goles_Local": 3,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CA Osasuna",
+        "Equipo_Visitante": "FC Barcelona",
+        "Goles_Local": 4,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RC Celta",
+        "Equipo_Visitante": "Girona FC",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Athletic Club",
+        "Equipo_Visitante": "Sevilla FC",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Real Betis",
+        "Equipo_Visitante": "RCD Espanyol de Barcelona",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Atlético de Madrid",
+        "Equipo_Visitante": "Real Madrid",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Villarreal CF",
+        "Equipo_Visitante": "UD Las Palmas",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CD Leganés",
+        "Equipo_Visitante": "Valencia CF",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "RCD Espanyol de Barcelona",
+        "Equipo_Visitante": "RCD Mallorca",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Getafe CF",
+        "Equipo_Visitante": "CA Osasuna",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "UD Las Palmas",
+        "Equipo_Visitante": "RC Celta",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Real Valladolid CF",
+        "Equipo_Visitante": "Rayo Vallecano",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Real Madrid",
+        "Equipo_Visitante": "Villarreal CF",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Girona FC",
+        "Equipo_Visitante": "Athletic Club",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Deportivo Alavés",
+        "Equipo_Visitante": "FC Barcelona",
+        "Goles_Local": 0,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Sevilla FC",
+        "Equipo_Visitante": "Real Betis",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Sociedad",
+        "Equipo_Visitante": "Atlético de Madrid",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Deportivo Alavés",
+        "Equipo_Visitante": "Real Valladolid CF",
+        "Goles_Local": 2,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Athletic Club",
+        "Equipo_Visitante": "RCD Espanyol de Barcelona",
+        "Goles_Local": 4,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CA Osasuna",
+        "Equipo_Visitante": "Real Betis",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Girona FC",
+        "Equipo_Visitante": "Real Sociedad",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "RC Celta",
+        "Equipo_Visitante": "Real Madrid",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "RCD Mallorca",
+        "Equipo_Visitante": "Rayo Vallecano",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Atlético de Madrid",
+        "Equipo_Visitante": "CD Leganés",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Villarreal CF",
+        "Equipo_Visitante": "Getafe CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "FC Barcelona",
+        "Equipo_Visitante": "Sevilla FC",
+        "Goles_Local": 5,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Valencia CF",
+        "Equipo_Visitante": "UD Las Palmas",
+        "Goles_Local": 2,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "RCD Espanyol de Barcelona",
+        "Equipo_Visitante": "Sevilla FC",
+        "Goles_Local": 0,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Real Valladolid CF",
+        "Equipo_Visitante": "Villarreal CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Rayo Vallecano",
+        "Equipo_Visitante": "Deportivo Alavés",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "UD Las Palmas",
+        "Equipo_Visitante": "Girona FC",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Madrid",
+        "Equipo_Visitante": "FC Barcelona",
+        "Goles_Local": 0,
+        "Goles_Visitante": 4,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CD Leganés",
+        "Equipo_Visitante": "RC Celta",
+        "Goles_Local": 3,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Getafe CF",
+        "Equipo_Visitante": "Valencia CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Real Betis",
+        "Equipo_Visitante": "Atlético de Madrid",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Sociedad",
+        "Equipo_Visitante": "CA Osasuna",
+        "Goles_Local": 0,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "RCD Mallorca",
+        "Equipo_Visitante": "Athletic Club",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Deportivo Alavés",
+        "Equipo_Visitante": "RCD Mallorca",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CA Osasuna",
+        "Equipo_Visitante": "Real Valladolid CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Girona FC",
+        "Equipo_Visitante": "CD Leganés",
+        "Goles_Local": 4,
+        "Goles_Visitante": 3,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Atlético de Madrid",
+        "Equipo_Visitante": "UD Las Palmas",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "FC Barcelona",
+        "Equipo_Visitante": "RCD Espanyol de Barcelona",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Sevilla FC",
+        "Equipo_Visitante": "Real Sociedad",
+        "Goles_Local": 0,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Athletic Club",
+        "Equipo_Visitante": "Real Betis",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "RC Celta",
+        "Equipo_Visitante": "Getafe CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Villarreal CF",
+        "Equipo_Visitante": "Rayo Vallecano",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Valencia CF",
+        "Equipo_Visitante": "Real Madrid",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Rayo Vallecano",
+        "Equipo_Visitante": "UD Las Palmas",
+        "Goles_Local": 1,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Real Madrid",
+        "Equipo_Visitante": "CA Osasuna",
+        "Goles_Local": 4,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Villarreal CF",
+        "Equipo_Visitante": "Deportivo Alavés",
+        "Goles_Local": 3,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CD Leganés",
+        "Equipo_Visitante": "Sevilla FC",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Betis",
+        "Equipo_Visitante": "RC Celta",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "RCD Mallorca",
+        "Equipo_Visitante": "Atlético de Madrid",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Getafe CF",
+        "Equipo_Visitante": "Girona FC",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Real Valladolid CF",
+        "Equipo_Visitante": "Athletic Club",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Real Sociedad",
+        "Equipo_Visitante": "FC Barcelona",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RCD Espanyol de Barcelona",
+        "Equipo_Visitante": "Valencia CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Getafe CF",
+        "Equipo_Visitante": "Real Valladolid CF",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Valencia CF",
+        "Equipo_Visitante": "Real Betis",
+        "Goles_Local": 4,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Atlético de Madrid",
+        "Equipo_Visitante": "Deportivo Alavés",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "UD Las Palmas",
+        "Equipo_Visitante": "RCD Mallorca",
+        "Goles_Local": 2,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Girona FC",
+        "Equipo_Visitante": "RCD Espanyol de Barcelona",
+        "Goles_Local": 4,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RC Celta",
+        "Equipo_Visitante": "FC Barcelona",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CA Osasuna",
+        "Equipo_Visitante": "Villarreal CF",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Sevilla FC",
+        "Equipo_Visitante": "Rayo Vallecano",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CD Leganés",
+        "Equipo_Visitante": "Real Madrid",
+        "Goles_Local": 0,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Athletic Club",
+        "Equipo_Visitante": "Real Sociedad",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RCD Mallorca",
+        "Equipo_Visitante": "Valencia CF",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "FC Barcelona",
+        "Equipo_Visitante": "UD Las Palmas",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Deportivo Alavés",
+        "Equipo_Visitante": "CD Leganés",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "RCD Espanyol de Barcelona",
+        "Equipo_Visitante": "RC Celta",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Valladolid CF",
+        "Equipo_Visitante": "Atlético de Madrid",
+        "Goles_Local": 0,
+        "Goles_Visitante": 5,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Villarreal CF",
+        "Equipo_Visitante": "Girona FC",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Real Madrid",
+        "Equipo_Visitante": "Getafe CF",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Rayo Vallecano",
+        "Equipo_Visitante": "Athletic Club",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Real Sociedad",
+        "Equipo_Visitante": "Real Betis",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Sevilla FC",
+        "Equipo_Visitante": "CA Osasuna",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "RC Celta",
+        "Equipo_Visitante": "RCD Mallorca",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "UD Las Palmas",
+        "Equipo_Visitante": "Real Valladolid CF",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Betis",
+        "Equipo_Visitante": "FC Barcelona",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Valencia CF",
+        "Equipo_Visitante": "Rayo Vallecano",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Girona FC",
+        "Equipo_Visitante": "Real Madrid",
+        "Goles_Local": 0,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CD Leganés",
+        "Equipo_Visitante": "Real Sociedad",
+        "Goles_Local": 0,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Athletic Club",
+        "Equipo_Visitante": "Villarreal CF",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CA Osasuna",
+        "Equipo_Visitante": "Deportivo Alavés",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Atlético de Madrid",
+        "Equipo_Visitante": "Sevilla FC",
+        "Goles_Local": 4,
+        "Goles_Visitante": 3,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Getafe CF",
+        "Equipo_Visitante": "RCD Espanyol de Barcelona",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Valladolid CF",
+        "Equipo_Visitante": "Valencia CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RCD Espanyol de Barcelona",
+        "Equipo_Visitante": "CA Osasuna",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "RCD Mallorca",
+        "Equipo_Visitante": "Girona FC",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Sevilla FC",
+        "Equipo_Visitante": "RC Celta",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Rayo Vallecano",
+        "Equipo_Visitante": "Real Madrid",
+        "Goles_Local": 3,
+        "Goles_Visitante": 3,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Atlético de Madrid",
+        "Equipo_Visitante": "Getafe CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Deportivo Alavés",
+        "Equipo_Visitante": "Athletic Club",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Villarreal CF",
+        "Equipo_Visitante": "Real Betis",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Real Sociedad",
+        "Equipo_Visitante": "UD Las Palmas",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "FC Barcelona",
+        "Equipo_Visitante": "CD Leganés",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Girona FC",
+        "Equipo_Visitante": "Real Valladolid CF",
+        "Goles_Local": 3,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Getafe CF",
+        "Equipo_Visitante": "RCD Mallorca",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "RC Celta",
+        "Equipo_Visitante": "Real Sociedad",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CA Osasuna",
+        "Equipo_Visitante": "Athletic Club",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "FC Barcelona",
+        "Equipo_Visitante": "Atlético de Madrid",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Valencia CF",
+        "Equipo_Visitante": "Deportivo Alavés",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Real Madrid",
+        "Equipo_Visitante": "Sevilla FC",
+        "Goles_Local": 4,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CD Leganés",
+        "Equipo_Visitante": "Villarreal CF",
+        "Goles_Local": 2,
+        "Goles_Visitante": 5,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "UD Las Palmas",
+        "Equipo_Visitante": "RCD Espanyol de Barcelona",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Betis",
+        "Equipo_Visitante": "Rayo Vallecano",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "RCD Mallorca",
+        "Equipo_Visitante": "FC Barcelona",
+        "Goles_Local": 1,
+        "Goles_Visitante": 5,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Athletic Club",
+        "Equipo_Visitante": "Real Madrid",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Rayo Vallecano",
+        "Equipo_Visitante": "RC Celta",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Deportivo Alavés",
+        "Equipo_Visitante": "Girona FC",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Real Valladolid CF",
+        "Equipo_Visitante": "Real Betis",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RCD Espanyol de Barcelona",
+        "Equipo_Visitante": "CD Leganés",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Sevilla FC",
+        "Equipo_Visitante": "Valencia CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "UD Las Palmas",
+        "Equipo_Visitante": "Getafe CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Atlético de Madrid",
+        "Equipo_Visitante": "CA Osasuna",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Sociedad",
+        "Equipo_Visitante": "Villarreal CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RCD Espanyol de Barcelona",
+        "Equipo_Visitante": "Real Valladolid CF",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Girona FC",
+        "Equipo_Visitante": "Sevilla FC",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CD Leganés",
+        "Equipo_Visitante": "Atlético de Madrid",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Betis",
+        "Equipo_Visitante": "Deportivo Alavés",
+        "Goles_Local": 1,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Getafe CF",
+        "Equipo_Visitante": "FC Barcelona",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "RC Celta",
+        "Equipo_Visitante": "Athletic Club",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Real Madrid",
+        "Equipo_Visitante": "UD Las Palmas",
+        "Goles_Local": 4,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CA Osasuna",
+        "Equipo_Visitante": "Rayo Vallecano",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Valencia CF",
+        "Equipo_Visitante": "Real Sociedad",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Villarreal CF",
+        "Equipo_Visitante": "RCD Mallorca",
+        "Goles_Local": 4,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "UD Las Palmas",
+        "Equipo_Visitante": "CA Osasuna",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "RCD Mallorca",
+        "Equipo_Visitante": "Real Betis",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Atlético de Madrid",
+        "Equipo_Visitante": "Villarreal CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Sevilla FC",
+        "Equipo_Visitante": "RCD Espanyol de Barcelona",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Real Valladolid CF",
+        "Equipo_Visitante": "Real Madrid",
+        "Goles_Local": 0,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Rayo Vallecano",
+        "Equipo_Visitante": "Girona FC",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Sociedad",
+        "Equipo_Visitante": "Getafe CF",
+        "Goles_Local": 0,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Athletic Club",
+        "Equipo_Visitante": "CD Leganés",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "FC Barcelona",
+        "Equipo_Visitante": "Valencia CF",
+        "Goles_Local": 7,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Deportivo Alavés",
+        "Equipo_Visitante": "RC Celta",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CD Leganés",
+        "Equipo_Visitante": "Rayo Vallecano",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Getafe CF",
+        "Equipo_Visitante": "Sevilla FC",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Villarreal CF",
+        "Equipo_Visitante": "Real Valladolid CF",
+        "Goles_Local": 5,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Atlético de Madrid",
+        "Equipo_Visitante": "RCD Mallorca",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RCD Espanyol de Barcelona",
+        "Equipo_Visitante": "Real Madrid",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "FC Barcelona",
+        "Equipo_Visitante": "Deportivo Alavés",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Valencia CF",
+        "Equipo_Visitante": "RC Celta",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CA Osasuna",
+        "Equipo_Visitante": "Real Sociedad",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Betis",
+        "Equipo_Visitante": "Athletic Club",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Girona FC",
+        "Equipo_Visitante": "UD Las Palmas",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Rayo Vallecano",
+        "Equipo_Visitante": "Real Valladolid CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RC Celta",
+        "Equipo_Visitante": "Real Betis",
+        "Goles_Local": 3,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Athletic Club",
+        "Equipo_Visitante": "Girona FC",
+        "Goles_Local": 3,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "UD Las Palmas",
+        "Equipo_Visitante": "Villarreal CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Real Madrid",
+        "Equipo_Visitante": "Atlético de Madrid",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Deportivo Alavés",
+        "Equipo_Visitante": "Getafe CF",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Valencia CF",
+        "Equipo_Visitante": "CD Leganés",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Sociedad",
+        "Equipo_Visitante": "RCD Espanyol de Barcelona",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Sevilla FC",
+        "Equipo_Visitante": "FC Barcelona",
+        "Goles_Local": 1,
+        "Goles_Visitante": 4,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "RCD Mallorca",
+        "Equipo_Visitante": "CA Osasuna",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Girona FC",
+        "Equipo_Visitante": "Getafe CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CD Leganés",
+        "Equipo_Visitante": "Deportivo Alavés",
+        "Goles_Local": 3,
+        "Goles_Visitante": 3,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CA Osasuna",
+        "Equipo_Visitante": "Real Madrid",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Atlético de Madrid",
+        "Equipo_Visitante": "RC Celta",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Villarreal CF",
+        "Equipo_Visitante": "Valencia CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "RCD Espanyol de Barcelona",
+        "Equipo_Visitante": "Athletic Club",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Real Valladolid CF",
+        "Equipo_Visitante": "Sevilla FC",
+        "Goles_Local": 0,
+        "Goles_Visitante": 4,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "RCD Mallorca",
+        "Equipo_Visitante": "UD Las Palmas",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Betis",
+        "Equipo_Visitante": "Real Sociedad",
+        "Goles_Local": 3,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "FC Barcelona",
+        "Equipo_Visitante": "Rayo Vallecano",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RC Celta",
+        "Equipo_Visitante": "CA Osasuna",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Deportivo Alavés",
+        "Equipo_Visitante": "RCD Espanyol de Barcelona",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Rayo Vallecano",
+        "Equipo_Visitante": "Villarreal CF",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Valencia CF",
+        "Equipo_Visitante": "Atlético de Madrid",
+        "Goles_Local": 0,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "UD Las Palmas",
+        "Equipo_Visitante": "FC Barcelona",
+        "Goles_Local": 0,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Athletic Club",
+        "Equipo_Visitante": "Real Valladolid CF",
+        "Goles_Local": 7,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Madrid",
+        "Equipo_Visitante": "Girona FC",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Getafe CF",
+        "Equipo_Visitante": "Real Betis",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Real Sociedad",
+        "Equipo_Visitante": "CD Leganés",
+        "Goles_Local": 3,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Sevilla FC",
+        "Equipo_Visitante": "RCD Mallorca",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Real Valladolid CF",
+        "Equipo_Visitante": "UD Las Palmas",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Girona FC",
+        "Equipo_Visitante": "RC Celta",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Rayo Vallecano",
+        "Equipo_Visitante": "Sevilla FC",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Real Betis",
+        "Equipo_Visitante": "Real Madrid",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Atlético de Madrid",
+        "Equipo_Visitante": "Athletic Club",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CD Leganés",
+        "Equipo_Visitante": "Getafe CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "FC Barcelona",
+        "Equipo_Visitante": "Real Sociedad",
+        "Goles_Local": 4,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RCD Mallorca",
+        "Equipo_Visitante": "Deportivo Alavés",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CA Osasuna",
+        "Equipo_Visitante": "Valencia CF",
+        "Goles_Local": 3,
+        "Goles_Visitante": 3,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Villarreal CF",
+        "Equipo_Visitante": "RCD Espanyol de Barcelona",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RC Celta",
+        "Equipo_Visitante": "CD Leganés",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Deportivo Alavés",
+        "Equipo_Visitante": "Villarreal CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Valencia CF",
+        "Equipo_Visitante": "Real Valladolid CF",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Getafe CF",
+        "Equipo_Visitante": "Atlético de Madrid",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Madrid",
+        "Equipo_Visitante": "Rayo Vallecano",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Athletic Club",
+        "Equipo_Visitante": "RCD Mallorca",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Real Betis",
+        "Equipo_Visitante": "UD Las Palmas",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Sociedad",
+        "Equipo_Visitante": "Sevilla FC",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "RCD Espanyol de Barcelona",
+        "Equipo_Visitante": "Girona FC",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "FC Barcelona",
+        "Equipo_Visitante": "CA Osasuna",
+        "Goles_Local": 3,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "UD Las Palmas",
+        "Equipo_Visitante": "Deportivo Alavés",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Real Valladolid CF",
+        "Equipo_Visitante": "RC Celta",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "RCD Mallorca",
+        "Equipo_Visitante": "RCD Espanyol de Barcelona",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Villarreal CF",
+        "Equipo_Visitante": "Real Madrid",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Girona FC",
+        "Equipo_Visitante": "Valencia CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CD Leganés",
+        "Equipo_Visitante": "Real Betis",
+        "Goles_Local": 2,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Sevilla FC",
+        "Equipo_Visitante": "Athletic Club",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Rayo Vallecano",
+        "Equipo_Visitante": "Real Sociedad",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CA Osasuna",
+        "Equipo_Visitante": "Getafe CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Atlético de Madrid",
+        "Equipo_Visitante": "FC Barcelona",
+        "Goles_Local": 2,
+        "Goles_Visitante": 4,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Real Sociedad",
+        "Equipo_Visitante": "Real Valladolid CF",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RCD Espanyol de Barcelona",
+        "Equipo_Visitante": "Atlético de Madrid",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Deportivo Alavés",
+        "Equipo_Visitante": "Rayo Vallecano",
+        "Goles_Local": 0,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Real Madrid",
+        "Equipo_Visitante": "CD Leganés",
+        "Goles_Local": 3,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Getafe CF",
+        "Equipo_Visitante": "Villarreal CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "FC Barcelona",
+        "Equipo_Visitante": "Girona FC",
+        "Goles_Local": 4,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Athletic Club",
+        "Equipo_Visitante": "CA Osasuna",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Valencia CF",
+        "Equipo_Visitante": "RCD Mallorca",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Betis",
+        "Equipo_Visitante": "Sevilla FC",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RC Celta",
+        "Equipo_Visitante": "UD Las Palmas",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Rayo Vallecano",
+        "Equipo_Visitante": "RCD Espanyol de Barcelona",
+        "Goles_Local": 0,
+        "Goles_Visitante": 4,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Girona FC",
+        "Equipo_Visitante": "Deportivo Alavés",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Real Madrid",
+        "Equipo_Visitante": "Valencia CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "RCD Mallorca",
+        "Equipo_Visitante": "RC Celta",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "FC Barcelona",
+        "Equipo_Visitante": "Real Betis",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "UD Las Palmas",
+        "Equipo_Visitante": "Real Sociedad",
+        "Goles_Local": 1,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Sevilla FC",
+        "Equipo_Visitante": "Atlético de Madrid",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Real Valladolid CF",
+        "Equipo_Visitante": "Getafe CF",
+        "Goles_Local": 0,
+        "Goles_Visitante": 4,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Villarreal CF",
+        "Equipo_Visitante": "Athletic Club",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CD Leganés",
+        "Equipo_Visitante": "CA Osasuna",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Valencia CF",
+        "Equipo_Visitante": "Sevilla FC",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Sociedad",
+        "Equipo_Visitante": "RCD Mallorca",
+        "Goles_Local": 0,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Getafe CF",
+        "Equipo_Visitante": "UD Las Palmas",
+        "Goles_Local": 1,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "RC Celta",
+        "Equipo_Visitante": "RCD Espanyol de Barcelona",
+        "Goles_Local": 0,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CD Leganés",
+        "Equipo_Visitante": "FC Barcelona",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CA Osasuna",
+        "Equipo_Visitante": "Girona FC",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Deportivo Alavés",
+        "Equipo_Visitante": "Real Madrid",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Real Betis",
+        "Equipo_Visitante": "Villarreal CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Athletic Club",
+        "Equipo_Visitante": "Rayo Vallecano",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Atlético de Madrid",
+        "Equipo_Visitante": "Real Valladolid CF",
+        "Goles_Local": 4,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RCD Espanyol de Barcelona",
+        "Equipo_Visitante": "Getafe CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Rayo Vallecano",
+        "Equipo_Visitante": "Valencia CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "FC Barcelona",
+        "Equipo_Visitante": "RC Celta",
+        "Goles_Local": 4,
+        "Goles_Visitante": 3,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RCD Mallorca",
+        "Equipo_Visitante": "CD Leganés",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "UD Las Palmas",
+        "Equipo_Visitante": "Atlético de Madrid",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Valladolid CF",
+        "Equipo_Visitante": "CA Osasuna",
+        "Goles_Local": 2,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Villarreal CF",
+        "Equipo_Visitante": "Real Sociedad",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Sevilla FC",
+        "Equipo_Visitante": "Deportivo Alavés",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Real Madrid",
+        "Equipo_Visitante": "Athletic Club",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Girona FC",
+        "Equipo_Visitante": "Real Betis",
+        "Goles_Local": 1,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Valencia CF",
+        "Equipo_Visitante": "RCD Espanyol de Barcelona",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "FC Barcelona",
+        "Equipo_Visitante": "RCD Mallorca",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Athletic Club",
+        "Equipo_Visitante": "UD Las Palmas",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RC Celta",
+        "Equipo_Visitante": "Villarreal CF",
+        "Goles_Local": 3,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Getafe CF",
+        "Equipo_Visitante": "Real Madrid",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Deportivo Alavés",
+        "Equipo_Visitante": "Real Sociedad",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CA Osasuna",
+        "Equipo_Visitante": "Sevilla FC",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CD Leganés",
+        "Equipo_Visitante": "Girona FC",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Atlético de Madrid",
+        "Equipo_Visitante": "Rayo Vallecano",
+        "Goles_Local": 3,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Betis",
+        "Equipo_Visitante": "Real Valladolid CF",
+        "Goles_Local": 5,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Rayo Vallecano",
+        "Equipo_Visitante": "Getafe CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Deportivo Alavés",
+        "Equipo_Visitante": "Atlético de Madrid",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Villarreal CF",
+        "Equipo_Visitante": "CA Osasuna",
+        "Goles_Local": 4,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "UD Las Palmas",
+        "Equipo_Visitante": "Valencia CF",
+        "Goles_Local": 2,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Real Valladolid CF",
+        "Equipo_Visitante": "FC Barcelona",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Real Madrid",
+        "Equipo_Visitante": "RC Celta",
+        "Goles_Local": 3,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Sevilla FC",
+        "Equipo_Visitante": "CD Leganés",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "RCD Espanyol de Barcelona",
+        "Equipo_Visitante": "Real Betis",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Real Sociedad",
+        "Equipo_Visitante": "Athletic Club",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Girona FC",
+        "Equipo_Visitante": "RCD Mallorca",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "UD Las Palmas",
+        "Equipo_Visitante": "Rayo Vallecano",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Valencia CF",
+        "Equipo_Visitante": "Getafe CF",
+        "Goles_Local": 3,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RC Celta",
+        "Equipo_Visitante": "Sevilla FC",
+        "Goles_Local": 3,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Girona FC",
+        "Equipo_Visitante": "Villarreal CF",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "RCD Mallorca",
+        "Equipo_Visitante": "Real Valladolid CF",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Atlético de Madrid",
+        "Equipo_Visitante": "Real Sociedad",
+        "Goles_Local": 4,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CD Leganés",
+        "Equipo_Visitante": "RCD Espanyol de Barcelona",
+        "Goles_Local": 3,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "FC Barcelona",
+        "Equipo_Visitante": "Real Madrid",
+        "Goles_Local": 4,
+        "Goles_Visitante": 3,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Athletic Club",
+        "Equipo_Visitante": "Deportivo Alavés",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Betis",
+        "Equipo_Visitante": "CA Osasuna",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Real Valladolid CF",
+        "Equipo_Visitante": "Girona FC",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Real Sociedad",
+        "Equipo_Visitante": "RC Celta",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Sevilla FC",
+        "Equipo_Visitante": "UD Las Palmas",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Deportivo Alavés",
+        "Equipo_Visitante": "Valencia CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Villarreal CF",
+        "Equipo_Visitante": "CD Leganés",
+        "Goles_Local": 3,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Madrid",
+        "Equipo_Visitante": "RCD Mallorca",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CA Osasuna",
+        "Equipo_Visitante": "Atlético de Madrid",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Rayo Vallecano",
+        "Equipo_Visitante": "Real Betis",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "RCD Espanyol de Barcelona",
+        "Equipo_Visitante": "FC Barcelona",
+        "Goles_Local": 0,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Getafe CF",
+        "Equipo_Visitante": "Athletic Club",
+        "Goles_Local": 0,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Atlético de Madrid",
+        "Equipo_Visitante": "Real Betis",
+        "Goles_Local": 4,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "FC Barcelona",
+        "Equipo_Visitante": "Villarreal CF",
+        "Goles_Local": 2,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "RC Celta",
+        "Equipo_Visitante": "Rayo Vallecano",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Valencia CF",
+        "Equipo_Visitante": "Athletic Club",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "RCD Mallorca",
+        "Equipo_Visitante": "Getafe CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Real Sociedad",
+        "Equipo_Visitante": "Girona FC",
+        "Goles_Local": 3,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Sevilla FC",
+        "Equipo_Visitante": "Real Madrid",
+        "Goles_Local": 0,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Real Valladolid CF",
+        "Equipo_Visitante": "Deportivo Alavés",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "UD Las Palmas",
+        "Equipo_Visitante": "CD Leganés",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CA Osasuna",
+        "Equipo_Visitante": "RCD Espanyol de Barcelona",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Real Betis",
+        "Equipo_Visitante": "Valencia CF",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Real Madrid",
+        "Equipo_Visitante": "Real Sociedad",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CD Leganés",
+        "Equipo_Visitante": "Real Valladolid CF",
+        "Goles_Local": 3,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RCD Espanyol de Barcelona",
+        "Equipo_Visitante": "UD Las Palmas",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Deportivo Alavés",
+        "Equipo_Visitante": "CA Osasuna",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Getafe CF",
+        "Equipo_Visitante": "RC Celta",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Rayo Vallecano",
+        "Equipo_Visitante": "RCD Mallorca",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "Girona FC",
+        "Equipo_Visitante": "Atlético de Madrid",
+        "Goles_Local": 0,
+        "Goles_Visitante": 4,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "Villarreal CF",
+        "Equipo_Visitante": "Sevilla FC",
+        "Goles_Local": 4,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "Athletic Club",
+        "Equipo_Visitante": "FC Barcelona",
+        "Goles_Local": 0,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "ALBACETE",
+        "Equipo_Visitante": "ALMERIA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ALBACETE",
+        "Equipo_Visitante": "BURGOS",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ALBACETE",
+        "Equipo_Visitante": "CADIZ",
+        "Goles_Local": 3,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ALBACETE",
+        "Equipo_Visitante": "CARTAGENA",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ALBACETE",
+        "Equipo_Visitante": "CASTELLON",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ALBACETE",
+        "Equipo_Visitante": "CORDOBA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ALBACETE",
+        "Equipo_Visitante": "DEPORTIVO",
+        "Goles_Local": 2,
+        "Goles_Visitante": 5,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "ALBACETE",
+        "Equipo_Visitante": "EIBAR",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "ALBACETE",
+        "Equipo_Visitante": "ELCHE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ALBACETE",
+        "Equipo_Visitante": "ELDENSE",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "ALBACETE",
+        "Equipo_Visitante": "GRANADA",
+        "Goles_Local": 0,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "ALBACETE",
+        "Equipo_Visitante": "HUESCA",
+        "Goles_Local": 3,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ALBACETE",
+        "Equipo_Visitante": "LEVANTE",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ALBACETE",
+        "Equipo_Visitante": "MALAGA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ALBACETE",
+        "Equipo_Visitante": "MIRANDES",
+        "Goles_Local": 3,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ALBACETE",
+        "Equipo_Visitante": "OVIEDO",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ALBACETE",
+        "Equipo_Visitante": "FERROL",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ALBACETE",
+        "Equipo_Visitante": "RACING",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ALBACETE",
+        "Equipo_Visitante": "SPORTING",
+        "Goles_Local": 3,
+        "Goles_Visitante": 3,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ALBACETE",
+        "Equipo_Visitante": "TENERIFE",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ALBACETE",
+        "Equipo_Visitante": "ZARAGOZA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ALMERIA",
+        "Equipo_Visitante": "ALBACETE",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ALMERIA",
+        "Equipo_Visitante": "BURGOS",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ALMERIA",
+        "Equipo_Visitante": "CADIZ",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ALMERIA",
+        "Equipo_Visitante": "CARTAGENA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ALMERIA",
+        "Equipo_Visitante": "CASTELLON",
+        "Goles_Local": 2,
+        "Goles_Visitante": 5,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "ALMERIA",
+        "Equipo_Visitante": "CORDOBA",
+        "Goles_Local": 4,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ALMERIA",
+        "Equipo_Visitante": "DEPORTIVO",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ALMERIA",
+        "Equipo_Visitante": "EIBAR",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ALMERIA",
+        "Equipo_Visitante": "ELCHE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ALMERIA",
+        "Equipo_Visitante": "ELDENSE",
+        "Goles_Local": 5,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ALMERIA",
+        "Equipo_Visitante": "GRANADA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ALMERIA",
+        "Equipo_Visitante": "HUESCA",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ALMERIA",
+        "Equipo_Visitante": "LEVANTE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ALMERIA",
+        "Equipo_Visitante": "MALAGA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ALMERIA",
+        "Equipo_Visitante": "MIRANDES",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ALMERIA",
+        "Equipo_Visitante": "OVIEDO",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ALMERIA",
+        "Equipo_Visitante": "FERROL",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ALMERIA",
+        "Equipo_Visitante": "RACING",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ALMERIA",
+        "Equipo_Visitante": "SPORTING",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ALMERIA",
+        "Equipo_Visitante": "TENERIFE",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ALMERIA",
+        "Equipo_Visitante": "ZARAGOZA",
+        "Goles_Local": 4,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "BURGOS",
+        "Equipo_Visitante": "ALBACETE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "BURGOS",
+        "Equipo_Visitante": "ALMERIA",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "BURGOS",
+        "Equipo_Visitante": "CADIZ",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "BURGOS",
+        "Equipo_Visitante": "CARTAGENA",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "BURGOS",
+        "Equipo_Visitante": "CASTELLON",
+        "Goles_Local": 0,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "BURGOS",
+        "Equipo_Visitante": "CORDOBA",
+        "Goles_Local": 3,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "BURGOS",
+        "Equipo_Visitante": "DEPORTIVO",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "BURGOS",
+        "Equipo_Visitante": "EIBAR",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "BURGOS",
+        "Equipo_Visitante": "ELCHE",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "BURGOS",
+        "Equipo_Visitante": "ELDENSE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "BURGOS",
+        "Equipo_Visitante": "GRANADA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "BURGOS",
+        "Equipo_Visitante": "HUESCA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "BURGOS",
+        "Equipo_Visitante": "LEVANTE",
+        "Goles_Local": 2,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "BURGOS",
+        "Equipo_Visitante": "MALAGA",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "BURGOS",
+        "Equipo_Visitante": "MIRANDES",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "BURGOS",
+        "Equipo_Visitante": "OVIEDO",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "BURGOS",
+        "Equipo_Visitante": "FERROL",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "BURGOS",
+        "Equipo_Visitante": "RACING",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "BURGOS",
+        "Equipo_Visitante": "SPORTING",
+        "Goles_Local": 0,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "BURGOS",
+        "Equipo_Visitante": "TENERIFE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "BURGOS",
+        "Equipo_Visitante": "ZARAGOZA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CADIZ",
+        "Equipo_Visitante": "ALBACETE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CADIZ",
+        "Equipo_Visitante": "ALMERIA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CADIZ",
+        "Equipo_Visitante": "BURGOS",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CADIZ",
+        "Equipo_Visitante": "CARTAGENA",
+        "Goles_Local": 5,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CADIZ",
+        "Equipo_Visitante": "CASTELLON",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CADIZ",
+        "Equipo_Visitante": "CORDOBA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CADIZ",
+        "Equipo_Visitante": "DEPORTIVO",
+        "Goles_Local": 2,
+        "Goles_Visitante": 4,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CADIZ",
+        "Equipo_Visitante": "EIBAR",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CADIZ",
+        "Equipo_Visitante": "ELCHE",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CADIZ",
+        "Equipo_Visitante": "ELDENSE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CADIZ",
+        "Equipo_Visitante": "GRANADA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CADIZ",
+        "Equipo_Visitante": "HUESCA",
+        "Goles_Local": 4,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CADIZ",
+        "Equipo_Visitante": "LEVANTE",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CADIZ",
+        "Equipo_Visitante": "MALAGA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CADIZ",
+        "Equipo_Visitante": "MIRANDES",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CADIZ",
+        "Equipo_Visitante": "OVIEDO",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CADIZ",
+        "Equipo_Visitante": "FERROL",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CADIZ",
+        "Equipo_Visitante": "RACING",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CADIZ",
+        "Equipo_Visitante": "SPORTING",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CADIZ",
+        "Equipo_Visitante": "TENERIFE",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CADIZ",
+        "Equipo_Visitante": "ZARAGOZA",
+        "Goles_Local": 0,
+        "Goles_Visitante": 4,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CARTAGENA",
+        "Equipo_Visitante": "ALBACETE",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CARTAGENA",
+        "Equipo_Visitante": "ALMERIA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CARTAGENA",
+        "Equipo_Visitante": "BURGOS",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CARTAGENA",
+        "Equipo_Visitante": "CADIZ",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CARTAGENA",
+        "Equipo_Visitante": "CASTELLON",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CARTAGENA",
+        "Equipo_Visitante": "CORDOBA",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CARTAGENA",
+        "Equipo_Visitante": "DEPORTIVO",
+        "Goles_Local": 1,
+        "Goles_Visitante": 5,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CARTAGENA",
+        "Equipo_Visitante": "EIBAR",
+        "Goles_Local": 0,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CARTAGENA",
+        "Equipo_Visitante": "ELCHE",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CARTAGENA",
+        "Equipo_Visitante": "ELDENSE",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CARTAGENA",
+        "Equipo_Visitante": "GRANADA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CARTAGENA",
+        "Equipo_Visitante": "HUESCA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CARTAGENA",
+        "Equipo_Visitante": "LEVANTE",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CARTAGENA",
+        "Equipo_Visitante": "MALAGA",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CARTAGENA",
+        "Equipo_Visitante": "MIRANDES",
+        "Goles_Local": 1,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CARTAGENA",
+        "Equipo_Visitante": "OVIEDO",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CARTAGENA",
+        "Equipo_Visitante": "FERROL",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CARTAGENA",
+        "Equipo_Visitante": "RACING",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CARTAGENA",
+        "Equipo_Visitante": "SPORTING",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CARTAGENA",
+        "Equipo_Visitante": "TENERIFE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CARTAGENA",
+        "Equipo_Visitante": "ZARAGOZA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CASTELLON",
+        "Equipo_Visitante": "ALBACETE",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CASTELLON",
+        "Equipo_Visitante": "ALMERIA",
+        "Goles_Local": 4,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CASTELLON",
+        "Equipo_Visitante": "BURGOS",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CASTELLON",
+        "Equipo_Visitante": "CADIZ",
+        "Goles_Local": 1,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CASTELLON",
+        "Equipo_Visitante": "CARTAGENA",
+        "Goles_Local": 4,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CASTELLON",
+        "Equipo_Visitante": "CORDOBA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CASTELLON",
+        "Equipo_Visitante": "DEPORTIVO",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CASTELLON",
+        "Equipo_Visitante": "EIBAR",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CASTELLON",
+        "Equipo_Visitante": "ELCHE",
+        "Goles_Local": 0,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CASTELLON",
+        "Equipo_Visitante": "ELDENSE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CASTELLON",
+        "Equipo_Visitante": "GRANADA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CASTELLON",
+        "Equipo_Visitante": "HUESCA",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CASTELLON",
+        "Equipo_Visitante": "LEVANTE",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CASTELLON",
+        "Equipo_Visitante": "MALAGA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CASTELLON",
+        "Equipo_Visitante": "MIRANDES",
+        "Goles_Local": 1,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CASTELLON",
+        "Equipo_Visitante": "OVIEDO",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CASTELLON",
+        "Equipo_Visitante": "FERROL",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CASTELLON",
+        "Equipo_Visitante": "RACING",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CASTELLON",
+        "Equipo_Visitante": "SPORTING",
+        "Goles_Local": 4,
+        "Goles_Visitante": 3,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CASTELLON",
+        "Equipo_Visitante": "TENERIFE",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CASTELLON",
+        "Equipo_Visitante": "ZARAGOZA",
+        "Goles_Local": 4,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CORDOBA",
+        "Equipo_Visitante": "ALBACETE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CORDOBA",
+        "Equipo_Visitante": "ALMERIA",
+        "Goles_Local": 0,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CORDOBA",
+        "Equipo_Visitante": "BURGOS",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CORDOBA",
+        "Equipo_Visitante": "CADIZ",
+        "Goles_Local": 4,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CORDOBA",
+        "Equipo_Visitante": "CARTAGENA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CORDOBA",
+        "Equipo_Visitante": "CASTELLON",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CORDOBA",
+        "Equipo_Visitante": "DEPORTIVO",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CORDOBA",
+        "Equipo_Visitante": "EIBAR",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CORDOBA",
+        "Equipo_Visitante": "ELCHE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CORDOBA",
+        "Equipo_Visitante": "ELDENSE",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CORDOBA",
+        "Equipo_Visitante": "GRANADA",
+        "Goles_Local": 5,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CORDOBA",
+        "Equipo_Visitante": "HUESCA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CORDOBA",
+        "Equipo_Visitante": "LEVANTE",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CORDOBA",
+        "Equipo_Visitante": "MALAGA",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CORDOBA",
+        "Equipo_Visitante": "MIRANDES",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CORDOBA",
+        "Equipo_Visitante": "OVIEDO",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CORDOBA",
+        "Equipo_Visitante": "FERROL",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CORDOBA",
+        "Equipo_Visitante": "RACING",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "CORDOBA",
+        "Equipo_Visitante": "SPORTING",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "CORDOBA",
+        "Equipo_Visitante": "TENERIFE",
+        "Goles_Local": 3,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "CORDOBA",
+        "Equipo_Visitante": "ZARAGOZA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "DEPORTIVO",
+        "Equipo_Visitante": "ALBACETE",
+        "Goles_Local": 5,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "DEPORTIVO",
+        "Equipo_Visitante": "ALMERIA",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "DEPORTIVO",
+        "Equipo_Visitante": "BURGOS",
+        "Goles_Local": 0,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "DEPORTIVO",
+        "Equipo_Visitante": "CADIZ",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "DEPORTIVO",
+        "Equipo_Visitante": "CARTAGENA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "DEPORTIVO",
+        "Equipo_Visitante": "CASTELLON",
+        "Goles_Local": 5,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "DEPORTIVO",
+        "Equipo_Visitante": "CORDOBA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "DEPORTIVO",
+        "Equipo_Visitante": "EIBAR",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "DEPORTIVO",
+        "Equipo_Visitante": "ELCHE",
+        "Goles_Local": 0,
+        "Goles_Visitante": 4,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "DEPORTIVO",
+        "Equipo_Visitante": "ELDENSE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "DEPORTIVO",
+        "Equipo_Visitante": "GRANADA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "DEPORTIVO",
+        "Equipo_Visitante": "HUESCA",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "DEPORTIVO",
+        "Equipo_Visitante": "LEVANTE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "DEPORTIVO",
+        "Equipo_Visitante": "MALAGA",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "DEPORTIVO",
+        "Equipo_Visitante": "MIRANDES",
+        "Goles_Local": 0,
+        "Goles_Visitante": 4,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "DEPORTIVO",
+        "Equipo_Visitante": "OVIEDO",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "DEPORTIVO",
+        "Equipo_Visitante": "FERROL",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "DEPORTIVO",
+        "Equipo_Visitante": "RACING",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "DEPORTIVO",
+        "Equipo_Visitante": "SPORTING",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "DEPORTIVO",
+        "Equipo_Visitante": "TENERIFE",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "DEPORTIVO",
+        "Equipo_Visitante": "ZARAGOZA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "EIBAR",
+        "Equipo_Visitante": "ALBACETE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "EIBAR",
+        "Equipo_Visitante": "ALMERIA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "EIBAR",
+        "Equipo_Visitante": "BURGOS",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "EIBAR",
+        "Equipo_Visitante": "CADIZ",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "EIBAR",
+        "Equipo_Visitante": "CARTAGENA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "EIBAR",
+        "Equipo_Visitante": "CASTELLON",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "EIBAR",
+        "Equipo_Visitante": "CORDOBA",
+        "Goles_Local": 4,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "EIBAR",
+        "Equipo_Visitante": "DEPORTIVO",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "EIBAR",
+        "Equipo_Visitante": "ELCHE",
+        "Goles_Local": 0,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "EIBAR",
+        "Equipo_Visitante": "ELDENSE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "EIBAR",
+        "Equipo_Visitante": "GRANADA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "EIBAR",
+        "Equipo_Visitante": "HUESCA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "EIBAR",
+        "Equipo_Visitante": "LEVANTE",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "EIBAR",
+        "Equipo_Visitante": "MALAGA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "EIBAR",
+        "Equipo_Visitante": "MIRANDES",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "EIBAR",
+        "Equipo_Visitante": "OVIEDO",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "EIBAR",
+        "Equipo_Visitante": "FERROL",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "EIBAR",
+        "Equipo_Visitante": "RACING",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "EIBAR",
+        "Equipo_Visitante": "SPORTING",
+        "Goles_Local": 1,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "EIBAR",
+        "Equipo_Visitante": "TENERIFE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "EIBAR",
+        "Equipo_Visitante": "ZARAGOZA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ELCHE",
+        "Equipo_Visitante": "ALBACETE",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ELCHE",
+        "Equipo_Visitante": "ALMERIA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "ELCHE",
+        "Equipo_Visitante": "BURGOS",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ELCHE",
+        "Equipo_Visitante": "CADIZ",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ELCHE",
+        "Equipo_Visitante": "CARTAGENA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ELCHE",
+        "Equipo_Visitante": "CASTELLON",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ELCHE",
+        "Equipo_Visitante": "CORDOBA",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ELCHE",
+        "Equipo_Visitante": "DEPORTIVO",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ELCHE",
+        "Equipo_Visitante": "EIBAR",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ELCHE",
+        "Equipo_Visitante": "ELDENSE",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ELCHE",
+        "Equipo_Visitante": "GRANADA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ELCHE",
+        "Equipo_Visitante": "HUESCA",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "ELCHE",
+        "Equipo_Visitante": "LEVANTE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "ELCHE",
+        "Equipo_Visitante": "MALAGA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ELCHE",
+        "Equipo_Visitante": "MIRANDES",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ELCHE",
+        "Equipo_Visitante": "OVIEDO",
+        "Goles_Local": 4,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ELCHE",
+        "Equipo_Visitante": "FERROL",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ELCHE",
+        "Equipo_Visitante": "RACING",
+        "Goles_Local": 3,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ELCHE",
+        "Equipo_Visitante": "SPORTING",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ELCHE",
+        "Equipo_Visitante": "TENERIFE",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ELCHE",
+        "Equipo_Visitante": "ZARAGOZA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ELDENSE",
+        "Equipo_Visitante": "ALBACETE",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ELDENSE",
+        "Equipo_Visitante": "ALMERIA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ELDENSE",
+        "Equipo_Visitante": "BURGOS",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ELDENSE",
+        "Equipo_Visitante": "CADIZ",
+        "Goles_Local": 1,
+        "Goles_Visitante": 4,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "ELDENSE",
+        "Equipo_Visitante": "CARTAGENA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "ELDENSE",
+        "Equipo_Visitante": "CASTELLON",
+        "Goles_Local": 2,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "ELDENSE",
+        "Equipo_Visitante": "CORDOBA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ELDENSE",
+        "Equipo_Visitante": "DEPORTIVO",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ELDENSE",
+        "Equipo_Visitante": "EIBAR",
+        "Goles_Local": 1,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "ELDENSE",
+        "Equipo_Visitante": "ELCHE",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ELDENSE",
+        "Equipo_Visitante": "GRANADA",
+        "Goles_Local": 0,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "ELDENSE",
+        "Equipo_Visitante": "HUESCA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ELDENSE",
+        "Equipo_Visitante": "LEVANTE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "ELDENSE",
+        "Equipo_Visitante": "MALAGA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ELDENSE",
+        "Equipo_Visitante": "MIRANDES",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ELDENSE",
+        "Equipo_Visitante": "OVIEDO",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ELDENSE",
+        "Equipo_Visitante": "FERROL",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ELDENSE",
+        "Equipo_Visitante": "RACING",
+        "Goles_Local": 3,
+        "Goles_Visitante": 3,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ELDENSE",
+        "Equipo_Visitante": "SPORTING",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "ELDENSE",
+        "Equipo_Visitante": "TENERIFE",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ELDENSE",
+        "Equipo_Visitante": "ZARAGOZA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "GRANADA",
+        "Equipo_Visitante": "ALBACETE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "GRANADA",
+        "Equipo_Visitante": "ALMERIA",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "GRANADA",
+        "Equipo_Visitante": "BURGOS",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "GRANADA",
+        "Equipo_Visitante": "CADIZ",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "GRANADA",
+        "Equipo_Visitante": "CARTAGENA",
+        "Goles_Local": 4,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "GRANADA",
+        "Equipo_Visitante": "CASTELLON",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "GRANADA",
+        "Equipo_Visitante": "CORDOBA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "GRANADA",
+        "Equipo_Visitante": "DEPORTIVO",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "GRANADA",
+        "Equipo_Visitante": "EIBAR",
+        "Goles_Local": 0,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "GRANADA",
+        "Equipo_Visitante": "ELCHE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "GRANADA",
+        "Equipo_Visitante": "ELDENSE",
+        "Goles_Local": 3,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "GRANADA",
+        "Equipo_Visitante": "HUESCA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "GRANADA",
+        "Equipo_Visitante": "LEVANTE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "GRANADA",
+        "Equipo_Visitante": "MALAGA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "GRANADA",
+        "Equipo_Visitante": "MIRANDES",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "GRANADA",
+        "Equipo_Visitante": "OVIEDO",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "GRANADA",
+        "Equipo_Visitante": "FERROL",
+        "Goles_Local": 3,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "GRANADA",
+        "Equipo_Visitante": "RACING",
+        "Goles_Local": 3,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "GRANADA",
+        "Equipo_Visitante": "SPORTING",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "GRANADA",
+        "Equipo_Visitante": "TENERIFE",
+        "Goles_Local": 4,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "GRANADA",
+        "Equipo_Visitante": "ZARAGOZA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "HUESCA",
+        "Equipo_Visitante": "ALBACETE",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "HUESCA",
+        "Equipo_Visitante": "ALMERIA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "HUESCA",
+        "Equipo_Visitante": "BURGOS",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "HUESCA",
+        "Equipo_Visitante": "CADIZ",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "HUESCA",
+        "Equipo_Visitante": "CARTAGENA",
+        "Goles_Local": 4,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "HUESCA",
+        "Equipo_Visitante": "CASTELLON",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "HUESCA",
+        "Equipo_Visitante": "CORDOBA",
+        "Goles_Local": 4,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "HUESCA",
+        "Equipo_Visitante": "DEPORTIVO",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "HUESCA",
+        "Equipo_Visitante": "EIBAR",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "HUESCA",
+        "Equipo_Visitante": "ELCHE",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "HUESCA",
+        "Equipo_Visitante": "ELDENSE",
+        "Goles_Local": 3,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "HUESCA",
+        "Equipo_Visitante": "GRANADA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "HUESCA",
+        "Equipo_Visitante": "LEVANTE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "HUESCA",
+        "Equipo_Visitante": "MALAGA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "HUESCA",
+        "Equipo_Visitante": "MIRANDES",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "HUESCA",
+        "Equipo_Visitante": "OVIEDO",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "HUESCA",
+        "Equipo_Visitante": "FERROL",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "HUESCA",
+        "Equipo_Visitante": "RACING",
+        "Goles_Local": 1,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "HUESCA",
+        "Equipo_Visitante": "SPORTING",
+        "Goles_Local": 3,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "HUESCA",
+        "Equipo_Visitante": "TENERIFE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "HUESCA",
+        "Equipo_Visitante": "ZARAGOZA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "LEVANTE",
+        "Equipo_Visitante": "ALBACETE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "LEVANTE",
+        "Equipo_Visitante": "ALMERIA",
+        "Goles_Local": 4,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "LEVANTE",
+        "Equipo_Visitante": "BURGOS",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "LEVANTE",
+        "Equipo_Visitante": "CADIZ",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "LEVANTE",
+        "Equipo_Visitante": "CARTAGENA",
+        "Goles_Local": 3,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "LEVANTE",
+        "Equipo_Visitante": "CASTELLON",
+        "Goles_Local": 3,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "LEVANTE",
+        "Equipo_Visitante": "CORDOBA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "LEVANTE",
+        "Equipo_Visitante": "DEPORTIVO",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "LEVANTE",
+        "Equipo_Visitante": "EIBAR",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "LEVANTE",
+        "Equipo_Visitante": "ELCHE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "LEVANTE",
+        "Equipo_Visitante": "ELDENSE",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "LEVANTE",
+        "Equipo_Visitante": "GRANADA",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "LEVANTE",
+        "Equipo_Visitante": "HUESCA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "LEVANTE",
+        "Equipo_Visitante": "MALAGA",
+        "Goles_Local": 4,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "LEVANTE",
+        "Equipo_Visitante": "MIRANDES",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "LEVANTE",
+        "Equipo_Visitante": "OVIEDO",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "LEVANTE",
+        "Equipo_Visitante": "FERROL",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "LEVANTE",
+        "Equipo_Visitante": "RACING",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "LEVANTE",
+        "Equipo_Visitante": "SPORTING",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "LEVANTE",
+        "Equipo_Visitante": "TENERIFE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "LEVANTE",
+        "Equipo_Visitante": "ZARAGOZA",
+        "Goles_Local": 5,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "MALAGA",
+        "Equipo_Visitante": "ALBACETE",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "MALAGA",
+        "Equipo_Visitante": "ALMERIA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "MALAGA",
+        "Equipo_Visitante": "BURGOS",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "MALAGA",
+        "Equipo_Visitante": "CADIZ",
+        "Goles_Local": 0,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "MALAGA",
+        "Equipo_Visitante": "CARTAGENA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "MALAGA",
+        "Equipo_Visitante": "CASTELLON",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "MALAGA",
+        "Equipo_Visitante": "CORDOBA",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "MALAGA",
+        "Equipo_Visitante": "DEPORTIVO",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "MALAGA",
+        "Equipo_Visitante": "EIBAR",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "MALAGA",
+        "Equipo_Visitante": "ELCHE",
+        "Goles_Local": 0,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "MALAGA",
+        "Equipo_Visitante": "ELDENSE",
+        "Goles_Local": 3,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "MALAGA",
+        "Equipo_Visitante": "GRANADA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "MALAGA",
+        "Equipo_Visitante": "HUESCA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "MALAGA",
+        "Equipo_Visitante": "LEVANTE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "MALAGA",
+        "Equipo_Visitante": "MIRANDES",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "MALAGA",
+        "Equipo_Visitante": "OVIEDO",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "MALAGA",
+        "Equipo_Visitante": "FERROL",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "MALAGA",
+        "Equipo_Visitante": "RACING",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "MALAGA",
+        "Equipo_Visitante": "SPORTING",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "MALAGA",
+        "Equipo_Visitante": "TENERIFE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "MALAGA",
+        "Equipo_Visitante": "ZARAGOZA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "MIRANDES",
+        "Equipo_Visitante": "ALBACETE",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "MIRANDES",
+        "Equipo_Visitante": "ALMERIA",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "MIRANDES",
+        "Equipo_Visitante": "BURGOS",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "MIRANDES",
+        "Equipo_Visitante": "CADIZ",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "MIRANDES",
+        "Equipo_Visitante": "CARTAGENA",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "MIRANDES",
+        "Equipo_Visitante": "CASTELLON",
+        "Goles_Local": 3,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "MIRANDES",
+        "Equipo_Visitante": "CORDOBA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "MIRANDES",
+        "Equipo_Visitante": "DEPORTIVO",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "MIRANDES",
+        "Equipo_Visitante": "EIBAR",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "MIRANDES",
+        "Equipo_Visitante": "ELCHE",
+        "Goles_Local": 3,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "MIRANDES",
+        "Equipo_Visitante": "ELDENSE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "MIRANDES",
+        "Equipo_Visitante": "GRANADA",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "MIRANDES",
+        "Equipo_Visitante": "HUESCA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "MIRANDES",
+        "Equipo_Visitante": "LEVANTE",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "MIRANDES",
+        "Equipo_Visitante": "MALAGA",
+        "Goles_Local": 3,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "MIRANDES",
+        "Equipo_Visitante": "OVIEDO",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "MIRANDES",
+        "Equipo_Visitante": "FERROL",
+        "Goles_Local": 4,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "MIRANDES",
+        "Equipo_Visitante": "RACING",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "MIRANDES",
+        "Equipo_Visitante": "SPORTING",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "MIRANDES",
+        "Equipo_Visitante": "TENERIFE",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "MIRANDES",
+        "Equipo_Visitante": "ZARAGOZA",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "OVIEDO",
+        "Equipo_Visitante": "ALBACETE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "OVIEDO",
+        "Equipo_Visitante": "ALMERIA",
+        "Goles_Local": 3,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "OVIEDO",
+        "Equipo_Visitante": "BURGOS",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "OVIEDO",
+        "Equipo_Visitante": "CADIZ",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "OVIEDO",
+        "Equipo_Visitante": "CARTAGENA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "OVIEDO",
+        "Equipo_Visitante": "CASTELLON",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "OVIEDO",
+        "Equipo_Visitante": "CORDOBA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "OVIEDO",
+        "Equipo_Visitante": "DEPORTIVO",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "OVIEDO",
+        "Equipo_Visitante": "EIBAR",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "OVIEDO",
+        "Equipo_Visitante": "ELCHE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "OVIEDO",
+        "Equipo_Visitante": "ELDENSE",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "OVIEDO",
+        "Equipo_Visitante": "GRANADA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "OVIEDO",
+        "Equipo_Visitante": "HUESCA",
+        "Goles_Local": 0,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "OVIEDO",
+        "Equipo_Visitante": "LEVANTE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "OVIEDO",
+        "Equipo_Visitante": "MALAGA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "OVIEDO",
+        "Equipo_Visitante": "MIRANDES",
+        "Goles_Local": 4,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "OVIEDO",
+        "Equipo_Visitante": "FERROL",
+        "Goles_Local": 3,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "OVIEDO",
+        "Equipo_Visitante": "RACING",
+        "Goles_Local": 1,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "OVIEDO",
+        "Equipo_Visitante": "SPORTING",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "OVIEDO",
+        "Equipo_Visitante": "TENERIFE",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "OVIEDO",
+        "Equipo_Visitante": "ZARAGOZA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "FERROL",
+        "Equipo_Visitante": "ALBACETE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 4,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "FERROL",
+        "Equipo_Visitante": "ALMERIA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 4,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "FERROL",
+        "Equipo_Visitante": "BURGOS",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "FERROL",
+        "Equipo_Visitante": "CADIZ",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "FERROL",
+        "Equipo_Visitante": "CARTAGENA",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "FERROL",
+        "Equipo_Visitante": "CASTELLON",
+        "Goles_Local": 1,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "FERROL",
+        "Equipo_Visitante": "CORDOBA",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "FERROL",
+        "Equipo_Visitante": "DEPORTIVO",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "FERROL",
+        "Equipo_Visitante": "EIBAR",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "FERROL",
+        "Equipo_Visitante": "ELCHE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "FERROL",
+        "Equipo_Visitante": "ELDENSE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "FERROL",
+        "Equipo_Visitante": "GRANADA",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "FERROL",
+        "Equipo_Visitante": "HUESCA",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "FERROL",
+        "Equipo_Visitante": "LEVANTE",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "FERROL",
+        "Equipo_Visitante": "MALAGA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "FERROL",
+        "Equipo_Visitante": "MIRANDES",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "FERROL",
+        "Equipo_Visitante": "OVIEDO",
+        "Goles_Local": 1,
+        "Goles_Visitante": 5,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "FERROL",
+        "Equipo_Visitante": "RACING",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "FERROL",
+        "Equipo_Visitante": "SPORTING",
+        "Goles_Local": 0,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "FERROL",
+        "Equipo_Visitante": "TENERIFE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "FERROL",
+        "Equipo_Visitante": "ZARAGOZA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "RACING",
+        "Equipo_Visitante": "ALBACETE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "RACING",
+        "Equipo_Visitante": "ALMERIA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "RACING",
+        "Equipo_Visitante": "BURGOS",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RACING",
+        "Equipo_Visitante": "CADIZ",
+        "Goles_Local": 2,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "RACING",
+        "Equipo_Visitante": "CARTAGENA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "RACING",
+        "Equipo_Visitante": "CASTELLON",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "RACING",
+        "Equipo_Visitante": "CORDOBA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RACING",
+        "Equipo_Visitante": "DEPORTIVO",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RACING",
+        "Equipo_Visitante": "EIBAR",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "RACING",
+        "Equipo_Visitante": "ELCHE",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RACING",
+        "Equipo_Visitante": "ELDENSE",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "RACING",
+        "Equipo_Visitante": "GRANADA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RACING",
+        "Equipo_Visitante": "HUESCA",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "RACING",
+        "Equipo_Visitante": "LEVANTE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RACING",
+        "Equipo_Visitante": "MALAGA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RACING",
+        "Equipo_Visitante": "MIRANDES",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "RACING",
+        "Equipo_Visitante": "OVIEDO",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "RACING",
+        "Equipo_Visitante": "FERROL",
+        "Goles_Local": 6,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RACING",
+        "Equipo_Visitante": "SPORTING",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RACING",
+        "Equipo_Visitante": "TENERIFE",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "RACING",
+        "Equipo_Visitante": "ZARAGOZA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "SPORTING",
+        "Equipo_Visitante": "ALBACETE",
+        "Goles_Local": 0,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "SPORTING",
+        "Equipo_Visitante": "ALMERIA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "SPORTING",
+        "Equipo_Visitante": "BURGOS",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "SPORTING",
+        "Equipo_Visitante": "CADIZ",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "SPORTING",
+        "Equipo_Visitante": "CARTAGENA",
+        "Goles_Local": 3,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "SPORTING",
+        "Equipo_Visitante": "CASTELLON",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "SPORTING",
+        "Equipo_Visitante": "CORDOBA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "SPORTING",
+        "Equipo_Visitante": "DEPORTIVO",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "SPORTING",
+        "Equipo_Visitante": "EIBAR",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "SPORTING",
+        "Equipo_Visitante": "ELCHE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "SPORTING",
+        "Equipo_Visitante": "ELDENSE",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "SPORTING",
+        "Equipo_Visitante": "GRANADA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "SPORTING",
+        "Equipo_Visitante": "HUESCA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "SPORTING",
+        "Equipo_Visitante": "LEVANTE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "SPORTING",
+        "Equipo_Visitante": "MALAGA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "SPORTING",
+        "Equipo_Visitante": "MIRANDES",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "SPORTING",
+        "Equipo_Visitante": "OVIEDO",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "SPORTING",
+        "Equipo_Visitante": "FERROL",
+        "Goles_Local": 1,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "SPORTING",
+        "Equipo_Visitante": "RACING",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "SPORTING",
+        "Equipo_Visitante": "TENERIFE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "SPORTING",
+        "Equipo_Visitante": "ZARAGOZA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "TENERIFE",
+        "Equipo_Visitante": "ALBACETE",
+        "Goles_Local": 3,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "TENERIFE",
+        "Equipo_Visitante": "ALMERIA",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "TENERIFE",
+        "Equipo_Visitante": "BURGOS",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "TENERIFE",
+        "Equipo_Visitante": "CADIZ",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "TENERIFE",
+        "Equipo_Visitante": "CARTAGENA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "TENERIFE",
+        "Equipo_Visitante": "CASTELLON",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "TENERIFE",
+        "Equipo_Visitante": "CORDOBA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "TENERIFE",
+        "Equipo_Visitante": "DEPORTIVO",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "TENERIFE",
+        "Equipo_Visitante": "EIBAR",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "TENERIFE",
+        "Equipo_Visitante": "ELCHE",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "TENERIFE",
+        "Equipo_Visitante": "ELDENSE",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "TENERIFE",
+        "Equipo_Visitante": "GRANADA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "TENERIFE",
+        "Equipo_Visitante": "HUESCA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "TENERIFE",
+        "Equipo_Visitante": "LEVANTE",
+        "Goles_Local": 0,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "TENERIFE",
+        "Equipo_Visitante": "MALAGA",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "TENERIFE",
+        "Equipo_Visitante": "MIRANDES",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "TENERIFE",
+        "Equipo_Visitante": "OVIEDO",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "TENERIFE",
+        "Equipo_Visitante": "FERROL",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "TENERIFE",
+        "Equipo_Visitante": "RACING",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "TENERIFE",
+        "Equipo_Visitante": "SPORTING",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "TENERIFE",
+        "Equipo_Visitante": "ZARAGOZA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "ZARAGOZA",
+        "Equipo_Visitante": "ALBACETE",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "ZARAGOZA",
+        "Equipo_Visitante": "ALMERIA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "ZARAGOZA",
+        "Equipo_Visitante": "BURGOS",
+        "Goles_Local": 0,
+        "Goles_Visitante": 1,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "ZARAGOZA",
+        "Equipo_Visitante": "CADIZ",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ZARAGOZA",
+        "Equipo_Visitante": "CARTAGENA",
+        "Goles_Local": 3,
+        "Goles_Visitante": 2,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ZARAGOZA",
+        "Equipo_Visitante": "CASTELLON",
+        "Goles_Local": 1,
+        "Goles_Visitante": 2,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "ZARAGOZA",
+        "Equipo_Visitante": "CORDOBA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ZARAGOZA",
+        "Equipo_Visitante": "DEPORTIVO",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ZARAGOZA",
+        "Equipo_Visitante": "EIBAR",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ZARAGOZA",
+        "Equipo_Visitante": "ELCHE",
+        "Goles_Local": 3,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ZARAGOZA",
+        "Equipo_Visitante": "ELDENSE",
+        "Goles_Local": 2,
+        "Goles_Visitante": 4,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "ZARAGOZA",
+        "Equipo_Visitante": "GRANADA",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ZARAGOZA",
+        "Equipo_Visitante": "HUESCA",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ZARAGOZA",
+        "Equipo_Visitante": "LEVANTE",
+        "Goles_Local": 2,
+        "Goles_Visitante": 1,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ZARAGOZA",
+        "Equipo_Visitante": "MALAGA",
+        "Goles_Local": 0,
+        "Goles_Visitante": 0,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ZARAGOZA",
+        "Equipo_Visitante": "MIRANDES",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ZARAGOZA",
+        "Equipo_Visitante": "OVIEDO",
+        "Goles_Local": 2,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "ZARAGOZA",
+        "Equipo_Visitante": "FERROL",
+        "Goles_Local": 1,
+        "Goles_Visitante": 0,
+        "Resultado": 1
+    },
+    {
+        "Equipo_Local": "ZARAGOZA",
+        "Equipo_Visitante": "RACING",
+        "Goles_Local": 2,
+        "Goles_Visitante": 3,
+        "Resultado": -1
+    },
+    {
+        "Equipo_Local": "ZARAGOZA",
+        "Equipo_Visitante": "SPORTING",
+        "Goles_Local": 1,
+        "Goles_Visitante": 1,
+        "Resultado": 0
+    },
+    {
+        "Equipo_Local": "ZARAGOZA",
+        "Equipo_Visitante": "TENERIFE",
+        "Goles_Local": 2,
+        "Goles_Visitante": 2,
+        "Resultado": 0
+    }
+]
