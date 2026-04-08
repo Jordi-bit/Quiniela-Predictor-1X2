@@ -4,33 +4,57 @@ import json
 import os
 
 # Dataset
-file_path = "todas_divisiones_2024_2025.csv"
-if not os.path.exists(file_path):
-    print("Error: Dataset no encontrado.")
-    exit()
+try:
+    df_hist = pd.read_csv("historico_5_anos.csv")
+    # Asegurarnos de que el histórico tiene columna Peso
+    if 'Peso' not in df_hist.columns: df_hist['Peso'] = 0.5
+    df = df_hist
+    print(f"Entrenando con {len(df)} partidos históricos...")
+except:
+    print("No se encontró historico_5_anos.csv, usando datos actuales...")
+    df = pd.read_csv("todas_divisiones_2024_2025.csv")
+    df['Peso'] = 1.0
 
-df = pd.read_csv(file_path)
-
+# Extraer características (features)
 def extract_features(df):
-    X, y = [], []
+    X, y, w = [], [], []
     stats = {}
+    
+    # Ordenar por fecha si es posible para que las estadísticas evolucionen
     for _, row in df.iterrows():
         l, v = row['Equipo_Local'], row['Equipo_Visitante']
         if l not in stats: stats[l] = {'g': [], 'r': []}
         if v not in stats: stats[v] = {'g': [], 'r': []}
-        hL, hV = stats[l], stats[v]
+        
+        # Calcular features basadas en lo que pasó ANTES de este partido
+        hL = stats[l]
+        hV = stats[v]
+        
         gLp = np.mean(hL['g']) if hL['g'] else 0
         gVp = np.mean(hV['g']) if hV['g'] else 0
-        X.append([gLp, gVp, gLp-gVp, hL['r'].count(1), hL['r'].count(0), hL['r'].count(-1), 0, hL['r'][-1] if hL['r'] else 0, 1])
+        
+        X.append([
+            gLp, gVp, gLp - gVp,
+            hL['r'].count(1), hL['r'].count(0), hL['r'].count(-1),
+            hV['r'].count(1), hV['r'].count(0), hV['r'].count(-1),
+        ])
+        
+        # Target
         res = row['Resultado']
         if res == 1: y.append([1, 0, 0])
         elif res == 0: y.append([0, 1, 0])
         else: y.append([0, 0, 1])
-        stats[l]['g'].append(row['Goles_Local']); stats[l]['r'].append(row['Resultado'])
-        stats[v]['g'].append(row['Goles_Visitante']); stats[v]['r'].append(-row['Resultado'])
-    return np.array(X), np.array(y)
+        
+        # Peso
+        w.append(row.get('Peso', 1.0))
+        
+        # Actualizar estadísticas para el siguiente partido
+        hL['g'].append(row['Goles_Local']); hV['g'].append(row['Goles_Visitante'])
+        hL['r'].append(row['Resultado']); hV['r'].append(-row['Resultado'])
+        
+    return np.array(X), np.array(y), np.array(w).reshape(-1, 1)
 
-X_train, y_train = extract_features(df)
+X_train, y_train, weights = extract_features(df)
 
 # Estandarización básica
 X_mean = X_train.mean(axis=0)
@@ -59,7 +83,7 @@ def softmax(x):
 
 # Entrenamiento
 lr = 0.01
-epochs = 200
+epochs = 500
 for epoch in range(epochs):
     # Forward
     z1 = X_train @ W1 + b1
@@ -69,13 +93,13 @@ for epoch in range(epochs):
     z3 = a2 @ W3 + b3
     a3 = softmax(z3)
     
-    # Loss (Cross Entropy)
-    if epoch % 50 == 0:
-        loss = -np.mean(np.sum(y_train * np.log(a3 + 1e-8), axis=1))
+    # Loss (Cross Entropy con pesos)
+    if epoch % 100 == 0:
+        loss = -np.mean(weights * np.sum(y_train * np.log(a3 + 1e-8), axis=1))
         print(f"Epoch {epoch}, Loss: {loss:.4f}")
         
-    # Backward
-    dz3 = a3 - y_train
+    # Backward (Multiplicamos gradiente por pesos)
+    dz3 = (a3 - y_train) * weights
     dW3 = a2.T @ dz3 / len(X_train)
     db3 = np.sum(dz3, axis=0) / len(X_train)
     

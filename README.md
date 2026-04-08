@@ -42,7 +42,18 @@ python -m http.server 8000
 ```
 Luego visita `http://localhost:8000` en tu navegador.
 
-## 📦 Versión Portable (.exe)
+## 📦 Generar Versión Portable (.exe)
+Para crear o actualizar el ejecutable portable (por ejemplo, después de entrenar con nuevos datos):
+1. Asegúrate de tener instalado PyInstaller:
+   ```bash
+   pip install pyinstaller
+   ```
+2. Ejecuta el comando de compilación:
+   ```bash
+   python -m PyInstaller --onefile --noconsole --add-data "index.html;." --add-data "app.js;." --add-data "historial.json;." --add-data "web_model;web_model" app.py
+   ```
+3. El archivo resultante estará en `dist/app.exe`.
+
 Si deseas ejecutar la aplicación en un equipo con Windows sin instalar Python ni ninguna librería, puedes usar el ejecutable portable:
 1. Ve a la carpeta `dist/`.
 2. Haz doble clic en `app.exe`.

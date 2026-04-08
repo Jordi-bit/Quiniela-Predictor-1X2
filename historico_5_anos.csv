@@ -1,0 +1,5053 @@
+Equipo_Local,Equipo_Visitante,Goles_Local,Goles_Visitante,Resultado,Peso
+Athletic Club,FC Barcelona,1,0,1,0.1
+RC Celta,Real Madrid,1,3,-1,0.1
+Valencia CF,Real Sociedad,1,1,0,0.1
+RCD Mallorca,EIBAR,2,1,1,0.1
+CD Leganés,CA Osasuna,0,1,-1,0.1
+Villarreal CF,GRANADA,4,4,0,0.1
+Deportivo Alavés,LEVANTE,1,0,1,0.1
+RCD Espanyol de Barcelona,Sevilla FC,0,2,-1,0.1
+Betis,Real Valladolid CF,1,2,-1,0.1
+Atlético de Madrid,Getafe CF,1,0,1,0.1
+GRANADA,Sevilla FC,0,1,-1,0.1
+LEVANTE,Villarreal CF,2,1,1,0.1
+CA Osasuna,EIBAR,0,0,0,0.1
+Real Madrid,Real Valladolid CF,1,1,0,0.1
+RC Celta,Valencia CF,1,0,1,0.1
+Getafe CF,Athletic Club,1,1,0,0.1
+Deportivo Alavés,RCD Espanyol de Barcelona,0,0,0,0.1
+RCD Mallorca,Real Sociedad,0,1,-1,0.1
+CD Leganés,Atlético de Madrid,0,1,-1,0.1
+FC Barcelona,Betis,5,2,1,0.1
+Sevilla FC,RC Celta,1,1,0,0.1
+Athletic Club,Real Sociedad,2,0,1,0.1
+CA Osasuna,FC Barcelona,2,2,0,0.1
+Getafe CF,Deportivo Alavés,1,1,0,0.1
+LEVANTE,Real Valladolid CF,2,0,1,0.1
+Betis,CD Leganés,2,1,1,0.1
+Valencia CF,RCD Mallorca,2,0,1,0.1
+Atlético de Madrid,EIBAR,3,2,1,0.1
+RCD Espanyol de Barcelona,GRANADA,0,3,-1,0.1
+Villarreal CF,Real Madrid,2,2,0,0.1
+RCD Mallorca,Athletic Club,0,0,0,0.1
+Real Madrid,LEVANTE,3,2,1,0.1
+CD Leganés,Villarreal CF,0,3,-1,0.1
+Real Sociedad,Atlético de Madrid,2,0,1,0.1
+FC Barcelona,Valencia CF,5,2,1,0.1
+EIBAR,RCD Espanyol de Barcelona,1,2,-1,0.1
+Deportivo Alavés,Sevilla FC,0,1,-1,0.1
+RC Celta,GRANADA,0,2,-1,0.1
+Real Valladolid CF,CA Osasuna,1,1,0,0.1
+Betis,Getafe CF,1,1,0,0.1
+CA Osasuna,Betis,0,0,0,0.1
+Villarreal CF,Real Valladolid CF,2,0,1,0.1
+LEVANTE,EIBAR,0,0,0,0.1
+Atlético de Madrid,RC Celta,0,0,0,0.1
+GRANADA,FC Barcelona,2,0,1,0.1
+Getafe CF,RCD Mallorca,4,2,1,0.1
+RCD Espanyol de Barcelona,Real Sociedad,1,3,-1,0.1
+Valencia CF,CD Leganés,1,1,0,0.1
+Athletic Club,Deportivo Alavés,2,0,1,0.1
+Sevilla FC,Real Madrid,0,1,-1,0.1
+Real Valladolid CF,GRANADA,1,1,0,0.1
+Betis,LEVANTE,3,1,1,0.1
+FC Barcelona,Villarreal CF,2,1,1,0.1
+CD Leganés,Athletic Club,1,1,0,0.1
+RCD Mallorca,Atlético de Madrid,0,2,-1,0.1
+Valencia CF,Getafe CF,3,3,0,0.1
+Real Madrid,CA Osasuna,2,0,1,0.1
+EIBAR,Sevilla FC,3,2,1,0.1
+RC Celta,RCD Espanyol de Barcelona,1,1,0,0.1
+Real Sociedad,Deportivo Alavés,3,0,1,0.1
+Villarreal CF,Betis,5,1,1,0.1
+Athletic Club,Valencia CF,0,1,-1,0.1
+Getafe CF,FC Barcelona,0,2,-1,0.1
+GRANADA,CD Leganés,1,0,1,0.1
+Atlético de Madrid,Real Madrid,0,0,0,0.1
+RCD Espanyol de Barcelona,Real Valladolid CF,0,2,-1,0.1
+EIBAR,RC Celta,2,0,1,0.1
+Deportivo Alavés,RCD Mallorca,2,0,1,0.1
+LEVANTE,CA Osasuna,1,1,0,0.1
+Sevilla FC,Real Sociedad,3,2,1,0.1
+Betis,EIBAR,1,1,0,0.1
+CD Leganés,LEVANTE,1,2,-1,0.1
+Real Madrid,GRANADA,4,2,1,0.1
+Valencia CF,Deportivo Alavés,2,1,1,0.1
+CA Osasuna,Villarreal CF,2,1,1,0.1
+RCD Mallorca,RCD Espanyol de Barcelona,2,0,1,0.1
+RC Celta,Athletic Club,1,0,1,0.1
+Real Valladolid CF,Atlético de Madrid,0,0,0,0.1
+Real Sociedad,Getafe CF,1,2,-1,0.1
+FC Barcelona,Sevilla FC,4,0,1,0.1
+GRANADA,CA Osasuna,1,0,1,0.1
+EIBAR,FC Barcelona,0,3,-1,0.1
+Atlético de Madrid,Valencia CF,1,1,0,0.1
+Getafe CF,CD Leganés,2,0,1,0.1
+RCD Mallorca,Real Madrid,1,0,1,0.1
+Deportivo Alavés,RC Celta,2,0,1,0.1
+Real Sociedad,Betis,3,1,1,0.1
+RCD Espanyol de Barcelona,Villarreal CF,0,1,-1,0.1
+Athletic Club,Real Valladolid CF,1,1,0,0.1
+Sevilla FC,LEVANTE,1,0,1,0.1
+Villarreal CF,Deportivo Alavés,4,1,1,0.1
+CD Leganés,RCD Mallorca,1,0,1,0.1
+Real Valladolid CF,EIBAR,2,0,1,0.1
+Atlético de Madrid,Athletic Club,2,0,1,0.1
+RC Celta,Real Sociedad,0,1,-1,0.1
+GRANADA,Betis,1,0,1,0.1
+LEVANTE,RCD Espanyol de Barcelona,0,1,-1,0.1
+Sevilla FC,Getafe CF,2,0,1,0.1
+CA Osasuna,Valencia CF,3,1,1,0.1
+Deportivo Alavés,Atlético de Madrid,1,1,0,0.1
+FC Barcelona,Real Valladolid CF,5,1,1,0.1
+Real Sociedad,LEVANTE,1,2,-1,0.1
+Valencia CF,Sevilla FC,1,1,0,0.1
+Athletic Club,RCD Espanyol de Barcelona,3,0,1,0.1
+Betis,RC Celta,2,1,1,0.1
+Real Madrid,CD Leganés,5,0,1,0.1
+EIBAR,Villarreal CF,2,1,1,0.1
+RCD Mallorca,CA Osasuna,2,2,0,0.1
+Getafe CF,GRANADA,3,1,1,0.1
+RCD Espanyol de Barcelona,Valencia CF,1,2,-1,0.1
+LEVANTE,FC Barcelona,3,1,1,0.1
+Sevilla FC,Atlético de Madrid,1,1,0,0.1
+Real Madrid,Betis,0,0,0,0.1
+Real Valladolid CF,RCD Mallorca,3,0,1,0.1
+Villarreal CF,Athletic Club,0,0,0,0.1
+CA Osasuna,Deportivo Alavés,4,2,1,0.1
+RC Celta,Getafe CF,0,1,-1,0.1
+CD Leganés,EIBAR,1,2,-1,0.1
+GRANADA,Real Sociedad,1,2,-1,0.1
+Real Sociedad,CD Leganés,1,1,0,0.1
+Deportivo Alavés,Real Valladolid CF,3,0,1,0.1
+Valencia CF,GRANADA,2,0,1,0.1
+EIBAR,Real Madrid,0,4,-1,0.1
+FC Barcelona,RC Celta,4,1,1,0.1
+RCD Mallorca,Villarreal CF,3,1,1,0.1
+Athletic Club,LEVANTE,2,1,1,0.1
+Atlético de Madrid,RCD Espanyol de Barcelona,3,1,1,0.1
+Getafe CF,CA Osasuna,0,0,0,0.1
+Betis,Sevilla FC,1,2,-1,0.1
+LEVANTE,RCD Mallorca,2,1,1,0.1
+CD Leganés,FC Barcelona,1,2,-1,0.1
+Betis,Valencia CF,2,1,1,0.1
+GRANADA,Atlético de Madrid,1,1,0,0.1
+Real Madrid,Real Sociedad,3,1,1,0.1
+RCD Espanyol de Barcelona,Getafe CF,1,1,0,0.1
+CA Osasuna,Athletic Club,1,2,-1,0.1
+EIBAR,Deportivo Alavés,0,2,-1,0.1
+Villarreal CF,RC Celta,1,3,-1,0.1
+Real Valladolid CF,Sevilla FC,0,1,-1,0.1
+RC Celta,Real Valladolid CF,0,0,0,0.1
+Deportivo Alavés,Real Madrid,1,2,-1,0.1
+Real Sociedad,EIBAR,4,1,1,0.1
+RCD Mallorca,Betis,1,2,-1,0.1
+Valencia CF,Villarreal CF,2,1,1,0.1
+Sevilla FC,CD Leganés,1,0,1,0.1
+Athletic Club,GRANADA,2,0,1,0.1
+RCD Espanyol de Barcelona,CA Osasuna,2,4,-1,0.1
+Getafe CF,LEVANTE,4,0,1,0.1
+Atlético de Madrid,FC Barcelona,0,1,-1,0.1
+Villarreal CF,Atlético de Madrid,0,0,0,0.1
+Real Madrid,RCD Espanyol de Barcelona,2,0,1,0.1
+GRANADA,Deportivo Alavés,3,0,1,0.1
+LEVANTE,Valencia CF,2,4,-1,0.1
+FC Barcelona,RCD Mallorca,5,2,1,0.1
+EIBAR,Getafe CF,0,1,-1,0.1
+Betis,Athletic Club,3,2,1,0.1
+Real Valladolid CF,Real Sociedad,0,0,0,0.1
+CD Leganés,RC Celta,3,2,1,0.1
+CA Osasuna,Sevilla FC,1,1,0,0.1
+Deportivo Alavés,CD Leganés,1,1,0,0.1
+GRANADA,LEVANTE,1,2,-1,0.1
+Real Sociedad,FC Barcelona,2,2,0,0.1
+Athletic Club,EIBAR,0,0,0,0.1
+Atlético de Madrid,CA Osasuna,2,0,1,0.1
+Getafe CF,Real Valladolid CF,2,0,1,0.1
+RC Celta,RCD Mallorca,2,2,0,0.1
+RCD Espanyol de Barcelona,Betis,2,2,0,0.1
+Sevilla FC,Villarreal CF,1,2,-1,0.1
+Valencia CF,Real Madrid,1,1,0,0.1
+FC Barcelona,Real Madrid,0,0,0,0.1
+EIBAR,GRANADA,3,0,1,0.1
+RCD Mallorca,Sevilla FC,0,2,-1,0.1
+FC Barcelona,Deportivo Alavés,4,1,1,0.1
+Villarreal CF,Getafe CF,1,0,1,0.1
+Real Valladolid CF,Valencia CF,1,1,0,0.1
+CD Leganés,RCD Espanyol de Barcelona,2,0,1,0.1
+CA Osasuna,Real Sociedad,3,4,-1,0.1
+Betis,Atlético de Madrid,1,2,-1,0.1
+LEVANTE,RC Celta,3,1,1,0.1
+Real Madrid,Athletic Club,0,0,0,0.1
+Real Valladolid CF,CD Leganés,2,2,0,0.1
+Sevilla FC,Athletic Club,1,1,0,0.1
+Valencia CF,EIBAR,1,0,1,0.1
+Getafe CF,Real Madrid,0,3,-1,0.1
+Atlético de Madrid,LEVANTE,2,1,1,0.1
+RCD Espanyol de Barcelona,FC Barcelona,2,2,0,0.1
+GRANADA,RCD Mallorca,1,0,1,0.1
+Real Sociedad,Villarreal CF,1,2,-1,0.1
+Deportivo Alavés,Betis,1,1,0,0.1
+RC Celta,CA Osasuna,1,1,0,0.1
+CD Leganés,Getafe CF,0,3,-1,0.1
+LEVANTE,Deportivo Alavés,0,1,-1,0.1
+Real Madrid,Sevilla FC,2,1,1,0.1
+CA Osasuna,Real Valladolid CF,0,0,0,0.1
+EIBAR,Atlético de Madrid,2,0,1,0.1
+RCD Mallorca,Valencia CF,4,1,1,0.1
+Betis,Real Sociedad,3,0,1,0.1
+Villarreal CF,RCD Espanyol de Barcelona,1,2,-1,0.1
+Athletic Club,RC Celta,1,1,0,0.1
+FC Barcelona,GRANADA,1,0,1,0.1
+CA Osasuna,LEVANTE,2,0,1,0.1
+RCD Espanyol de Barcelona,Athletic Club,1,1,0,0.1
+Valencia CF,FC Barcelona,2,0,1,0.1
+Deportivo Alavés,Villarreal CF,1,2,-1,0.1
+Sevilla FC,GRANADA,2,0,1,0.1
+Atlético de Madrid,CD Leganés,0,0,0,0.1
+RC Celta,EIBAR,0,0,0,0.1
+Getafe CF,Betis,1,0,1,0.1
+Real Sociedad,RCD Mallorca,3,0,1,0.1
+Real Valladolid CF,Real Madrid,0,1,-1,0.1
+GRANADA,RCD Espanyol de Barcelona,2,1,1,0.1
+Real Madrid,Atlético de Madrid,1,0,1,0.1
+RCD Mallorca,Real Valladolid CF,0,1,-1,0.1
+Valencia CF,RC Celta,1,0,1,0.1
+CD Leganés,Real Sociedad,2,1,1,0.1
+EIBAR,Betis,1,1,0,0.1
+Athletic Club,Getafe CF,0,2,-1,0.1
+Sevilla FC,Deportivo Alavés,1,1,0,0.1
+Villarreal CF,CA Osasuna,3,1,1,0.1
+FC Barcelona,LEVANTE,2,1,1,0.1
+Deportivo Alavés,EIBAR,2,1,1,0.1
+LEVANTE,CD Leganés,2,0,1,0.1
+Getafe CF,Valencia CF,3,0,1,0.1
+Real Valladolid CF,Villarreal CF,1,1,0,0.1
+Atlético de Madrid,GRANADA,1,0,1,0.1
+RCD Espanyol de Barcelona,RCD Mallorca,1,0,1,0.1
+Real Sociedad,Athletic Club,2,1,1,0.1
+CA Osasuna,Real Madrid,1,4,-1,0.1
+RC Celta,Sevilla FC,2,1,1,0.1
+Betis,FC Barcelona,2,3,-1,0.1
+Valencia CF,Atlético de Madrid,2,2,0,0.1
+RCD Mallorca,Deportivo Alavés,1,0,1,0.1
+FC Barcelona,Getafe CF,2,1,1,0.1
+Villarreal CF,LEVANTE,2,1,1,0.1
+GRANADA,Real Valladolid CF,2,1,1,0.1
+Sevilla FC,RCD Espanyol de Barcelona,2,2,0,0.1
+CD Leganés,Betis,0,0,0,0.1
+Athletic Club,CA Osasuna,0,1,-1,0.1
+Real Madrid,RC Celta,2,2,0,0.1
+Betis,RCD Mallorca,3,3,0,0.1
+RC Celta,CD Leganés,1,0,1,0.1
+FC Barcelona,EIBAR,5,0,1,0.1
+Real Sociedad,Valencia CF,3,0,1,0.1
+LEVANTE,Real Madrid,1,0,1,0.1
+CA Osasuna,GRANADA,0,3,-1,0.1
+Deportivo Alavés,Athletic Club,2,1,1,0.1
+Real Valladolid CF,RCD Espanyol de Barcelona,2,1,1,0.1
+Getafe CF,Sevilla FC,0,3,-1,0.1
+Atlético de Madrid,Villarreal CF,3,1,1,0.1
+Real Sociedad,Real Valladolid CF,1,0,1,0.1
+EIBAR,LEVANTE,3,0,1,0.1
+Valencia CF,Betis,2,1,1,0.1
+CD Leganés,Deportivo Alavés,1,1,0,0.1
+GRANADA,RC Celta,0,0,0,0.1
+Sevilla FC,CA Osasuna,3,2,1,0.1
+Athletic Club,Villarreal CF,1,0,1,0.1
+RCD Espanyol de Barcelona,Atlético de Madrid,1,1,0,0.1
+RCD Mallorca,Getafe CF,0,1,-1,0.1
+Real Madrid,FC Barcelona,2,0,1,0.1
+Deportivo Alavés,Valencia CF,1,1,0,0.1
+EIBAR,RCD Mallorca,1,2,-1,0.1
+Atlético de Madrid,Sevilla FC,2,2,0,0.1
+FC Barcelona,Real Sociedad,1,0,1,0.1
+Getafe CF,RC Celta,0,0,0,0.1
+CA Osasuna,RCD Espanyol de Barcelona,1,0,1,0.1
+Real Valladolid CF,Athletic Club,1,4,-1,0.1
+LEVANTE,GRANADA,1,1,0,0.1
+Villarreal CF,CD Leganés,1,2,-1,0.1
+Betis,Real Madrid,2,1,1,0.1
+EIBAR,Real Sociedad,1,2,-1,0.1
+Sevilla FC,Betis,2,0,1,0.1
+GRANADA,Getafe CF,2,1,1,0.1
+Valencia CF,LEVANTE,1,1,0,0.1
+RCD Espanyol de Barcelona,Deportivo Alavés,2,0,1,0.1
+RC Celta,Villarreal CF,0,1,-1,0.1
+CD Leganés,Real Valladolid CF,1,2,-1,0.1
+RCD Mallorca,FC Barcelona,0,4,-1,0.1
+Athletic Club,Atlético de Madrid,1,1,0,0.1
+Real Madrid,EIBAR,3,1,1,0.1
+Real Sociedad,CA Osasuna,1,1,0,0.1
+LEVANTE,Sevilla FC,1,1,0,0.1
+Betis,GRANADA,2,2,0,0.1
+Getafe CF,RCD Espanyol de Barcelona,0,0,0,0.1
+Villarreal CF,RCD Mallorca,1,0,1,0.1
+FC Barcelona,CD Leganés,2,0,1,0.1
+EIBAR,Athletic Club,2,2,0,0.1
+Real Valladolid CF,RC Celta,0,0,0,0.1
+CA Osasuna,Atlético de Madrid,0,5,-1,0.1
+Deportivo Alavés,Real Sociedad,2,0,1,0.1
+Real Madrid,Valencia CF,3,0,1,0.1
+GRANADA,Villarreal CF,0,1,-1,0.1
+RCD Mallorca,CD Leganés,1,1,0,0.1
+Sevilla FC,FC Barcelona,0,0,0,0.1
+RCD Espanyol de Barcelona,LEVANTE,1,3,-1,0.1
+Athletic Club,Betis,1,0,1,0.1
+Getafe CF,EIBAR,1,1,0,0.1
+Atlético de Madrid,Real Valladolid CF,1,0,1,0.1
+RC Celta,Deportivo Alavés,6,0,1,0.1
+Valencia CF,CA Osasuna,2,0,1,0.1
+Real Sociedad,Real Madrid,1,2,-1,0.1
+Villarreal CF,Sevilla FC,2,2,0,0.1
+CD Leganés,GRANADA,0,0,0,0.1
+LEVANTE,Atlético de Madrid,0,1,-1,0.1
+Real Valladolid CF,Getafe CF,1,1,0,0.1
+FC Barcelona,Athletic Club,1,0,1,0.1
+Deportivo Alavés,CA Osasuna,0,1,-1,0.1
+Real Sociedad,RC Celta,0,1,-1,0.1
+Real Madrid,RCD Mallorca,2,0,1,0.1
+EIBAR,Valencia CF,1,0,1,0.1
+Betis,RCD Espanyol de Barcelona,1,0,1,0.1
+Sevilla FC,Real Valladolid CF,1,1,0,0.1
+Athletic Club,RCD Mallorca,3,1,1,0.1
+RC Celta,FC Barcelona,2,2,0,0.1
+CA Osasuna,CD Leganés,2,1,1,0.1
+Atlético de Madrid,Deportivo Alavés,2,1,1,0.1
+LEVANTE,Betis,4,2,1,0.1
+Villarreal CF,Valencia CF,2,0,1,0.1
+GRANADA,EIBAR,1,2,-1,0.1
+RCD Espanyol de Barcelona,Real Madrid,0,1,-1,0.1
+Getafe CF,Real Sociedad,2,1,1,0.1
+RCD Mallorca,RC Celta,5,1,1,0.1
+CD Leganés,Sevilla FC,0,3,-1,0.1
+FC Barcelona,Atlético de Madrid,2,2,0,0.1
+Deportivo Alavés,GRANADA,0,2,-1,0.1
+Valencia CF,Athletic Club,0,2,-1,0.1
+Betis,Villarreal CF,0,2,-1,0.1
+Real Valladolid CF,LEVANTE,0,0,0,0.1
+EIBAR,CA Osasuna,0,2,-1,0.1
+Real Sociedad,RCD Espanyol de Barcelona,2,1,1,0.1
+Real Madrid,Getafe CF,1,0,1,0.1
+Atlético de Madrid,RCD Mallorca,3,0,1,0.1
+RC Celta,Betis,1,1,0,0.1
+Real Valladolid CF,Deportivo Alavés,1,0,1,0.1
+GRANADA,Valencia CF,2,2,0,0.1
+Athletic Club,Real Madrid,0,1,-1,0.1
+RCD Espanyol de Barcelona,CD Leganés,0,1,-1,0.1
+CA Osasuna,Getafe CF,0,0,0,0.1
+Villarreal CF,FC Barcelona,1,4,-1,0.1
+LEVANTE,Real Sociedad,1,1,0,0.1
+Sevilla FC,EIBAR,1,0,1,0.1
+Valencia CF,Real Valladolid CF,2,1,1,0.1
+RC Celta,Atlético de Madrid,1,1,0,0.1
+Betis,CA Osasuna,3,0,1,0.1
+Getafe CF,Villarreal CF,1,3,-1,0.1
+FC Barcelona,RCD Espanyol de Barcelona,1,0,1,0.1
+EIBAR,CD Leganés,0,0,0,0.1
+RCD Mallorca,LEVANTE,2,0,1,0.1
+Athletic Club,Sevilla FC,1,2,-1,0.1
+Real Sociedad,GRANADA,2,3,-1,0.1
+Real Madrid,Deportivo Alavés,2,0,1,0.1
+CA Osasuna,RC Celta,2,1,1,0.1
+Real Valladolid CF,FC Barcelona,0,1,-1,0.1
+Atlético de Madrid,Betis,1,0,1,0.1
+RCD Espanyol de Barcelona,EIBAR,0,2,-1,0.1
+LEVANTE,Athletic Club,1,2,-1,0.1
+CD Leganés,Valencia CF,1,0,1,0.1
+Sevilla FC,RCD Mallorca,2,0,1,0.1
+Deportivo Alavés,Getafe CF,0,0,0,0.1
+Villarreal CF,Real Sociedad,1,2,-1,0.1
+GRANADA,Real Madrid,1,2,-1,0.1
+EIBAR,Real Valladolid CF,3,1,1,0.1
+Athletic Club,CD Leganés,0,2,-1,0.1
+FC Barcelona,CA Osasuna,1,2,-1,0.1
+Betis,Deportivo Alavés,1,2,-1,0.1
+RC Celta,LEVANTE,2,3,-1,0.1
+Getafe CF,Atlético de Madrid,0,2,-1,0.1
+RCD Mallorca,GRANADA,1,2,-1,0.1
+Real Madrid,Villarreal CF,2,1,1,0.1
+Real Sociedad,Sevilla FC,0,0,0,0.1
+Valencia CF,RCD Espanyol de Barcelona,1,0,1,0.1
+Deportivo Alavés,FC Barcelona,0,5,-1,0.1
+Real Valladolid CF,Betis,2,0,1,0.1
+Villarreal CF,EIBAR,4,0,1,0.1
+Atlético de Madrid,Real Sociedad,1,1,0,0.1
+RCD Espanyol de Barcelona,RC Celta,0,0,0,0.1
+GRANADA,Athletic Club,4,0,1,0.1
+CD Leganés,Real Madrid,2,2,0,0.1
+LEVANTE,Getafe CF,1,0,1,0.1
+CA Osasuna,RCD Mallorca,2,2,0,0.1
+Sevilla FC,Valencia CF,1,0,1,0.1
+EIBAR,RC Celta,0,0,0,0.2
+GRANADA,Athletic Club,2,0,1,0.2
+CADIZ,CA Osasuna,0,2,-1,0.2
+Deportivo Alavés,Betis,0,1,-1,0.2
+Real Valladolid CF,Real Sociedad,1,1,0,0.2
+Villarreal CF,HUESCA,1,1,0,0.2
+Valencia CF,LEVANTE,4,2,1,0.2
+Villarreal CF,EIBAR,2,1,1,0.2
+Getafe CF,CA Osasuna,1,0,1,0.2
+RC Celta,Valencia CF,2,1,1,0.2
+HUESCA,CADIZ,0,2,-1,0.2
+Betis,Real Valladolid CF,2,0,1,0.2
+GRANADA,Deportivo Alavés,2,1,1,0.2
+Real Sociedad,Real Madrid,0,0,0,0.2
+Deportivo Alavés,Getafe CF,0,0,0,0.2
+Valencia CF,HUESCA,1,1,0,0.2
+ELCHE,Real Sociedad,0,3,-1,0.2
+Betis,Real Madrid,2,3,-1,0.2
+CA Osasuna,LEVANTE,1,3,-1,0.2
+EIBAR,Athletic Club,1,2,-1,0.2
+Atlético de Madrid,GRANADA,6,1,1,0.2
+CADIZ,Sevilla FC,1,3,-1,0.2
+Real Valladolid CF,RC Celta,1,1,0,0.2
+FC Barcelona,Villarreal CF,4,0,1,0.2
+Real Sociedad,Valencia CF,0,1,-1,0.2
+Getafe CF,Betis,3,0,1,0.2
+HUESCA,Atlético de Madrid,0,0,0,0.2
+Villarreal CF,Deportivo Alavés,3,1,1,0.2
+EIBAR,ELCHE,0,1,-1,0.2
+Real Madrid,Real Valladolid CF,1,0,1,0.2
+Athletic Club,CADIZ,0,1,-1,0.2
+Sevilla FC,LEVANTE,1,0,1,0.2
+RC Celta,FC Barcelona,0,3,-1,0.2
+Real Valladolid CF,EIBAR,1,2,-1,0.2
+Atlético de Madrid,Villarreal CF,0,0,0,0.2
+ELCHE,HUESCA,0,0,0,0.2
+Real Sociedad,Getafe CF,3,0,1,0.2
+Valencia CF,Betis,0,2,-1,0.2
+CA Osasuna,RC Celta,2,0,1,0.2
+Deportivo Alavés,Athletic Club,1,0,1,0.2
+LEVANTE,Real Madrid,0,2,-1,0.2
+CADIZ,GRANADA,1,1,0,0.2
+FC Barcelona,Sevilla FC,1,1,0,0.2
+GRANADA,Sevilla FC,1,0,1,0.2
+RC Celta,Atlético de Madrid,0,2,-1,0.2
+Real Madrid,CADIZ,0,1,-1,0.2
+Getafe CF,FC Barcelona,1,0,1,0.2
+EIBAR,CA Osasuna,0,0,0,0.2
+Athletic Club,LEVANTE,2,0,1,0.2
+Villarreal CF,Valencia CF,2,1,1,0.2
+Deportivo Alavés,ELCHE,0,2,-1,0.2
+HUESCA,Real Valladolid CF,2,2,0,0.2
+Betis,Real Sociedad,0,3,-1,0.2
+ELCHE,Valencia CF,2,1,1,0.2
+FC Barcelona,Real Madrid,1,3,-1,0.2
+CA Osasuna,Athletic Club,1,0,1,0.2
+Sevilla FC,EIBAR,0,1,-1,0.2
+Atlético de Madrid,Betis,2,0,1,0.2
+Real Valladolid CF,Deportivo Alavés,0,2,-1,0.2
+CADIZ,Villarreal CF,0,0,0,0.2
+Getafe CF,GRANADA,0,1,-1,0.2
+Real Sociedad,HUESCA,4,1,1,0.2
+LEVANTE,RC Celta,1,1,0,0.2
+EIBAR,CADIZ,0,2,-1,0.2
+Real Madrid,HUESCA,4,1,1,0.2
+Athletic Club,Sevilla FC,2,1,1,0.2
+CA Osasuna,Atlético de Madrid,1,3,-1,0.2
+Deportivo Alavés,FC Barcelona,1,1,0,0.2
+Betis,ELCHE,3,1,1,0.2
+RC Celta,Real Sociedad,1,4,-1,0.2
+GRANADA,LEVANTE,1,1,0,0.2
+Valencia CF,Getafe CF,2,2,0,0.2
+Villarreal CF,Real Valladolid CF,2,0,1,0.2
+ELCHE,RC Celta,1,1,0,0.2
+HUESCA,EIBAR,1,1,0,0.2
+FC Barcelona,Betis,5,2,1,0.2
+Sevilla FC,CA Osasuna,1,0,1,0.2
+Atlético de Madrid,CADIZ,4,0,1,0.2
+Getafe CF,Villarreal CF,1,3,-1,0.2
+Real Sociedad,GRANADA,2,0,1,0.2
+LEVANTE,Deportivo Alavés,1,1,0,0.2
+Real Valladolid CF,Athletic Club,2,1,1,0.2
+Valencia CF,Real Madrid,4,1,1,0.2
+CA Osasuna,HUESCA,1,1,0,0.2
+LEVANTE,ELCHE,1,1,0,0.2
+Villarreal CF,Real Madrid,1,1,0,0.2
+Sevilla FC,RC Celta,4,2,1,0.2
+Atlético de Madrid,FC Barcelona,1,0,1,0.2
+EIBAR,Getafe CF,0,0,0,0.2
+CADIZ,Real Sociedad,0,1,-1,0.2
+GRANADA,Real Valladolid CF,1,3,-1,0.2
+Deportivo Alavés,Valencia CF,2,2,0,0.2
+Athletic Club,Betis,4,0,1,0.2
+Real Valladolid CF,LEVANTE,1,1,0,0.2
+ELCHE,CADIZ,1,1,0,0.2
+Valencia CF,Atlético de Madrid,0,1,-1,0.2
+HUESCA,Sevilla FC,0,1,-1,0.2
+Real Madrid,Deportivo Alavés,1,2,-1,0.2
+FC Barcelona,CA Osasuna,4,0,1,0.2
+Getafe CF,Athletic Club,1,1,0,0.2
+RC Celta,GRANADA,3,1,1,0.2
+Real Sociedad,Villarreal CF,1,1,0,0.2
+Betis,EIBAR,0,2,-1,0.2
+Athletic Club,RC Celta,0,2,-1,0.2
+LEVANTE,Getafe CF,3,0,1,0.2
+Sevilla FC,Real Madrid,0,1,-1,0.2
+Atlético de Madrid,Real Valladolid CF,2,0,1,0.2
+CADIZ,FC Barcelona,2,1,1,0.2
+GRANADA,HUESCA,3,3,0,0.2
+CA Osasuna,Betis,0,2,-1,0.2
+Villarreal CF,ELCHE,0,0,0,0.2
+Deportivo Alavés,Real Sociedad,0,0,0,0.2
+EIBAR,Valencia CF,0,0,0,0.2
+Real Valladolid CF,CA Osasuna,3,2,1,0.2
+Valencia CF,Athletic Club,2,2,0,0.2
+Getafe CF,Sevilla FC,0,1,-1,0.2
+HUESCA,Deportivo Alavés,1,0,1,0.2
+Real Madrid,Atlético de Madrid,2,0,1,0.2
+Real Sociedad,EIBAR,1,1,0,0.2
+Betis,Villarreal CF,1,1,0,0.2
+ELCHE,GRANADA,0,1,-1,0.2
+FC Barcelona,LEVANTE,1,0,1,0.2
+RC Celta,CADIZ,4,0,1,0.2
+Real Madrid,Athletic Club,3,1,1,0.2
+FC Barcelona,Real Sociedad,2,1,1,0.2
+Athletic Club,HUESCA,2,0,1,0.2
+Atlético de Madrid,ELCHE,3,1,1,0.2
+FC Barcelona,Valencia CF,2,2,0,0.2
+LEVANTE,Real Sociedad,2,1,1,0.2
+CA Osasuna,Villarreal CF,1,3,-1,0.2
+Sevilla FC,Real Valladolid CF,1,1,0,0.2
+RC Celta,Deportivo Alavés,2,0,1,0.2
+GRANADA,Betis,2,0,1,0.2
+CADIZ,Getafe CF,0,2,-1,0.2
+EIBAR,Real Madrid,1,3,-1,0.2
+ELCHE,CA Osasuna,2,2,0,0.2
+Valencia CF,Sevilla FC,0,1,-1,0.2
+HUESCA,LEVANTE,1,1,0,0.2
+Real Sociedad,Atlético de Madrid,0,2,-1,0.2
+Real Valladolid CF,FC Barcelona,0,3,-1,0.2
+Villarreal CF,Athletic Club,1,1,0,0.2
+Getafe CF,RC Celta,1,1,0,0.2
+Real Madrid,GRANADA,2,0,1,0.2
+Deportivo Alavés,EIBAR,2,1,1,0.2
+Betis,CADIZ,1,0,1,0.2
+Sevilla FC,Villarreal CF,2,0,1,0.2
+FC Barcelona,EIBAR,1,1,0,0.2
+CADIZ,Real Valladolid CF,0,0,0,0.2
+LEVANTE,Betis,4,3,1,0.2
+GRANADA,Valencia CF,2,1,1,0.2
+Atlético de Madrid,Getafe CF,1,0,1,0.2
+RC Celta,HUESCA,2,1,1,0.2
+ELCHE,Real Madrid,1,1,0,0.2
+Athletic Club,Real Sociedad,0,1,-1,0.2
+CA Osasuna,Deportivo Alavés,1,1,0,0.2
+Villarreal CF,LEVANTE,2,1,1,0.2
+Betis,Sevilla FC,1,1,0,0.2
+Getafe CF,Real Valladolid CF,0,1,-1,0.2
+Real Madrid,RC Celta,2,0,1,0.2
+Athletic Club,ELCHE,1,0,1,0.2
+Deportivo Alavés,Atlético de Madrid,1,2,-1,0.2
+EIBAR,GRANADA,2,0,1,0.2
+Real Sociedad,CA Osasuna,1,1,0,0.2
+HUESCA,FC Barcelona,0,1,-1,0.2
+Valencia CF,CADIZ,1,1,0,0.2
+Athletic Club,FC Barcelona,2,3,-1,0.2
+RC Celta,Villarreal CF,0,4,-1,0.2
+Sevilla FC,Real Sociedad,3,2,1,0.2
+GRANADA,FC Barcelona,0,4,-1,0.2
+CA Osasuna,Real Madrid,0,0,0,0.2
+LEVANTE,EIBAR,2,1,1,0.2
+CADIZ,Deportivo Alavés,3,1,1,0.2
+Real Valladolid CF,Valencia CF,0,1,-1,0.2
+ELCHE,Getafe CF,1,3,-1,0.2
+HUESCA,Betis,0,2,-1,0.2
+GRANADA,CA Osasuna,2,0,1,0.2
+Atlético de Madrid,Sevilla FC,2,0,1,0.2
+CADIZ,LEVANTE,2,2,0,0.2
+Real Valladolid CF,ELCHE,2,2,0,0.2
+Deportivo Alavés,Sevilla FC,1,2,-1,0.2
+Getafe CF,HUESCA,1,0,1,0.2
+Betis,RC Celta,2,1,1,0.2
+Villarreal CF,GRANADA,2,2,0,0.2
+Valencia CF,CA Osasuna,1,1,0,0.2
+EIBAR,Atlético de Madrid,1,2,-1,0.2
+LEVANTE,Real Valladolid CF,2,2,0,0.2
+HUESCA,Villarreal CF,0,0,0,0.2
+Sevilla FC,CADIZ,3,0,1,0.2
+Real Sociedad,Betis,2,2,0,0.2
+Deportivo Alavés,Real Madrid,1,4,-1,0.2
+CA Osasuna,GRANADA,3,1,1,0.2
+ELCHE,FC Barcelona,0,2,-1,0.2
+RC Celta,EIBAR,1,1,0,0.2
+Atlético de Madrid,Valencia CF,3,1,1,0.2
+Athletic Club,Getafe CF,5,1,1,0.2
+Real Valladolid CF,HUESCA,1,3,-1,0.2
+EIBAR,Sevilla FC,0,2,-1,0.2
+Real Madrid,LEVANTE,1,2,-1,0.2
+Valencia CF,ELCHE,1,0,1,0.2
+Villarreal CF,Real Sociedad,1,1,0,0.2
+Getafe CF,Deportivo Alavés,0,0,0,0.2
+CADIZ,Atlético de Madrid,2,4,-1,0.2
+GRANADA,RC Celta,0,0,0,0.2
+FC Barcelona,Athletic Club,2,1,1,0.2
+Betis,CA Osasuna,1,0,1,0.2
+Deportivo Alavés,Real Valladolid CF,1,0,1,0.2
+LEVANTE,GRANADA,2,2,0,0.2
+HUESCA,Real Madrid,1,2,-1,0.2
+ELCHE,Villarreal CF,2,2,0,0.2
+Sevilla FC,Getafe CF,3,0,1,0.2
+Real Sociedad,CADIZ,4,1,1,0.2
+Athletic Club,Valencia CF,1,1,0,0.2
+CA Osasuna,EIBAR,2,1,1,0.2
+Betis,FC Barcelona,2,3,-1,0.2
+Atlético de Madrid,RC Celta,2,2,0,0.2
+Real Madrid,Getafe CF,2,0,1,0.2
+RC Celta,ELCHE,3,1,1,0.2
+GRANADA,Atlético de Madrid,1,2,-1,0.2
+Sevilla FC,HUESCA,1,0,1,0.2
+EIBAR,Real Valladolid CF,1,1,0,0.2
+FC Barcelona,Deportivo Alavés,5,1,1,0.2
+Getafe CF,Real Sociedad,0,1,-1,0.2
+Real Madrid,Valencia CF,2,0,1,0.2
+LEVANTE,CA Osasuna,0,1,-1,0.2
+Villarreal CF,Betis,1,2,-1,0.2
+CADIZ,Athletic Club,0,4,-1,0.2
+LEVANTE,Atlético de Madrid,1,1,0,0.2
+Betis,Getafe CF,1,0,1,0.2
+ELCHE,EIBAR,1,0,1,0.2
+Atlético de Madrid,LEVANTE,0,2,-1,0.2
+Valencia CF,RC Celta,2,0,1,0.2
+Real Valladolid CF,Real Madrid,0,1,-1,0.2
+FC Barcelona,CADIZ,1,1,0,0.2
+Real Sociedad,Deportivo Alavés,4,0,1,0.2
+HUESCA,GRANADA,3,2,1,0.2
+Athletic Club,Villarreal CF,1,1,0,0.2
+CA Osasuna,Sevilla FC,0,2,-1,0.2
+FC Barcelona,ELCHE,3,0,1,0.2
+LEVANTE,Athletic Club,1,1,0,0.2
+EIBAR,HUESCA,1,1,0,0.2
+Sevilla FC,FC Barcelona,0,2,-1,0.2
+Deportivo Alavés,CA Osasuna,0,1,-1,0.2
+Getafe CF,Valencia CF,3,0,1,0.2
+RC Celta,Real Valladolid CF,1,1,0,0.2
+CADIZ,Betis,0,1,-1,0.2
+GRANADA,ELCHE,2,1,1,0.2
+Villarreal CF,Atlético de Madrid,0,2,-1,0.2
+Real Madrid,Real Sociedad,1,1,0,0.2
+Valencia CF,Villarreal CF,2,1,1,0.2
+Real Valladolid CF,Getafe CF,2,1,1,0.2
+ELCHE,Sevilla FC,2,1,1,0.2
+CADIZ,EIBAR,1,0,1,0.2
+CA Osasuna,FC Barcelona,0,2,-1,0.2
+HUESCA,RC Celta,3,4,-1,0.2
+Atlético de Madrid,Real Madrid,1,1,0,0.2
+Real Sociedad,LEVANTE,1,0,1,0.2
+Athletic Club,GRANADA,2,1,1,0.2
+Betis,Deportivo Alavés,3,2,1,0.2
+Atlético de Madrid,Athletic Club,2,1,1,0.2
+LEVANTE,Valencia CF,1,0,1,0.2
+Deportivo Alavés,CADIZ,1,1,0,0.2
+Real Madrid,ELCHE,2,1,1,0.2
+CA Osasuna,Real Valladolid CF,0,0,0,0.2
+Getafe CF,Atlético de Madrid,0,0,0,0.2
+RC Celta,Athletic Club,0,0,0,0.2
+GRANADA,Real Sociedad,1,0,1,0.2
+EIBAR,Villarreal CF,1,3,-1,0.2
+Sevilla FC,Betis,1,0,1,0.2
+FC Barcelona,HUESCA,4,1,1,0.2
+Sevilla FC,ELCHE,2,0,1,0.2
+Betis,LEVANTE,2,0,1,0.2
+Athletic Club,EIBAR,1,1,0,0.2
+RC Celta,Real Madrid,1,3,-1,0.2
+HUESCA,CA Osasuna,0,0,0,0.2
+Real Valladolid CF,Sevilla FC,1,1,0,0.2
+Getafe CF,ELCHE,1,1,0,0.2
+Valencia CF,GRANADA,2,1,1,0.2
+Villarreal CF,CADIZ,2,1,1,0.2
+Atlético de Madrid,Deportivo Alavés,1,0,1,0.2
+Real Sociedad,FC Barcelona,1,6,-1,0.2
+LEVANTE,HUESCA,0,2,-1,0.2
+GRANADA,Villarreal CF,0,3,-1,0.2
+Real Madrid,EIBAR,2,0,1,0.2
+CA Osasuna,Getafe CF,0,0,0,0.2
+Deportivo Alavés,RC Celta,1,3,-1,0.2
+ELCHE,Betis,1,1,0,0.2
+CADIZ,Valencia CF,2,1,1,0.2
+Sevilla FC,Atlético de Madrid,1,0,1,0.2
+FC Barcelona,Real Valladolid CF,1,0,1,0.2
+Real Sociedad,Athletic Club,1,1,0,0.2
+HUESCA,ELCHE,3,1,1,0.2
+Getafe CF,CADIZ,0,1,-1,0.2
+Athletic Club,Deportivo Alavés,0,0,0,0.2
+EIBAR,LEVANTE,0,1,-1,0.2
+Real Madrid,FC Barcelona,2,1,1,0.2
+Villarreal CF,CA Osasuna,1,2,-1,0.2
+Valencia CF,Real Sociedad,2,2,0,0.2
+Real Valladolid CF,GRANADA,1,2,-1,0.2
+Betis,Atlético de Madrid,1,1,0,0.2
+RC Celta,Sevilla FC,3,4,-1,0.2
+CA Osasuna,ELCHE,2,0,1,0.2
+Real Sociedad,Sevilla FC,1,2,-1,0.2
+Deportivo Alavés,HUESCA,1,0,1,0.2
+Atlético de Madrid,EIBAR,5,0,1,0.2
+Betis,Valencia CF,2,2,0,0.2
+CADIZ,RC Celta,0,0,0,0.2
+Getafe CF,Real Madrid,0,0,0,0.2
+LEVANTE,Villarreal CF,1,5,-1,0.2
+LEVANTE,Sevilla FC,0,1,-1,0.2
+CA Osasuna,Valencia CF,3,1,1,0.2
+Betis,Athletic Club,0,0,0,0.2
+Deportivo Alavés,Villarreal CF,2,1,1,0.2
+ELCHE,Real Valladolid CF,1,1,0,0.2
+CADIZ,Real Madrid,0,3,-1,0.2
+Atlético de Madrid,HUESCA,2,0,1,0.2
+GRANADA,EIBAR,4,1,1,0.2
+Real Sociedad,RC Celta,2,1,1,0.2
+FC Barcelona,Getafe CF,5,2,1,0.2
+ELCHE,LEVANTE,1,0,1,0.2
+Real Valladolid CF,CADIZ,1,1,0,0.2
+Valencia CF,Deportivo Alavés,1,1,0,0.2
+Real Madrid,Betis,0,0,0,0.2
+HUESCA,Getafe CF,0,2,-1,0.2
+Villarreal CF,FC Barcelona,1,2,-1,0.2
+RC Celta,CA Osasuna,2,1,1,0.2
+Sevilla FC,GRANADA,2,1,1,0.2
+Athletic Club,Atlético de Madrid,2,1,1,0.2
+EIBAR,Real Sociedad,0,1,-1,0.2
+Athletic Club,Real Valladolid CF,2,2,0,0.2
+FC Barcelona,GRANADA,1,2,-1,0.2
+RC Celta,LEVANTE,2,0,1,0.2
+EIBAR,Deportivo Alavés,3,0,1,0.2
+ELCHE,Atlético de Madrid,0,1,-1,0.2
+HUESCA,Real Sociedad,1,0,1,0.2
+Real Madrid,CA Osasuna,2,0,1,0.2
+Real Valladolid CF,Betis,1,1,0,0.2
+Villarreal CF,Getafe CF,1,0,1,0.2
+GRANADA,CADIZ,0,1,-1,0.2
+Valencia CF,FC Barcelona,2,3,-1,0.2
+Sevilla FC,Athletic Club,0,1,-1,0.2
+Real Sociedad,ELCHE,2,0,1,0.2
+Deportivo Alavés,LEVANTE,2,2,0,0.2
+FC Barcelona,Atlético de Madrid,0,0,0,0.2
+CADIZ,HUESCA,2,1,1,0.2
+Athletic Club,CA Osasuna,2,2,0,0.2
+Getafe CF,EIBAR,0,1,-1,0.2
+Valencia CF,Real Valladolid CF,3,0,1,0.2
+Villarreal CF,RC Celta,2,4,-1,0.2
+Real Madrid,Sevilla FC,2,2,0,0.2
+Betis,GRANADA,2,1,1,0.2
+CA Osasuna,CADIZ,3,2,1,0.2
+ELCHE,Deportivo Alavés,0,2,-1,0.2
+LEVANTE,FC Barcelona,3,3,0,0.2
+Sevilla FC,Valencia CF,1,0,1,0.2
+RC Celta,Getafe CF,1,0,1,0.2
+HUESCA,Athletic Club,1,0,1,0.2
+Atlético de Madrid,Real Sociedad,2,1,1,0.2
+Real Valladolid CF,Villarreal CF,0,2,-1,0.2
+EIBAR,Betis,1,1,0,0.2
+GRANADA,Real Madrid,1,4,-1,0.2
+Deportivo Alavés,GRANADA,4,2,1,0.2
+Athletic Club,Real Madrid,0,1,-1,0.2
+Atlético de Madrid,CA Osasuna,2,1,1,0.2
+FC Barcelona,RC Celta,1,2,-1,0.2
+Betis,HUESCA,1,0,1,0.2
+CADIZ,ELCHE,1,3,-1,0.2
+Getafe CF,LEVANTE,2,1,1,0.2
+Real Sociedad,Real Valladolid CF,4,1,1,0.2
+Valencia CF,EIBAR,4,1,1,0.2
+Villarreal CF,Sevilla FC,4,0,1,0.2
+LEVANTE,CADIZ,2,2,0,0.2
+RC Celta,Betis,2,3,-1,0.2
+EIBAR,FC Barcelona,0,1,-1,0.2
+ELCHE,Athletic Club,2,0,1,0.2
+HUESCA,Valencia CF,0,0,0,0.2
+CA Osasuna,Real Sociedad,0,1,-1,0.2
+Real Madrid,Villarreal CF,2,1,1,0.2
+Real Valladolid CF,Atlético de Madrid,1,2,-1,0.2
+GRANADA,Getafe CF,0,0,0,0.2
+Sevilla FC,Deportivo Alavés,1,0,1,0.2
+Valencia CF,Getafe CF,1,0,1,0.4
+CADIZ,LEVANTE,1,1,0,0.4
+RCD Mallorca,Betis,1,1,0,0.4
+Deportivo Alavés,Real Madrid,1,4,-1,0.4
+CA Osasuna,RCD Espanyol de Barcelona,0,0,0,0.4
+RC Celta,Atlético de Madrid,1,2,-1,0.4
+FC Barcelona,Real Sociedad,4,2,1,0.4
+Sevilla FC,Rayo Vallecano,3,0,1,0.4
+Villarreal CF,GRANADA,0,0,0,0.4
+ELCHE,Athletic Club,0,0,0,0.4
+Betis,CADIZ,1,1,0,0.4
+Deportivo Alavés,RCD Mallorca,0,1,-1,0.4
+RCD Espanyol de Barcelona,Villarreal CF,0,0,0,0.4
+GRANADA,Valencia CF,1,1,0,0.4
+Athletic Club,FC Barcelona,1,1,0,0.4
+Real Sociedad,Rayo Vallecano,1,0,1,0.4
+Atlético de Madrid,ELCHE,1,0,1,0.4
+LEVANTE,Real Madrid,3,3,0,0.4
+Getafe CF,Sevilla FC,0,1,-1,0.4
+CA Osasuna,RC Celta,0,0,0,0.4
+RCD Mallorca,RCD Espanyol de Barcelona,1,0,1,0.4
+Valencia CF,Deportivo Alavés,3,0,1,0.4
+RC Celta,Athletic Club,0,1,-1,0.4
+ELCHE,Sevilla FC,1,1,0,0.4
+Real Sociedad,LEVANTE,1,0,1,0.4
+Betis,Real Madrid,0,1,-1,0.4
+FC Barcelona,Getafe CF,2,1,1,0.4
+CADIZ,CA Osasuna,2,3,-1,0.4
+Rayo Vallecano,GRANADA,4,0,1,0.4
+Atlético de Madrid,Villarreal CF,2,2,0,0.4
+LEVANTE,Rayo Vallecano,1,1,0,0.4
+Athletic Club,RCD Mallorca,2,0,1,0.4
+RCD Espanyol de Barcelona,Atlético de Madrid,1,2,-1,0.4
+CA Osasuna,Valencia CF,1,4,-1,0.4
+CADIZ,Real Sociedad,0,2,-1,0.4
+Real Madrid,RC Celta,5,2,1,0.4
+Getafe CF,ELCHE,0,1,-1,0.4
+GRANADA,Betis,1,2,-1,0.4
+RC Celta,CADIZ,1,2,-1,0.4
+Rayo Vallecano,Getafe CF,3,0,1,0.4
+Atlético de Madrid,Athletic Club,0,0,0,0.4
+ELCHE,LEVANTE,1,1,0,0.4
+Deportivo Alavés,CA Osasuna,0,2,-1,0.4
+RCD Mallorca,Villarreal CF,0,0,0,0.4
+Real Sociedad,Sevilla FC,0,0,0,0.4
+Betis,RCD Espanyol de Barcelona,2,2,0,0.4
+Valencia CF,Real Madrid,1,2,-1,0.4
+FC Barcelona,GRANADA,1,1,0,0.4
+Getafe CF,Atlético de Madrid,1,2,-1,0.4
+Athletic Club,Rayo Vallecano,1,2,-1,0.4
+LEVANTE,RC Celta,0,2,-1,0.4
+RCD Espanyol de Barcelona,Deportivo Alavés,1,0,1,0.4
+Sevilla FC,Valencia CF,3,1,1,0.4
+Real Madrid,RCD Mallorca,6,1,1,0.4
+Villarreal CF,ELCHE,4,1,1,0.4
+GRANADA,Real Sociedad,2,3,-1,0.4
+CA Osasuna,Betis,1,3,-1,0.4
+CADIZ,FC Barcelona,0,0,0,0.4
+Deportivo Alavés,Atlético de Madrid,1,0,1,0.4
+Valencia CF,Athletic Club,1,1,0,0.4
+Sevilla FC,RCD Espanyol de Barcelona,2,0,1,0.4
+Real Madrid,Villarreal CF,0,0,0,0.4
+RCD Mallorca,CA Osasuna,2,3,-1,0.4
+FC Barcelona,LEVANTE,3,0,1,0.4
+Real Sociedad,ELCHE,1,0,1,0.4
+Rayo Vallecano,CADIZ,3,1,1,0.4
+Betis,Getafe CF,2,0,1,0.4
+RC Celta,GRANADA,1,0,1,0.4
+Athletic Club,Deportivo Alavés,1,0,1,0.4
+CA Osasuna,Rayo Vallecano,1,0,1,0.4
+RCD Mallorca,LEVANTE,1,0,1,0.4
+CADIZ,Valencia CF,0,0,0,0.4
+Atlético de Madrid,FC Barcelona,2,0,1,0.4
+ELCHE,RC Celta,1,0,1,0.4
+RCD Espanyol de Barcelona,Real Madrid,2,1,1,0.4
+Getafe CF,Real Sociedad,1,1,0,0.4
+Villarreal CF,Betis,2,0,1,0.4
+GRANADA,Sevilla FC,1,0,1,0.4
+LEVANTE,Getafe CF,0,0,0,0.4
+Real Sociedad,RCD Mallorca,1,0,1,0.4
+Rayo Vallecano,ELCHE,2,1,1,0.4
+RC Celta,Sevilla FC,0,1,-1,0.4
+Villarreal CF,CA Osasuna,1,2,-1,0.4
+FC Barcelona,Valencia CF,3,1,1,0.4
+Deportivo Alavés,Betis,0,1,-1,0.4
+RCD Espanyol de Barcelona,CADIZ,2,0,1,0.4
+CA Osasuna,GRANADA,1,1,0,0.4
+Valencia CF,RCD Mallorca,2,2,0,0.4
+CADIZ,Deportivo Alavés,0,2,-1,0.4
+ELCHE,RCD Espanyol de Barcelona,2,2,0,0.4
+Athletic Club,Villarreal CF,2,1,1,0.4
+Sevilla FC,LEVANTE,5,3,1,0.4
+FC Barcelona,Real Madrid,1,2,-1,0.4
+Betis,Rayo Vallecano,3,2,1,0.4
+Atlético de Madrid,Real Sociedad,2,2,0,0.4
+Getafe CF,RC Celta,0,3,-1,0.4
+Deportivo Alavés,ELCHE,1,0,1,0.4
+RCD Espanyol de Barcelona,Athletic Club,1,1,0,0.4
+Villarreal CF,CADIZ,3,3,0,0.4
+RCD Mallorca,Sevilla FC,1,1,0,0.4
+Rayo Vallecano,FC Barcelona,1,0,1,0.4
+Betis,Valencia CF,4,1,1,0.4
+Real Madrid,CA Osasuna,0,0,0,0.4
+RC Celta,Real Sociedad,0,2,-1,0.4
+GRANADA,Getafe CF,1,1,0,0.4
+LEVANTE,Atlético de Madrid,2,2,0,0.4
+ELCHE,Real Madrid,1,2,-1,0.4
+Sevilla FC,CA Osasuna,2,0,1,0.4
+Valencia CF,Villarreal CF,2,0,1,0.4
+FC Barcelona,Deportivo Alavés,1,1,0,0.4
+CADIZ,RCD Mallorca,1,1,0,0.4
+Atlético de Madrid,Betis,3,0,1,0.4
+Getafe CF,RCD Espanyol de Barcelona,2,1,1,0.4
+Real Sociedad,Athletic Club,1,1,0,0.4
+Rayo Vallecano,RC Celta,0,0,0,0.4
+LEVANTE,GRANADA,0,3,-1,0.4
+Athletic Club,CADIZ,0,1,-1,0.4
+RCD Espanyol de Barcelona,GRANADA,2,0,1,0.4
+RC Celta,FC Barcelona,3,3,0,0.4
+Deportivo Alavés,LEVANTE,2,1,1,0.4
+Real Madrid,Rayo Vallecano,2,1,1,0.4
+Villarreal CF,Getafe CF,1,0,1,0.4
+Valencia CF,Atlético de Madrid,3,3,0,0.4
+RCD Mallorca,ELCHE,2,2,0,0.4
+CA Osasuna,Real Sociedad,0,2,-1,0.4
+Betis,Sevilla FC,0,2,-1,0.4
+LEVANTE,Athletic Club,0,0,0,0.4
+RC Celta,Villarreal CF,1,1,0,0.4
+Sevilla FC,Deportivo Alavés,2,2,0,0.4
+Atlético de Madrid,CA Osasuna,1,0,1,0.4
+FC Barcelona,RCD Espanyol de Barcelona,1,0,1,0.4
+Getafe CF,CADIZ,4,0,1,0.4
+GRANADA,Real Madrid,1,4,-1,0.4
+ELCHE,Betis,0,3,-1,0.4
+Real Sociedad,Valencia CF,0,0,0,0.4
+Rayo Vallecano,RCD Mallorca,3,1,1,0.4
+Athletic Club,GRANADA,2,2,0,0.4
+Deportivo Alavés,RC Celta,1,2,-1,0.4
+Valencia CF,Rayo Vallecano,1,1,0,0.4
+RCD Mallorca,Getafe CF,0,0,0,0.4
+Villarreal CF,FC Barcelona,1,3,-1,0.4
+Betis,LEVANTE,3,1,1,0.4
+RCD Espanyol de Barcelona,Real Sociedad,1,0,1,0.4
+CADIZ,Atlético de Madrid,1,4,-1,0.4
+Real Madrid,Sevilla FC,2,1,1,0.4
+CA Osasuna,ELCHE,1,1,0,0.4
+Real Madrid,Athletic Club,1,0,1,0.4
+GRANADA,Deportivo Alavés,2,1,1,0.4
+Sevilla FC,Villarreal CF,1,0,1,0.4
+FC Barcelona,Betis,0,1,-1,0.4
+Atlético de Madrid,RCD Mallorca,1,2,-1,0.4
+Real Sociedad,Real Madrid,0,2,-1,0.4
+Rayo Vallecano,RCD Espanyol de Barcelona,1,0,1,0.4
+ELCHE,CADIZ,3,1,1,0.4
+LEVANTE,CA Osasuna,0,0,0,0.4
+RC Celta,Valencia CF,1,2,-1,0.4
+Getafe CF,Athletic Club,0,0,0,0.4
+RCD Mallorca,RC Celta,0,0,0,0.4
+RCD Espanyol de Barcelona,LEVANTE,4,3,1,0.4
+Deportivo Alavés,Getafe CF,1,1,0,0.4
+Valencia CF,ELCHE,2,1,1,0.4
+Athletic Club,Sevilla FC,0,1,-1,0.4
+Villarreal CF,Rayo Vallecano,2,0,1,0.4
+CA Osasuna,FC Barcelona,2,2,0,0.4
+Betis,Real Sociedad,4,0,1,0.4
+Real Madrid,Atlético de Madrid,2,0,1,0.4
+CADIZ,GRANADA,1,1,0,0.4
+RC Celta,RCD Espanyol de Barcelona,3,1,1,0.4
+Rayo Vallecano,Deportivo Alavés,2,0,1,0.4
+Real Sociedad,Villarreal CF,1,3,-1,0.4
+FC Barcelona,ELCHE,3,2,1,0.4
+Sevilla FC,Atlético de Madrid,2,1,1,0.4
+GRANADA,RCD Mallorca,4,1,1,0.4
+Athletic Club,Betis,3,2,1,0.4
+Getafe CF,CA Osasuna,1,0,1,0.4
+Real Madrid,CADIZ,0,0,0,0.4
+LEVANTE,Valencia CF,3,4,-1,0.4
+Villarreal CF,Deportivo Alavés,5,2,1,0.4
+Sevilla FC,FC Barcelona,1,1,0,0.4
+GRANADA,Atlético de Madrid,2,1,1,0.4
+Athletic Club,Real Madrid,1,2,-1,0.4
+Valencia CF,RCD Espanyol de Barcelona,1,2,-1,0.4
+Getafe CF,Real Madrid,1,0,1,0.4
+Atlético de Madrid,Rayo Vallecano,2,0,1,0.4
+ELCHE,GRANADA,0,0,0,0.4
+Deportivo Alavés,Real Sociedad,1,1,0,0.4
+Betis,RC Celta,0,2,-1,0.4
+RCD Mallorca,FC Barcelona,0,1,-1,0.4
+Villarreal CF,LEVANTE,5,0,1,0.4
+CA Osasuna,Athletic Club,1,3,-1,0.4
+CADIZ,Sevilla FC,0,1,-1,0.4
+LEVANTE,RCD Mallorca,2,0,1,0.4
+Real Sociedad,RC Celta,1,0,1,0.4
+GRANADA,FC Barcelona,1,1,0,0.4
+Real Madrid,Valencia CF,4,1,1,0.4
+Rayo Vallecano,Betis,1,1,0,0.4
+Sevilla FC,Getafe CF,1,0,1,0.4
+Deportivo Alavés,Athletic Club,0,0,0,0.4
+CA Osasuna,CADIZ,2,0,1,0.4
+Villarreal CF,Atlético de Madrid,2,2,0,0.4
+RCD Espanyol de Barcelona,ELCHE,1,2,-1,0.4
+ELCHE,Villarreal CF,1,0,1,0.4
+Betis,Deportivo Alavés,4,0,1,0.4
+CADIZ,RCD Espanyol de Barcelona,2,2,0,0.4
+RC Celta,CA Osasuna,2,0,1,0.4
+Valencia CF,Sevilla FC,1,1,0,0.4
+Getafe CF,GRANADA,4,2,1,0.4
+RCD Espanyol de Barcelona,Betis,1,4,-1,0.4
+LEVANTE,CADIZ,0,2,-1,0.4
+Villarreal CF,RCD Mallorca,3,0,1,0.4
+Sevilla FC,RC Celta,2,2,0,0.4
+Atlético de Madrid,Valencia CF,3,2,1,0.4
+GRANADA,CA Osasuna,0,2,-1,0.4
+Real Madrid,ELCHE,2,2,0,0.4
+Real Sociedad,Getafe CF,0,0,0,0.4
+Rayo Vallecano,Athletic Club,0,1,-1,0.4
+Deportivo Alavés,FC Barcelona,0,1,-1,0.4
+Getafe CF,LEVANTE,3,0,1,0.4
+ELCHE,Deportivo Alavés,3,1,1,0.4
+RCD Mallorca,CADIZ,2,1,1,0.4
+RC Celta,Rayo Vallecano,2,0,1,0.4
+CA Osasuna,Sevilla FC,0,0,0,0.4
+Valencia CF,Real Sociedad,0,0,0,0.4
+FC Barcelona,Atlético de Madrid,4,2,1,0.4
+Betis,Villarreal CF,0,2,-1,0.4
+Real Madrid,GRANADA,1,0,1,0.4
+Athletic Club,RCD Espanyol de Barcelona,2,1,1,0.4
+Sevilla FC,ELCHE,2,0,1,0.4
+CADIZ,RC Celta,0,0,0,0.4
+Villarreal CF,Real Madrid,0,0,0,0.4
+Rayo Vallecano,CA Osasuna,0,3,-1,0.4
+Atlético de Madrid,Getafe CF,4,3,1,0.4
+Deportivo Alavés,Valencia CF,2,1,1,0.4
+LEVANTE,Betis,2,4,-1,0.4
+Real Sociedad,GRANADA,2,0,1,0.4
+RCD Espanyol de Barcelona,FC Barcelona,2,2,0,0.4
+RCD Mallorca,Athletic Club,3,2,1,0.4
+Atlético de Madrid,LEVANTE,0,1,-1,0.4
+ELCHE,Rayo Vallecano,2,1,1,0.4
+GRANADA,Villarreal CF,1,4,-1,0.4
+CA Osasuna,Atlético de Madrid,0,3,-1,0.4
+CADIZ,Getafe CF,1,1,0,0.4
+Real Madrid,Deportivo Alavés,3,0,1,0.4
+RCD Espanyol de Barcelona,Sevilla FC,1,1,0,0.4
+Valencia CF,FC Barcelona,1,4,-1,0.4
+Betis,RCD Mallorca,2,1,1,0.4
+Athletic Club,Real Sociedad,4,0,1,0.4
+RC Celta,LEVANTE,1,1,0,0.4
+LEVANTE,ELCHE,3,0,1,0.4
+RCD Mallorca,Valencia CF,0,1,-1,0.4
+Getafe CF,Deportivo Alavés,2,2,0,0.4
+Rayo Vallecano,Real Madrid,0,1,-1,0.4
+Atlético de Madrid,RC Celta,2,0,1,0.4
+Villarreal CF,RCD Espanyol de Barcelona,5,1,1,0.4
+Sevilla FC,Betis,2,1,1,0.4
+Real Sociedad,CA Osasuna,1,0,1,0.4
+FC Barcelona,Athletic Club,4,0,1,0.4
+GRANADA,CADIZ,0,0,0,0.4
+RCD Mallorca,Real Sociedad,0,2,-1,0.4
+Deportivo Alavés,Sevilla FC,0,0,0,0.4
+CA Osasuna,Villarreal CF,1,0,1,0.4
+RCD Espanyol de Barcelona,Getafe CF,2,0,1,0.4
+Valencia CF,GRANADA,3,1,1,0.4
+Real Madrid,Real Sociedad,4,1,1,0.4
+CADIZ,Rayo Vallecano,2,0,1,0.4
+ELCHE,FC Barcelona,1,2,-1,0.4
+RC Celta,RCD Mallorca,4,3,1,0.4
+Betis,Atlético de Madrid,1,3,-1,0.4
+Athletic Club,LEVANTE,3,1,1,0.4
+Atlético de Madrid,CADIZ,2,1,1,0.4
+LEVANTE,RCD Espanyol de Barcelona,1,1,0,0.4
+GRANADA,ELCHE,0,1,-1,0.4
+Villarreal CF,RC Celta,1,0,1,0.4
+Getafe CF,Valencia CF,0,0,0,0.4
+Rayo Vallecano,Sevilla FC,1,1,0,0.4
+Betis,Athletic Club,1,0,1,0.4
+Real Sociedad,Deportivo Alavés,1,0,1,0.4
+FC Barcelona,CA Osasuna,4,0,1,0.4
+RCD Mallorca,Real Madrid,0,3,-1,0.4
+Athletic Club,Getafe CF,1,1,0,0.4
+Deportivo Alavés,GRANADA,2,3,-1,0.4
+ELCHE,Valencia CF,0,1,-1,0.4
+CA Osasuna,LEVANTE,3,1,1,0.4
+Rayo Vallecano,Atlético de Madrid,0,1,-1,0.4
+RCD Espanyol de Barcelona,RCD Mallorca,1,0,1,0.4
+CADIZ,Villarreal CF,1,0,1,0.4
+RC Celta,Betis,0,0,0,0.4
+Sevilla FC,Real Sociedad,0,0,0,0.4
+Real Madrid,FC Barcelona,0,4,-1,0.4
+Getafe CF,RCD Mallorca,1,0,1,0.4
+LEVANTE,Villarreal CF,2,0,1,0.4
+RC Celta,Real Madrid,1,2,-1,0.4
+Atlético de Madrid,Deportivo Alavés,4,1,1,0.4
+Athletic Club,ELCHE,2,1,1,0.4
+Betis,CA Osasuna,4,1,1,0.4
+GRANADA,Rayo Vallecano,2,2,0,0.4
+Valencia CF,CADIZ,0,0,0,0.4
+FC Barcelona,Sevilla FC,1,0,1,0.4
+Real Sociedad,RCD Espanyol de Barcelona,1,0,1,0.4
+Sevilla FC,GRANADA,4,2,1,0.4
+CADIZ,Betis,1,2,-1,0.4
+RCD Mallorca,Atlético de Madrid,1,0,1,0.4
+Villarreal CF,Athletic Club,1,1,0,0.4
+Real Madrid,Getafe CF,2,0,1,0.4
+CA Osasuna,Deportivo Alavés,1,0,1,0.4
+RCD Espanyol de Barcelona,RC Celta,1,0,1,0.4
+ELCHE,Real Sociedad,1,2,-1,0.4
+LEVANTE,FC Barcelona,2,3,-1,0.4
+Rayo Vallecano,Valencia CF,1,1,0,0.4
+Real Sociedad,Betis,0,0,0,0.4
+ELCHE,RCD Mallorca,3,0,1,0.4
+Deportivo Alavés,Rayo Vallecano,1,0,1,0.4
+Valencia CF,CA Osasuna,1,2,-1,0.4
+Getafe CF,Villarreal CF,1,2,-1,0.4
+GRANADA,LEVANTE,1,4,-1,0.4
+Atlético de Madrid,RCD Espanyol de Barcelona,2,1,1,0.4
+Athletic Club,RC Celta,0,2,-1,0.4
+Sevilla FC,Real Madrid,2,3,-1,0.4
+FC Barcelona,CADIZ,0,1,-1,0.4
+RCD Mallorca,Deportivo Alavés,2,1,1,0.4
+Betis,ELCHE,0,1,-1,0.4
+Villarreal CF,Valencia CF,2,0,1,0.4
+Atlético de Madrid,GRANADA,0,0,0,0.4
+RC Celta,Getafe CF,0,2,-1,0.4
+CA Osasuna,Real Madrid,1,3,-1,0.4
+RCD Espanyol de Barcelona,Rayo Vallecano,0,1,-1,0.4
+LEVANTE,Sevilla FC,2,3,-1,0.4
+CADIZ,Athletic Club,2,3,-1,0.4
+Real Sociedad,FC Barcelona,0,1,-1,0.4
+FC Barcelona,Rayo Vallecano,0,1,-1,0.4
+Sevilla FC,CADIZ,1,1,0,0.4
+Deportivo Alavés,Villarreal CF,2,1,1,0.4
+Real Madrid,RCD Espanyol de Barcelona,4,0,1,0.4
+Valencia CF,LEVANTE,1,1,0,0.4
+Athletic Club,Atlético de Madrid,2,0,1,0.4
+ELCHE,CA Osasuna,1,1,0,0.4
+GRANADA,RC Celta,1,1,0,0.4
+Rayo Vallecano,Real Sociedad,1,1,0,0.4
+FC Barcelona,RCD Mallorca,2,1,1,0.4
+Getafe CF,Betis,0,0,0,0.4
+LEVANTE,Real Sociedad,2,1,1,0.4
+RCD Mallorca,GRANADA,2,6,-1,0.4
+Athletic Club,Valencia CF,0,0,0,0.4
+CADIZ,ELCHE,3,0,1,0.4
+RC Celta,Deportivo Alavés,4,0,1,0.4
+Betis,FC Barcelona,1,2,-1,0.4
+Getafe CF,Rayo Vallecano,0,0,0,0.4
+Villarreal CF,Sevilla FC,1,1,0,0.4
+RCD Espanyol de Barcelona,CA Osasuna,1,1,0,0.4
+Atlético de Madrid,Real Madrid,1,0,1,0.4
+Valencia CF,Betis,0,3,-1,0.4
+GRANADA,Athletic Club,1,0,1,0.4
+FC Barcelona,RC Celta,3,1,1,0.4
+Deportivo Alavés,RCD Espanyol de Barcelona,2,1,1,0.4
+CA Osasuna,Getafe CF,1,1,0,0.4
+Sevilla FC,RCD Mallorca,0,0,0,0.4
+ELCHE,Atlético de Madrid,0,2,-1,0.4
+Real Sociedad,CADIZ,3,0,1,0.4
+Rayo Vallecano,Villarreal CF,1,5,-1,0.4
+Real Madrid,LEVANTE,6,0,1,0.4
+RCD Espanyol de Barcelona,Valencia CF,1,1,0,0.4
+Athletic Club,CA Osasuna,2,0,1,0.4
+Atlético de Madrid,Sevilla FC,1,1,0,0.4
+Betis,GRANADA,2,0,1,0.4
+CADIZ,Real Madrid,1,1,0,0.4
+RC Celta,ELCHE,1,0,1,0.4
+Getafe CF,FC Barcelona,0,0,0,0.4
+LEVANTE,Deportivo Alavés,3,1,1,0.4
+RCD Mallorca,Rayo Vallecano,2,1,1,0.4
+Villarreal CF,Real Sociedad,1,2,-1,0.4
+Real Madrid,Betis,0,0,0,0.4
+Rayo Vallecano,LEVANTE,2,4,-1,0.4
+Valencia CF,RC Celta,2,0,1,0.4
+ELCHE,Getafe CF,3,1,1,0.4
+Deportivo Alavés,CADIZ,0,1,-1,0.4
+GRANADA,RCD Espanyol de Barcelona,0,0,0,0.4
+CA Osasuna,RCD Mallorca,0,2,-1,0.4
+FC Barcelona,Villarreal CF,0,2,-1,0.4
+Sevilla FC,Athletic Club,1,0,1,0.4
+Real Sociedad,Atlético de Madrid,1,2,-1,0.4
+CA Osasuna,Sevilla FC,2,1,1,0.6
+RC Celta,RCD Espanyol de Barcelona,2,2,0,0.6
+Real Valladolid CF,Villarreal CF,0,3,-1,0.6
+FC Barcelona,Rayo Vallecano,0,0,0,0.6
+CADIZ,Real Sociedad,0,1,-1,0.6
+Valencia CF,Girona FC,1,0,1,0.6
+ALMERIA,Real Madrid,1,2,-1,0.6
+Athletic Club,RCD Mallorca,0,0,0,0.6
+Getafe CF,Atlético de Madrid,0,3,-1,0.6
+Betis,ELCHE,3,0,1,0.6
+RCD Espanyol de Barcelona,Rayo Vallecano,0,2,-1,0.6
+Sevilla FC,Real Valladolid CF,1,1,0,0.6
+CA Osasuna,CADIZ,2,0,1,0.6
+RCD Mallorca,Betis,1,2,-1,0.6
+RC Celta,Real Madrid,1,4,-1,0.6
+Athletic Club,Valencia CF,1,0,1,0.6
+Atlético de Madrid,Villarreal CF,0,2,-1,0.6
+Real Sociedad,FC Barcelona,1,4,-1,0.6
+ELCHE,ALMERIA,1,1,0,0.6
+Girona FC,Getafe CF,3,1,1,0.6
+Girona FC,RC Celta,0,1,-1,0.6
+Betis,CA Osasuna,1,0,1,0.6
+ELCHE,Real Sociedad,0,1,-1,0.6
+Rayo Vallecano,RCD Mallorca,0,2,-1,0.6
+ALMERIA,Sevilla FC,2,1,1,0.6
+Getafe CF,Villarreal CF,0,0,0,0.6
+FC Barcelona,Real Valladolid CF,4,0,1,0.6
+RCD Espanyol de Barcelona,Real Madrid,1,3,-1,0.6
+CADIZ,Athletic Club,0,4,-1,0.6
+Valencia CF,Atlético de Madrid,0,1,-1,0.6
+RC Celta,CADIZ,3,0,1,0.6
+RCD Mallorca,Girona FC,1,1,0,0.6
+Real Madrid,Betis,2,1,1,0.6
+Real Sociedad,Atlético de Madrid,1,1,0,0.6
+Sevilla FC,FC Barcelona,0,3,-1,0.6
+CA Osasuna,Rayo Vallecano,2,1,1,0.6
+Athletic Club,RCD Espanyol de Barcelona,0,1,-1,0.6
+Villarreal CF,ELCHE,4,0,1,0.6
+Valencia CF,Getafe CF,5,1,1,0.6
+Real Valladolid CF,ALMERIA,1,0,1,0.6
+Girona FC,Real Valladolid CF,2,1,1,0.6
+Rayo Vallecano,Valencia CF,2,1,1,0.6
+RCD Espanyol de Barcelona,Sevilla FC,2,3,-1,0.6
+CADIZ,FC Barcelona,0,4,-1,0.6
+Atlético de Madrid,RC Celta,4,1,1,0.6
+Real Madrid,RCD Mallorca,4,1,1,0.6
+ELCHE,Athletic Club,1,4,-1,0.6
+Getafe CF,Real Sociedad,2,1,1,0.6
+Betis,Villarreal CF,1,0,1,0.6
+ALMERIA,CA Osasuna,0,1,-1,0.6
+Real Valladolid CF,CADIZ,0,1,-1,0.6
+RCD Mallorca,ALMERIA,1,0,1,0.6
+FC Barcelona,ELCHE,3,0,1,0.6
+Valencia CF,RC Celta,3,0,1,0.6
+Athletic Club,Rayo Vallecano,3,2,1,0.6
+CA Osasuna,Getafe CF,0,2,-1,0.6
+Villarreal CF,Sevilla FC,1,1,0,0.6
+Betis,Girona FC,2,1,1,0.6
+Real Sociedad,RCD Espanyol de Barcelona,2,1,1,0.6
+Atlético de Madrid,Real Madrid,1,2,-1,0.6
+Athletic Club,ALMERIA,4,0,1,0.6
+CADIZ,Villarreal CF,0,0,0,0.6
+Getafe CF,Real Valladolid CF,2,3,-1,0.6
+Sevilla FC,Atlético de Madrid,0,2,-1,0.6
+RCD Mallorca,FC Barcelona,0,1,-1,0.6
+RCD Espanyol de Barcelona,Valencia CF,2,2,0,0.6
+RC Celta,Betis,1,0,1,0.6
+Girona FC,Real Sociedad,3,5,-1,0.6
+Real Madrid,CA Osasuna,1,1,0,0.6
+Rayo Vallecano,ELCHE,2,1,1,0.6
+CA Osasuna,Valencia CF,1,2,-1,0.6
+ALMERIA,Rayo Vallecano,3,1,1,0.6
+Atlético de Madrid,Girona FC,2,1,1,0.6
+Sevilla FC,Athletic Club,1,1,0,0.6
+Getafe CF,Real Madrid,0,1,-1,0.6
+Real Valladolid CF,Betis,0,0,0,0.6
+CADIZ,RCD Espanyol de Barcelona,2,2,0,0.6
+Real Sociedad,Villarreal CF,1,0,1,0.6
+FC Barcelona,RC Celta,1,0,1,0.6
+ELCHE,RCD Mallorca,1,1,0,0.6
+Rayo Vallecano,Getafe CF,0,0,0,0.6
+Girona FC,CADIZ,1,1,0,0.6
+Valencia CF,ELCHE,2,2,0,0.6
+RCD Mallorca,Sevilla FC,0,1,-1,0.6
+Athletic Club,Atlético de Madrid,0,1,-1,0.6
+RC Celta,Real Sociedad,1,2,-1,0.6
+Real Madrid,FC Barcelona,3,1,1,0.6
+RCD Espanyol de Barcelona,Real Valladolid CF,1,0,1,0.6
+Betis,ALMERIA,3,1,1,0.6
+Villarreal CF,CA Osasuna,2,0,1,0.6
+Sevilla FC,Valencia CF,1,1,0,0.6
+Getafe CF,Athletic Club,2,2,0,0.6
+Atlético de Madrid,Rayo Vallecano,1,1,0,0.6
+CADIZ,Betis,0,0,0,0.6
+Real Valladolid CF,RC Celta,4,1,1,0.6
+Real Sociedad,RCD Mallorca,1,0,1,0.6
+ELCHE,Real Madrid,0,3,-1,0.6
+ALMERIA,Girona FC,3,2,1,0.6
+CA Osasuna,RCD Espanyol de Barcelona,1,0,1,0.6
+FC Barcelona,Villarreal CF,3,0,1,0.6
+Rayo Vallecano,CADIZ,5,1,1,0.6
+Real Valladolid CF,Real Sociedad,1,0,1,0.6
+Valencia CF,RCD Mallorca,1,2,-1,0.6
+Real Madrid,Sevilla FC,3,1,1,0.6
+RCD Espanyol de Barcelona,ELCHE,2,2,0,0.6
+Betis,Atlético de Madrid,1,2,-1,0.6
+Girona FC,CA Osasuna,1,1,0,0.6
+Villarreal CF,ALMERIA,2,1,1,0.6
+FC Barcelona,Athletic Club,4,0,1,0.6
+RC Celta,Getafe CF,1,1,0,0.6
+RCD Mallorca,RCD Espanyol de Barcelona,1,1,0,0.6
+ALMERIA,RC Celta,3,1,1,0.6
+CADIZ,Atlético de Madrid,3,2,1,0.6
+Sevilla FC,Rayo Vallecano,0,1,-1,0.6
+Valencia CF,FC Barcelona,0,1,-1,0.6
+CA Osasuna,Real Valladolid CF,2,0,1,0.6
+Real Madrid,Girona FC,1,1,0,0.6
+Athletic Club,Villarreal CF,1,0,1,0.6
+Real Sociedad,Betis,0,2,-1,0.6
+ELCHE,Getafe CF,0,1,-1,0.6
+Girona FC,Athletic Club,2,1,1,0.6
+Getafe CF,CADIZ,0,0,0,0.6
+Real Valladolid CF,ELCHE,2,1,1,0.6
+RC Celta,CA Osasuna,1,2,-1,0.6
+FC Barcelona,ALMERIA,2,0,1,0.6
+Atlético de Madrid,RCD Espanyol de Barcelona,1,1,0,0.6
+Real Sociedad,Valencia CF,1,1,0,0.6
+Villarreal CF,RCD Mallorca,0,2,-1,0.6
+Betis,Sevilla FC,1,1,0,0.6
+Rayo Vallecano,Real Madrid,3,2,1,0.6
+ELCHE,Girona FC,1,2,-1,0.6
+Athletic Club,Real Valladolid CF,3,0,1,0.6
+CA Osasuna,FC Barcelona,1,2,-1,0.6
+ALMERIA,Getafe CF,1,0,1,0.6
+Sevilla FC,Real Sociedad,1,2,-1,0.6
+RCD Espanyol de Barcelona,Villarreal CF,0,1,-1,0.6
+RCD Mallorca,Atlético de Madrid,1,0,1,0.6
+Rayo Vallecano,RC Celta,0,0,0,0.6
+Valencia CF,Betis,3,0,1,0.6
+Real Madrid,CADIZ,2,1,1,0.6
+Girona FC,Rayo Vallecano,2,2,0,0.6
+Betis,Athletic Club,0,0,0,0.6
+Atlético de Madrid,ELCHE,2,0,1,0.6
+Getafe CF,RCD Mallorca,2,0,1,0.6
+CADIZ,ALMERIA,1,1,0,0.6
+RC Celta,Sevilla FC,1,1,0,0.6
+Real Valladolid CF,Real Madrid,0,2,-1,0.6
+FC Barcelona,RCD Espanyol de Barcelona,1,1,0,0.6
+Real Sociedad,CA Osasuna,2,0,1,0.6
+Villarreal CF,Valencia CF,2,1,1,0.6
+ELCHE,RC Celta,0,1,-1,0.6
+Valencia CF,CADIZ,0,1,-1,0.6
+Villarreal CF,Real Madrid,2,1,1,0.6
+RCD Mallorca,Real Valladolid CF,1,0,1,0.6
+RCD Espanyol de Barcelona,Girona FC,2,2,0,0.6
+ALMERIA,Real Sociedad,0,2,-1,0.6
+Rayo Vallecano,Betis,1,2,-1,0.6
+Sevilla FC,Getafe CF,2,1,1,0.6
+Atlético de Madrid,FC Barcelona,0,1,-1,0.6
+Athletic Club,CA Osasuna,0,0,0,0.6
+RC Celta,Villarreal CF,1,1,0,0.6
+Real Valladolid CF,Rayo Vallecano,0,1,-1,0.6
+Girona FC,Sevilla FC,2,1,1,0.6
+CA Osasuna,RCD Mallorca,1,0,1,0.6
+Real Sociedad,Athletic Club,3,1,1,0.6
+Getafe CF,RCD Espanyol de Barcelona,1,2,-1,0.6
+ALMERIA,Atlético de Madrid,1,1,0,0.6
+CADIZ,ELCHE,1,1,0,0.6
+RCD Mallorca,RC Celta,1,0,1,0.6
+Rayo Vallecano,Real Sociedad,0,2,-1,0.6
+RCD Espanyol de Barcelona,Betis,1,0,1,0.6
+Atlético de Madrid,Real Valladolid CF,3,0,1,0.6
+Sevilla FC,CADIZ,1,0,1,0.6
+Villarreal CF,Girona FC,1,0,1,0.6
+ELCHE,CA Osasuna,1,1,0,0.6
+FC Barcelona,Getafe CF,1,0,1,0.6
+Athletic Club,Real Madrid,0,2,-1,0.6
+Valencia CF,ALMERIA,2,2,0,0.6
+ALMERIA,RCD Espanyol de Barcelona,3,1,1,0.6
+CADIZ,RCD Mallorca,2,0,1,0.6
+Girona FC,FC Barcelona,0,1,-1,0.6
+Sevilla FC,ELCHE,3,0,1,0.6
+Getafe CF,Betis,0,1,-1,0.6
+Real Valladolid CF,Valencia CF,1,0,1,0.6
+CA Osasuna,Atlético de Madrid,0,1,-1,0.6
+RC Celta,Athletic Club,1,0,1,0.6
+Real Madrid,Real Sociedad,0,0,0,0.6
+Villarreal CF,Rayo Vallecano,0,1,-1,0.6
+Betis,FC Barcelona,1,2,-1,0.6
+Real Madrid,Valencia CF,2,0,1,0.6
+Athletic Club,CADIZ,4,1,1,0.6
+RCD Espanyol de Barcelona,CA Osasuna,1,1,0,0.6
+ELCHE,Villarreal CF,3,1,1,0.6
+Atlético de Madrid,Getafe CF,1,1,0,0.6
+Betis,RC Celta,3,4,-1,0.6
+RCD Mallorca,Real Madrid,1,0,1,0.6
+Girona FC,Valencia CF,1,0,1,0.6
+Real Sociedad,Real Valladolid CF,0,1,-1,0.6
+FC Barcelona,Sevilla FC,3,0,1,0.6
+Rayo Vallecano,ALMERIA,2,0,1,0.6
+CADIZ,Girona FC,2,0,1,0.6
+ALMERIA,Betis,2,3,-1,0.6
+Sevilla FC,RCD Mallorca,2,0,1,0.6
+Valencia CF,Athletic Club,1,2,-1,0.6
+Getafe CF,Rayo Vallecano,1,1,0,0.6
+RC Celta,Atlético de Madrid,0,1,-1,0.6
+Real Valladolid CF,CA Osasuna,0,0,0,0.6
+Villarreal CF,FC Barcelona,0,1,-1,0.6
+RCD Espanyol de Barcelona,Real Sociedad,2,3,-1,0.6
+Real Madrid,ELCHE,4,0,1,0.6
+Girona FC,ALMERIA,6,2,1,0.6
+Real Sociedad,RC Celta,1,1,0,0.6
+Betis,Real Valladolid CF,2,1,1,0.6
+RCD Mallorca,Villarreal CF,4,2,1,0.6
+CA Osasuna,Real Madrid,0,2,-1,0.6
+ELCHE,RCD Espanyol de Barcelona,0,1,-1,0.6
+Rayo Vallecano,Sevilla FC,1,1,0,0.6
+Atlético de Madrid,Athletic Club,1,0,1,0.6
+FC Barcelona,CADIZ,2,0,1,0.6
+Getafe CF,Valencia CF,1,0,1,0.6
+ELCHE,Betis,2,3,-1,0.6
+RCD Espanyol de Barcelona,RCD Mallorca,2,1,1,0.6
+CADIZ,Rayo Vallecano,1,0,1,0.6
+Real Madrid,Atlético de Madrid,1,1,0,0.6
+Valencia CF,Real Sociedad,1,0,1,0.6
+Athletic Club,Girona FC,2,3,-1,0.6
+RC Celta,Real Valladolid CF,3,0,1,0.6
+ALMERIA,FC Barcelona,1,0,1,0.6
+Sevilla FC,CA Osasuna,2,3,-1,0.6
+Villarreal CF,Getafe CF,2,1,1,0.6
+Real Sociedad,CADIZ,0,0,0,0.6
+Getafe CF,Girona FC,3,2,1,0.6
+ALMERIA,Villarreal CF,0,2,-1,0.6
+RCD Mallorca,ELCHE,0,1,-1,0.6
+Atlético de Madrid,Sevilla FC,6,1,1,0.6
+Real Valladolid CF,RCD Espanyol de Barcelona,2,1,1,0.6
+FC Barcelona,Valencia CF,1,0,1,0.6
+Rayo Vallecano,Athletic Club,0,0,0,0.6
+Betis,Real Madrid,0,0,0,0.6
+CA Osasuna,RC Celta,0,0,0,0.6
+CADIZ,Getafe CF,2,2,0,0.6
+Real Madrid,RCD Espanyol de Barcelona,3,1,1,0.6
+ELCHE,Real Valladolid CF,1,1,0,0.6
+RC Celta,Rayo Vallecano,3,0,1,0.6
+Valencia CF,CA Osasuna,1,0,1,0.6
+RCD Mallorca,Real Sociedad,1,1,0,0.6
+Sevilla FC,ALMERIA,2,1,1,0.6
+Villarreal CF,Betis,1,1,0,0.6
+Athletic Club,FC Barcelona,0,1,-1,0.6
+Girona FC,Atlético de Madrid,0,1,-1,0.6
+Real Valladolid CF,Athletic Club,1,3,-1,0.6
+ALMERIA,CADIZ,1,1,0,0.6
+Rayo Vallecano,Girona FC,2,2,0,0.6
+RCD Espanyol de Barcelona,RC Celta,1,3,-1,0.6
+Atlético de Madrid,Valencia CF,3,0,1,0.6
+Betis,RCD Mallorca,1,0,1,0.6
+CA Osasuna,Villarreal CF,0,3,-1,0.6
+Real Sociedad,ELCHE,2,0,1,0.6
+Getafe CF,Sevilla FC,2,0,1,0.6
+FC Barcelona,Real Madrid,2,1,1,0.6
+RCD Mallorca,CA Osasuna,0,0,0,0.6
+Girona FC,RCD Espanyol de Barcelona,2,1,1,0.6
+Athletic Club,Getafe CF,0,0,0,0.6
+CADIZ,Sevilla FC,0,2,-1,0.6
+ELCHE,FC Barcelona,0,4,-1,0.6
+RC Celta,ALMERIA,2,2,0,0.6
+Real Madrid,Real Valladolid CF,6,0,1,0.6
+Villarreal CF,Real Sociedad,2,0,1,0.6
+Atlético de Madrid,Betis,1,0,1,0.6
+Valencia CF,Rayo Vallecano,1,1,0,0.6
+Sevilla FC,RC Celta,2,2,0,0.6
+CA Osasuna,ELCHE,2,1,1,0.6
+RCD Espanyol de Barcelona,Athletic Club,1,2,-1,0.6
+Real Sociedad,Getafe CF,2,0,1,0.6
+Real Madrid,Villarreal CF,2,3,-1,0.6
+Real Valladolid CF,RCD Mallorca,3,3,0,0.6
+Betis,CADIZ,0,2,-1,0.6
+ALMERIA,Valencia CF,2,1,1,0.6
+Rayo Vallecano,Atlético de Madrid,1,2,-1,0.6
+FC Barcelona,Girona FC,0,0,0,0.6
+Rayo Vallecano,CA Osasuna,2,1,1,0.6
+Villarreal CF,Real Valladolid CF,1,2,-1,0.6
+Athletic Club,Real Sociedad,2,0,1,0.6
+Betis,RCD Espanyol de Barcelona,3,1,1,0.6
+CADIZ,Real Madrid,0,2,-1,0.6
+Girona FC,ELCHE,2,0,1,0.6
+Getafe CF,FC Barcelona,0,0,0,0.6
+Atlético de Madrid,ALMERIA,2,1,1,0.6
+Valencia CF,Sevilla FC,0,2,-1,0.6
+RC Celta,RCD Mallorca,0,1,-1,0.6
+RCD Espanyol de Barcelona,CADIZ,0,0,0,0.6
+CA Osasuna,Betis,3,2,1,0.6
+ALMERIA,Athletic Club,1,2,-1,0.6
+Real Sociedad,Rayo Vallecano,2,1,1,0.6
+Real Valladolid CF,Girona FC,1,0,1,0.6
+Real Madrid,RC Celta,2,0,1,0.6
+ELCHE,Valencia CF,0,2,-1,0.6
+FC Barcelona,Atlético de Madrid,1,0,1,0.6
+RCD Mallorca,Getafe CF,3,1,1,0.6
+Sevilla FC,Villarreal CF,2,1,1,0.6
+CADIZ,CA Osasuna,0,1,-1,0.6
+Girona FC,Real Madrid,4,2,1,0.6
+Betis,Real Sociedad,0,0,0,0.6
+Atlético de Madrid,RCD Mallorca,3,1,1,0.6
+Getafe CF,ALMERIA,1,2,-1,0.6
+RC Celta,ELCHE,1,0,1,0.6
+Rayo Vallecano,FC Barcelona,2,1,1,0.6
+Valencia CF,Real Valladolid CF,2,1,1,0.6
+Villarreal CF,RCD Espanyol de Barcelona,4,2,1,0.6
+Athletic Club,Sevilla FC,0,1,-1,0.6
+CA Osasuna,Real Sociedad,0,2,-1,0.6
+ELCHE,Rayo Vallecano,4,0,1,0.6
+Real Madrid,ALMERIA,4,2,1,0.6
+FC Barcelona,Betis,4,0,1,0.6
+CADIZ,Valencia CF,2,1,1,0.6
+Villarreal CF,RC Celta,3,1,1,0.6
+RCD Espanyol de Barcelona,Getafe CF,1,0,1,0.6
+Real Valladolid CF,Atlético de Madrid,2,5,-1,0.6
+RCD Mallorca,Athletic Club,1,1,0,0.6
+Sevilla FC,Girona FC,0,2,-1,0.6
+ALMERIA,ELCHE,2,1,1,0.6
+FC Barcelona,CA Osasuna,1,0,1,0.6
+Real Sociedad,Real Madrid,2,0,1,0.6
+Valencia CF,Villarreal CF,1,1,0,0.6
+Atlético de Madrid,CADIZ,5,1,1,0.6
+Getafe CF,RC Celta,1,0,1,0.6
+Girona FC,RCD Mallorca,2,1,1,0.6
+Sevilla FC,RCD Espanyol de Barcelona,3,2,1,0.6
+Athletic Club,Betis,0,1,-1,0.6
+Rayo Vallecano,Real Valladolid CF,2,1,1,0.6
+RCD Mallorca,CADIZ,1,0,1,0.6
+Real Sociedad,Girona FC,2,2,0,0.6
+CA Osasuna,ALMERIA,3,1,1,0.6
+Villarreal CF,Athletic Club,5,1,1,0.6
+Real Madrid,Getafe CF,1,0,1,0.6
+RC Celta,Valencia CF,1,2,-1,0.6
+ELCHE,Atlético de Madrid,1,0,1,0.6
+Real Valladolid CF,Sevilla FC,0,3,-1,0.6
+RCD Espanyol de Barcelona,FC Barcelona,2,4,-1,0.6
+Betis,Rayo Vallecano,3,1,1,0.6
+CADIZ,Real Valladolid CF,2,0,1,0.6
+Girona FC,Villarreal CF,1,2,-1,0.6
+Athletic Club,RC Celta,2,1,1,0.6
+ALMERIA,RCD Mallorca,3,0,1,0.6
+Getafe CF,ELCHE,1,1,0,0.6
+FC Barcelona,Real Sociedad,1,2,-1,0.6
+Rayo Vallecano,RCD Espanyol de Barcelona,1,2,-1,0.6
+Atlético de Madrid,CA Osasuna,3,0,1,0.6
+Valencia CF,Real Madrid,1,0,1,0.6
+Sevilla FC,Betis,0,0,0,0.6
+RC Celta,Girona FC,1,1,0,0.6
+Real Sociedad,ALMERIA,1,0,1,0.6
+Real Valladolid CF,FC Barcelona,3,1,1,0.6
+ELCHE,Sevilla FC,1,1,0,0.6
+Real Madrid,Rayo Vallecano,2,1,1,0.6
+Villarreal CF,CADIZ,2,0,1,0.6
+Betis,Getafe CF,0,1,-1,0.6
+RCD Espanyol de Barcelona,Atlético de Madrid,3,3,0,0.6
+RCD Mallorca,Valencia CF,1,0,1,0.6
+CA Osasuna,Athletic Club,2,0,1,0.6
+Sevilla FC,Real Madrid,1,2,-1,0.6
+ALMERIA,Real Valladolid CF,0,0,0,0.6
+Athletic Club,ELCHE,0,1,-1,0.6
+Atlético de Madrid,Real Sociedad,2,1,1,0.6
+FC Barcelona,RCD Mallorca,3,0,1,0.6
+CADIZ,RC Celta,1,0,1,0.6
+Getafe CF,CA Osasuna,2,1,1,0.6
+Girona FC,Betis,1,2,-1,0.6
+Valencia CF,RCD Espanyol de Barcelona,2,2,0,0.6
+Rayo Vallecano,Villarreal CF,2,1,1,0.6
+RCD Mallorca,Rayo Vallecano,3,0,1,0.6
+CA Osasuna,Girona FC,2,1,1,0.6
+Real Madrid,Athletic Club,1,1,0,0.6
+Real Sociedad,Sevilla FC,2,1,1,0.6
+Villarreal CF,Atlético de Madrid,2,2,0,0.6
+Betis,Valencia CF,1,1,0,0.6
+RC Celta,FC Barcelona,2,1,1,0.6
+ELCHE,CADIZ,1,1,0,0.6
+RCD Espanyol de Barcelona,ALMERIA,3,3,0,0.6
+Real Valladolid CF,Getafe CF,0,0,0,0.6
+ALMERIA,Rayo Vallecano,0,2,-1,0.8
+Sevilla FC,Valencia CF,1,2,-1,0.8
+Real Sociedad,Girona FC,1,1,0,0.8
+UD Las Palmas,RCD Mallorca,1,1,0,0.8
+Athletic Club,Real Madrid,0,2,-1,0.8
+RC Celta,CA Osasuna,0,2,-1,0.8
+Villarreal CF,Betis,1,2,-1,0.8
+Getafe CF,FC Barcelona,0,0,0,0.8
+CADIZ,Deportivo Alavés,1,0,1,0.8
+Atlético de Madrid,GRANADA,3,1,1,0.8
+RCD Mallorca,Villarreal CF,0,1,-1,0.8
+Valencia CF,UD Las Palmas,1,0,1,0.8
+Real Sociedad,RC Celta,1,1,0,0.8
+ALMERIA,Real Madrid,1,3,-1,0.8
+CA Osasuna,Athletic Club,0,2,-1,0.8
+Girona FC,Getafe CF,3,0,1,0.8
+FC Barcelona,CADIZ,2,0,1,0.8
+Betis,Atlético de Madrid,0,0,0,0.8
+Deportivo Alavés,Sevilla FC,4,3,1,0.8
+GRANADA,Rayo Vallecano,0,2,-1,0.8
+UD Las Palmas,Real Sociedad,0,0,0,0.8
+RC Celta,Real Madrid,0,1,-1,0.8
+CADIZ,ALMERIA,1,1,0,0.8
+GRANADA,RCD Mallorca,3,2,1,0.8
+Sevilla FC,Girona FC,1,2,-1,0.8
+Villarreal CF,FC Barcelona,3,4,-1,0.8
+Valencia CF,CA Osasuna,1,2,-1,0.8
+Athletic Club,Betis,4,2,1,0.8
+Getafe CF,Deportivo Alavés,1,0,1,0.8
+Rayo Vallecano,Atlético de Madrid,0,7,-1,0.8
+CADIZ,Villarreal CF,3,1,1,0.8
+ALMERIA,RC Celta,2,3,-1,0.8
+Real Sociedad,GRANADA,5,3,1,0.8
+Real Madrid,Getafe CF,2,1,1,0.8
+Deportivo Alavés,Valencia CF,1,0,1,0.8
+Betis,Rayo Vallecano,1,0,1,0.8
+Girona FC,UD Las Palmas,1,0,1,0.8
+RCD Mallorca,Athletic Club,0,0,0,0.8
+CA Osasuna,FC Barcelona,1,2,-1,0.8
+Rayo Vallecano,Deportivo Alavés,2,0,1,0.8
+Athletic Club,CADIZ,3,0,1,0.8
+Valencia CF,Atlético de Madrid,3,0,1,0.8
+RC Celta,RCD Mallorca,0,1,-1,0.8
+FC Barcelona,Betis,5,0,1,0.8
+Getafe CF,CA Osasuna,3,2,1,0.8
+Villarreal CF,ALMERIA,2,1,1,0.8
+Sevilla FC,UD Las Palmas,1,0,1,0.8
+Real Madrid,Real Sociedad,2,1,1,0.8
+GRANADA,Girona FC,2,4,-1,0.8
+Deportivo Alavés,Athletic Club,0,2,-1,0.8
+Girona FC,RCD Mallorca,5,3,1,0.8
+CA Osasuna,Sevilla FC,0,0,0,0.8
+FC Barcelona,RC Celta,3,2,1,0.8
+ALMERIA,Valencia CF,2,2,0,0.8
+Real Sociedad,Getafe CF,4,3,1,0.8
+Rayo Vallecano,Villarreal CF,1,1,0,0.8
+Betis,CADIZ,1,1,0,0.8
+UD Las Palmas,GRANADA,1,0,1,0.8
+Atlético de Madrid,Real Madrid,3,1,1,0.8
+Sevilla FC,ALMERIA,5,1,1,0.8
+RCD Mallorca,FC Barcelona,2,2,0,0.8
+Athletic Club,Getafe CF,2,2,0,0.8
+Real Madrid,UD Las Palmas,2,0,1,0.8
+Villarreal CF,Girona FC,1,2,-1,0.8
+CADIZ,Rayo Vallecano,0,0,0,0.8
+Valencia CF,Real Sociedad,0,1,-1,0.8
+RC Celta,Deportivo Alavés,1,1,0,0.8
+GRANADA,Betis,1,1,0,0.8
+CA Osasuna,Atlético de Madrid,0,2,-1,0.8
+FC Barcelona,Sevilla FC,1,0,1,0.8
+Getafe CF,Villarreal CF,0,0,0,0.8
+Rayo Vallecano,RCD Mallorca,2,2,0,0.8
+Girona FC,Real Madrid,0,3,-1,0.8
+Real Sociedad,Athletic Club,3,0,1,0.8
+ALMERIA,GRANADA,3,3,0,0.8
+Deportivo Alavés,CA Osasuna,0,2,-1,0.8
+Atlético de Madrid,CADIZ,3,2,1,0.8
+Betis,Valencia CF,3,0,1,0.8
+UD Las Palmas,RC Celta,2,1,1,0.8
+Athletic Club,ALMERIA,3,0,1,0.8
+CADIZ,Girona FC,0,1,-1,0.8
+Real Madrid,CA Osasuna,4,0,1,0.8
+RCD Mallorca,Valencia CF,1,1,0,0.8
+Sevilla FC,Rayo Vallecano,2,2,0,0.8
+Villarreal CF,UD Las Palmas,1,2,-1,0.8
+Atlético de Madrid,Real Sociedad,2,1,1,0.8
+Deportivo Alavés,Betis,1,1,0,0.8
+RC Celta,Getafe CF,2,2,0,0.8
+GRANADA,FC Barcelona,2,2,0,0.8
+CA Osasuna,GRANADA,2,0,1,0.8
+Real Sociedad,RCD Mallorca,1,0,1,0.8
+Getafe CF,Betis,1,1,0,0.8
+Sevilla FC,Real Madrid,1,1,0,0.8
+RC Celta,Atlético de Madrid,0,3,-1,0.8
+UD Las Palmas,Rayo Vallecano,0,1,-1,0.8
+Girona FC,ALMERIA,5,2,1,0.8
+Villarreal CF,Deportivo Alavés,1,1,0,0.8
+FC Barcelona,Athletic Club,1,0,1,0.8
+Valencia CF,CADIZ,2,0,1,0.8
+Girona FC,RC Celta,1,0,1,0.8
+ALMERIA,UD Las Palmas,1,2,-1,0.8
+FC Barcelona,Real Madrid,1,2,-1,0.8
+RCD Mallorca,Getafe CF,0,0,0,0.8
+CADIZ,Sevilla FC,2,2,0,0.8
+Betis,CA Osasuna,2,1,1,0.8
+Rayo Vallecano,Real Sociedad,2,2,0,0.8
+Athletic Club,Valencia CF,2,2,0,0.8
+Atlético de Madrid,Deportivo Alavés,2,1,1,0.8
+GRANADA,Villarreal CF,2,3,-1,0.8
+UD Las Palmas,Atlético de Madrid,2,1,1,0.8
+CA Osasuna,Girona FC,2,4,-1,0.8
+Betis,RCD Mallorca,2,0,1,0.8
+RC Celta,Sevilla FC,1,1,0,0.8
+Real Sociedad,FC Barcelona,0,1,-1,0.8
+Deportivo Alavés,ALMERIA,1,0,1,0.8
+Valencia CF,GRANADA,1,0,1,0.8
+Villarreal CF,Athletic Club,2,3,-1,0.8
+Real Madrid,Rayo Vallecano,0,0,0,0.8
+Getafe CF,CADIZ,1,0,1,0.8
+Athletic Club,RC Celta,4,3,1,0.8
+Rayo Vallecano,Girona FC,1,2,-1,0.8
+ALMERIA,Real Sociedad,1,3,-1,0.8
+GRANADA,Getafe CF,1,1,0,0.8
+CA Osasuna,UD Las Palmas,1,1,0,0.8
+Real Madrid,Valencia CF,5,1,1,0.8
+FC Barcelona,Deportivo Alavés,2,1,1,0.8
+Sevilla FC,Betis,1,1,0,0.8
+Atlético de Madrid,Villarreal CF,3,1,1,0.8
+Deportivo Alavés,GRANADA,3,1,1,0.8
+Rayo Vallecano,FC Barcelona,1,1,0,0.8
+Valencia CF,RC Celta,0,0,0,0.8
+Getafe CF,ALMERIA,2,1,1,0.8
+Atlético de Madrid,RCD Mallorca,1,0,1,0.8
+Villarreal CF,CA Osasuna,3,1,1,0.8
+Real Sociedad,Sevilla FC,2,1,1,0.8
+CADIZ,Real Madrid,0,3,-1,0.8
+Betis,UD Las Palmas,1,0,1,0.8
+Girona FC,Athletic Club,1,1,0,0.8
+RCD Mallorca,CADIZ,1,1,0,0.8
+UD Las Palmas,Getafe CF,2,0,1,0.8
+Girona FC,Valencia CF,2,1,1,0.8
+Athletic Club,Rayo Vallecano,4,0,1,0.8
+Real Madrid,GRANADA,2,0,1,0.8
+CA Osasuna,Real Sociedad,1,1,0,0.8
+RCD Mallorca,Deportivo Alavés,0,0,0,0.8
+ALMERIA,Betis,0,0,0,0.8
+Sevilla FC,Villarreal CF,1,1,0,0.8
+FC Barcelona,Atlético de Madrid,1,0,1,0.8
+RC Celta,CADIZ,1,1,0,0.8
+Getafe CF,Valencia CF,1,0,1,0.8
+Deportivo Alavés,UD Las Palmas,0,1,-1,0.8
+Betis,Real Madrid,1,1,0,0.8
+Villarreal CF,Real Sociedad,0,3,-1,0.8
+RCD Mallorca,Sevilla FC,1,0,1,0.8
+Atlético de Madrid,ALMERIA,2,1,1,0.8
+CADIZ,CA Osasuna,1,1,0,0.8
+FC Barcelona,Girona FC,2,4,-1,0.8
+GRANADA,Athletic Club,1,1,0,0.8
+Rayo Vallecano,RC Celta,0,0,0,0.8
+CA Osasuna,Rayo Vallecano,1,0,1,0.8
+RC Celta,GRANADA,1,0,1,0.8
+Athletic Club,Atlético de Madrid,2,0,1,0.8
+Sevilla FC,Getafe CF,0,3,-1,0.8
+Valencia CF,FC Barcelona,1,1,0,0.8
+ALMERIA,RCD Mallorca,0,0,0,0.8
+Real Sociedad,Betis,0,0,0,0.8
+UD Las Palmas,CADIZ,1,1,0,0.8
+Real Madrid,Villarreal CF,4,1,1,0.8
+Girona FC,Deportivo Alavés,3,0,1,0.8
+Rayo Vallecano,Valencia CF,0,1,-1,0.8
+Atlético de Madrid,Getafe CF,3,3,0,0.8
+GRANADA,Sevilla FC,0,3,-1,0.8
+FC Barcelona,ALMERIA,3,2,1,0.8
+Athletic Club,UD Las Palmas,1,0,1,0.8
+Villarreal CF,RC Celta,3,2,1,0.8
+Betis,Girona FC,1,1,0,0.8
+CADIZ,Real Sociedad,0,0,0,0.8
+Deportivo Alavés,Real Madrid,0,1,-1,0.8
+RCD Mallorca,CA Osasuna,3,2,1,0.8
+Atlético de Madrid,Sevilla FC,1,0,1,0.8
+Getafe CF,Rayo Vallecano,0,2,-1,0.8
+Real Sociedad,Deportivo Alavés,1,1,0,0.8
+Valencia CF,Villarreal CF,3,1,1,0.8
+GRANADA,CADIZ,2,0,1,0.8
+RC Celta,Betis,2,1,1,0.8
+Real Madrid,RCD Mallorca,1,0,1,0.8
+Girona FC,Atlético de Madrid,4,3,1,0.8
+CA Osasuna,ALMERIA,1,0,1,0.8
+Sevilla FC,Athletic Club,0,2,-1,0.8
+UD Las Palmas,FC Barcelona,1,2,-1,0.8
+Sevilla FC,Deportivo Alavés,2,3,-1,0.8
+UD Las Palmas,Villarreal CF,3,0,1,0.8
+RCD Mallorca,RC Celta,1,1,0,0.8
+Athletic Club,Real Sociedad,2,1,1,0.8
+Betis,GRANADA,1,0,1,0.8
+ALMERIA,Girona FC,0,0,0,0.8
+CADIZ,Valencia CF,1,4,-1,0.8
+Deportivo Alavés,CADIZ,1,0,1,0.8
+Rayo Vallecano,UD Las Palmas,0,2,-1,0.8
+Villarreal CF,RCD Mallorca,1,1,0,0.8
+Valencia CF,Athletic Club,1,0,1,0.8
+RC Celta,Real Sociedad,0,1,-1,0.8
+CA Osasuna,Getafe CF,3,2,1,0.8
+Real Madrid,ALMERIA,3,2,1,0.8
+Betis,FC Barcelona,2,4,-1,0.8
+Girona FC,Sevilla FC,5,1,1,0.8
+GRANADA,Atlético de Madrid,0,1,-1,0.8
+ALMERIA,Deportivo Alavés,0,3,-1,0.8
+Real Sociedad,Rayo Vallecano,0,0,0,0.8
+UD Las Palmas,Real Madrid,1,2,-1,0.8
+FC Barcelona,Villarreal CF,3,5,-1,0.8
+RCD Mallorca,Betis,0,1,-1,0.8
+RC Celta,Girona FC,0,1,-1,0.8
+CADIZ,Athletic Club,0,0,0,0.8
+Sevilla FC,CA Osasuna,1,1,0,0.8
+Atlético de Madrid,Valencia CF,2,0,1,0.8
+Getafe CF,GRANADA,2,0,1,0.8
+FC Barcelona,CA Osasuna,1,0,1,0.8
+Atlético de Madrid,Rayo Vallecano,2,1,1,0.8
+Getafe CF,Real Madrid,0,2,-1,0.8
+Athletic Club,RCD Mallorca,4,0,1,0.8
+Valencia CF,ALMERIA,2,1,1,0.8
+GRANADA,UD Las Palmas,1,1,0,0.8
+Deportivo Alavés,FC Barcelona,1,3,-1,0.8
+Girona FC,Real Sociedad,0,0,0,0.8
+Villarreal CF,CADIZ,0,0,0,0.8
+CA Osasuna,RC Celta,0,3,-1,0.8
+Betis,Getafe CF,1,1,0,0.8
+Real Madrid,Atlético de Madrid,1,1,0,0.8
+Rayo Vallecano,Sevilla FC,1,2,-1,0.8
+CADIZ,Betis,0,2,-1,0.8
+Deportivo Alavés,Villarreal CF,1,1,0,0.8
+Real Sociedad,CA Osasuna,0,1,-1,0.8
+Real Madrid,Girona FC,4,0,1,0.8
+UD Las Palmas,Valencia CF,2,0,1,0.8
+Getafe CF,RC Celta,3,2,1,0.8
+RCD Mallorca,Rayo Vallecano,2,1,1,0.8
+Sevilla FC,Atlético de Madrid,1,0,1,0.8
+FC Barcelona,GRANADA,3,3,0,0.8
+ALMERIA,Athletic Club,0,0,0,0.8
+Villarreal CF,Getafe CF,1,1,0,0.8
+Atlético de Madrid,UD Las Palmas,5,0,1,0.8
+CA Osasuna,CADIZ,2,0,1,0.8
+RC Celta,FC Barcelona,1,2,-1,0.8
+Valencia CF,Sevilla FC,0,0,0,0.8
+Rayo Vallecano,Real Madrid,1,1,0,0.8
+GRANADA,ALMERIA,1,1,0,0.8
+RCD Mallorca,Real Sociedad,1,2,-1,0.8
+Betis,Deportivo Alavés,0,0,0,0.8
+Athletic Club,Girona FC,3,2,1,0.8
+Real Sociedad,Villarreal CF,1,3,-1,0.8
+FC Barcelona,Getafe CF,4,0,1,0.8
+Deportivo Alavés,RCD Mallorca,1,1,0,0.8
+ALMERIA,Atlético de Madrid,2,2,0,0.8
+CADIZ,RC Celta,2,2,0,0.8
+Betis,Athletic Club,3,1,1,0.8
+UD Las Palmas,CA Osasuna,1,1,0,0.8
+Real Madrid,Sevilla FC,1,0,1,0.8
+Girona FC,Rayo Vallecano,3,0,1,0.8
+RC Celta,ALMERIA,1,0,1,0.8
+Sevilla FC,Real Sociedad,3,2,1,0.8
+Rayo Vallecano,CADIZ,1,1,0,0.8
+Getafe CF,UD Las Palmas,3,3,0,0.8
+Valencia CF,Real Madrid,2,2,0,0.8
+Villarreal CF,GRANADA,5,1,1,0.8
+Atlético de Madrid,Betis,2,1,1,0.8
+RCD Mallorca,Girona FC,1,0,1,0.8
+Athletic Club,FC Barcelona,0,0,0,0.8
+CA Osasuna,Deportivo Alavés,1,0,1,0.8
+FC Barcelona,RCD Mallorca,1,0,1,0.8
+Valencia CF,Getafe CF,1,0,1,0.8
+CADIZ,Atlético de Madrid,2,0,1,0.8
+GRANADA,Real Sociedad,2,3,-1,0.8
+Girona FC,CA Osasuna,2,0,1,0.8
+Deportivo Alavés,Rayo Vallecano,1,0,1,0.8
+UD Las Palmas,Athletic Club,0,2,-1,0.8
+Real Madrid,RC Celta,4,0,1,0.8
+Betis,Villarreal CF,2,3,-1,0.8
+ALMERIA,Sevilla FC,2,2,0,0.8
+Real Sociedad,CADIZ,2,0,1,0.8
+RCD Mallorca,GRANADA,1,0,1,0.8
+CA Osasuna,Real Madrid,2,4,-1,0.8
+Getafe CF,Girona FC,1,0,1,0.8
+Athletic Club,Deportivo Alavés,2,0,1,0.8
+Sevilla FC,RC Celta,1,2,-1,0.8
+UD Las Palmas,ALMERIA,0,1,-1,0.8
+Villarreal CF,Valencia CF,1,0,1,0.8
+Rayo Vallecano,Betis,2,0,1,0.8
+Atlético de Madrid,FC Barcelona,0,3,-1,0.8
+CADIZ,GRANADA,1,0,1,0.8
+Getafe CF,Sevilla FC,0,1,-1,0.8
+ALMERIA,CA Osasuna,0,3,-1,0.8
+Valencia CF,RCD Mallorca,0,0,0,0.8
+FC Barcelona,UD Las Palmas,1,0,1,0.8
+RC Celta,Rayo Vallecano,0,0,0,0.8
+Girona FC,Betis,3,2,1,0.8
+Deportivo Alavés,Real Sociedad,0,1,-1,0.8
+Real Madrid,Athletic Club,2,0,1,0.8
+Villarreal CF,Atlético de Madrid,1,2,-1,0.8
+GRANADA,Valencia CF,0,1,-1,0.8
+Betis,RC Celta,2,1,1,0.8
+Atlético de Madrid,Girona FC,3,1,1,0.8
+Rayo Vallecano,Getafe CF,0,0,0,0.8
+RCD Mallorca,Real Madrid,0,1,-1,0.8
+CADIZ,FC Barcelona,0,1,-1,0.8
+UD Las Palmas,Sevilla FC,0,2,-1,0.8
+GRANADA,Deportivo Alavés,2,0,1,0.8
+Athletic Club,Villarreal CF,1,1,0,0.8
+Real Sociedad,ALMERIA,2,2,0,0.8
+CA Osasuna,Valencia CF,0,1,-1,0.8
+Athletic Club,GRANADA,1,1,0,0.8
+RC Celta,UD Las Palmas,4,1,1,0.8
+Rayo Vallecano,CA Osasuna,2,1,1,0.8
+Valencia CF,Betis,1,2,-1,0.8
+Girona FC,CADIZ,4,1,1,0.8
+Getafe CF,Real Sociedad,1,1,0,0.8
+ALMERIA,Villarreal CF,1,2,-1,0.8
+Deportivo Alavés,Atlético de Madrid,2,0,1,0.8
+Real Madrid,FC Barcelona,3,2,1,0.8
+Sevilla FC,RCD Mallorca,2,1,1,0.8
+Real Sociedad,Real Madrid,0,1,-1,0.8
+UD Las Palmas,Girona FC,0,2,-1,0.8
+ALMERIA,Getafe CF,1,3,-1,0.8
+Deportivo Alavés,RC Celta,3,0,1,0.8
+Atlético de Madrid,Athletic Club,3,1,1,0.8
+CADIZ,RCD Mallorca,1,1,0,0.8
+GRANADA,CA Osasuna,3,0,1,0.8
+Villarreal CF,Rayo Vallecano,3,0,1,0.8
+Betis,Sevilla FC,1,1,0,0.8
+FC Barcelona,Valencia CF,4,2,1,0.8
+Getafe CF,Athletic Club,0,2,-1,0.8
+Real Sociedad,UD Las Palmas,2,0,1,0.8
+Real Madrid,CADIZ,3,0,1,0.8
+Girona FC,FC Barcelona,4,2,1,0.8
+RCD Mallorca,Atlético de Madrid,0,1,-1,0.8
+CA Osasuna,Betis,0,2,-1,0.8
+RC Celta,Villarreal CF,3,2,1,0.8
+Valencia CF,Deportivo Alavés,0,1,-1,0.8
+Sevilla FC,GRANADA,3,0,1,0.8
+Rayo Vallecano,ALMERIA,0,1,-1,0.8
+Deportivo Alavés,Girona FC,2,2,0,0.8
+RCD Mallorca,UD Las Palmas,1,0,1,0.8
+Villarreal CF,Sevilla FC,3,2,1,0.8
+GRANADA,Real Madrid,0,4,-1,0.8
+Athletic Club,CA Osasuna,2,2,0,0.8
+CADIZ,Getafe CF,1,0,1,0.8
+Atlético de Madrid,RC Celta,1,0,1,0.8
+Valencia CF,Rayo Vallecano,0,0,0,0.8
+Betis,ALMERIA,3,2,1,0.8
+FC Barcelona,Real Sociedad,2,0,1,0.8
+CA Osasuna,RCD Mallorca,1,1,0,0.8
+Real Madrid,Deportivo Alavés,5,0,1,0.8
+Girona FC,Villarreal CF,0,1,-1,0.8
+Sevilla FC,CADIZ,0,1,-1,0.8
+Rayo Vallecano,GRANADA,2,1,1,0.8
+RC Celta,Athletic Club,2,1,1,0.8
+Getafe CF,Atlético de Madrid,0,3,-1,0.8
+UD Las Palmas,Betis,2,2,0,0.8
+ALMERIA,FC Barcelona,0,2,-1,0.8
+Real Sociedad,Valencia CF,1,0,1,0.8
+Deportivo Alavés,Getafe CF,1,0,1,0.8
+Athletic Club,Sevilla FC,2,0,1,0.8
+Atlético de Madrid,CA Osasuna,1,4,-1,0.8
+FC Barcelona,Rayo Vallecano,3,0,1,0.8
+Betis,Real Sociedad,0,2,-1,0.8
+CADIZ,UD Las Palmas,0,0,0,0.8
+GRANADA,RC Celta,1,2,-1,0.8
+RCD Mallorca,ALMERIA,2,2,0,0.8
+Valencia CF,Girona FC,1,3,-1,0.8
+Villarreal CF,Real Madrid,4,4,0,0.8
+Girona FC,GRANADA,7,0,1,0.8
+CA Osasuna,Villarreal CF,1,1,0,0.8
+Real Sociedad,Atlético de Madrid,0,2,-1,0.8
+ALMERIA,CADIZ,6,1,1,0.8
+Rayo Vallecano,Athletic Club,0,1,-1,0.8
+Real Madrid,Betis,0,0,0,0.8
+Getafe CF,RCD Mallorca,1,2,-1,0.8
+RC Celta,Valencia CF,2,2,0,0.8
+UD Las Palmas,Deportivo Alavés,1,1,0,0.8
+Sevilla FC,FC Barcelona,1,2,-1,0.8
+Athletic Club,Getafe CF,1,1,0,1.0
+Betis,Girona FC,1,1,0,1.0
+RC Celta,Deportivo Alavés,2,1,1,1.0
+UD Las Palmas,Sevilla FC,2,2,0,1.0
+CA Osasuna,CD Leganés,1,1,0,1.0
+Valencia CF,FC Barcelona,1,2,-1,1.0
+Real Sociedad,Rayo Vallecano,1,2,-1,1.0
+RCD Mallorca,Real Madrid,1,1,0,1.0
+Real Valladolid CF,RCD Espanyol de Barcelona,1,0,1,1.0
+Villarreal CF,Atlético de Madrid,2,2,0,1.0
+RC Celta,Valencia CF,3,1,1,1.0
+Sevilla FC,Villarreal CF,1,2,-1,1.0
+CA Osasuna,RCD Mallorca,1,0,1,1.0
+FC Barcelona,Athletic Club,2,1,1,1.0
+RCD Espanyol de Barcelona,Real Sociedad,0,1,-1,1.0
+Getafe CF,Rayo Vallecano,0,0,0,1.0
+Real Madrid,Real Valladolid CF,3,0,1,1.0
+CD Leganés,UD Las Palmas,2,1,1,1.0
+Deportivo Alavés,Betis,0,0,0,1.0
+Atlético de Madrid,Girona FC,3,0,1,1.0
+Villarreal CF,RC Celta,4,3,1,1.0
+RCD Mallorca,Sevilla FC,0,0,0,1.0
+Rayo Vallecano,FC Barcelona,1,2,-1,1.0
+Athletic Club,Valencia CF,1,0,1,1.0
+Real Valladolid CF,CD Leganés,0,0,0,1.0
+Atlético de Madrid,RCD Espanyol de Barcelona,0,0,0,1.0
+Real Sociedad,Deportivo Alavés,1,2,-1,1.0
+Girona FC,CA Osasuna,4,0,1,1.0
+UD Las Palmas,Real Madrid,1,1,0,1.0
+FC Barcelona,Real Valladolid CF,7,0,1,1.0
+Athletic Club,Atlético de Madrid,0,1,-1,1.0
+RCD Espanyol de Barcelona,Rayo Vallecano,2,1,1,1.0
+CD Leganés,RCD Mallorca,0,1,-1,1.0
+Valencia CF,Villarreal CF,1,1,0,1.0
+Deportivo Alavés,UD Las Palmas,2,0,1,1.0
+CA Osasuna,RC Celta,3,2,1,1.0
+Sevilla FC,Girona FC,0,2,-1,1.0
+Getafe CF,Real Sociedad,0,0,0,1.0
+Real Madrid,Betis,2,0,1,1.0
+Betis,CD Leganés,2,0,1,1.0
+RCD Mallorca,Villarreal CF,1,2,-1,1.0
+RCD Espanyol de Barcelona,Deportivo Alavés,3,2,1,1.0
+Sevilla FC,Getafe CF,1,0,1,1.0
+Real Sociedad,Real Madrid,0,2,-1,1.0
+RC Celta,Real Valladolid CF,3,1,1,1.0
+Girona FC,FC Barcelona,1,4,-1,1.0
+UD Las Palmas,Athletic Club,2,3,-1,1.0
+Atlético de Madrid,Valencia CF,3,0,1,1.0
+Rayo Vallecano,CA Osasuna,3,1,1,1.0
+RCD Mallorca,Real Sociedad,1,0,1,1.0
+Betis,Getafe CF,2,1,1,1.0
+CD Leganés,Athletic Club,0,2,-1,1.0
+Deportivo Alavés,Sevilla FC,2,1,1,1.0
+Real Valladolid CF,Real Sociedad,0,0,0,1.0
+CA Osasuna,UD Las Palmas,2,1,1,1.0
+Valencia CF,Girona FC,2,0,1,1.0
+Real Madrid,RCD Espanyol de Barcelona,4,1,1,1.0
+Getafe CF,CD Leganés,1,1,0,1.0
+Athletic Club,RC Celta,3,1,1,1.0
+Villarreal CF,FC Barcelona,1,5,-1,1.0
+Rayo Vallecano,Atlético de Madrid,1,1,0,1.0
+Betis,RCD Mallorca,1,2,-1,1.0
+Sevilla FC,Real Valladolid CF,2,1,1,1.0
+Valencia CF,CA Osasuna,0,0,0,1.0
+Real Madrid,Deportivo Alavés,3,2,1,1.0
+Girona FC,Rayo Vallecano,0,0,0,1.0
+FC Barcelona,Getafe CF,1,0,1,1.0
+RCD Espanyol de Barcelona,Villarreal CF,1,2,-1,1.0
+UD Las Palmas,Betis,1,1,0,1.0
+RC Celta,Atlético de Madrid,0,1,-1,1.0
+Real Valladolid CF,RCD Mallorca,1,2,-1,1.0
+Getafe CF,Deportivo Alavés,2,0,1,1.0
+Rayo Vallecano,CD Leganés,1,1,0,1.0
+Real Sociedad,Valencia CF,3,0,1,1.0
+CA Osasuna,FC Barcelona,4,2,1,1.0
+RC Celta,Girona FC,1,1,0,1.0
+Athletic Club,Sevilla FC,1,1,0,1.0
+Betis,RCD Espanyol de Barcelona,1,0,1,1.0
+Atlético de Madrid,Real Madrid,1,1,0,1.0
+Villarreal CF,UD Las Palmas,3,1,1,1.0
+CD Leganés,Valencia CF,0,0,0,1.0
+RCD Espanyol de Barcelona,RCD Mallorca,2,1,1,1.0
+Getafe CF,CA Osasuna,1,1,0,1.0
+UD Las Palmas,RC Celta,0,1,-1,1.0
+Real Valladolid CF,Rayo Vallecano,1,2,-1,1.0
+Real Madrid,Villarreal CF,2,0,1,1.0
+Girona FC,Athletic Club,2,1,1,1.0
+Deportivo Alavés,FC Barcelona,0,3,-1,1.0
+Sevilla FC,Betis,1,0,1,1.0
+Real Sociedad,Atlético de Madrid,1,1,0,1.0
+Deportivo Alavés,Real Valladolid CF,2,3,-1,1.0
+Athletic Club,RCD Espanyol de Barcelona,4,1,1,1.0
+CA Osasuna,Betis,1,2,-1,1.0
+Girona FC,Real Sociedad,0,1,-1,1.0
+RC Celta,Real Madrid,1,2,-1,1.0
+RCD Mallorca,Rayo Vallecano,1,0,1,1.0
+Atlético de Madrid,CD Leganés,3,1,1,1.0
+Villarreal CF,Getafe CF,1,1,0,1.0
+FC Barcelona,Sevilla FC,5,1,1,1.0
+Valencia CF,UD Las Palmas,2,3,-1,1.0
+RCD Espanyol de Barcelona,Sevilla FC,0,2,-1,1.0
+Real Valladolid CF,Villarreal CF,1,2,-1,1.0
+Rayo Vallecano,Deportivo Alavés,1,0,1,1.0
+UD Las Palmas,Girona FC,1,0,1,1.0
+Real Madrid,FC Barcelona,0,4,-1,1.0
+CD Leganés,RC Celta,3,0,1,1.0
+Getafe CF,Valencia CF,1,1,0,1.0
+Betis,Atlético de Madrid,1,0,1,1.0
+Real Sociedad,CA Osasuna,0,2,-1,1.0
+RCD Mallorca,Athletic Club,0,0,0,1.0
+Deportivo Alavés,RCD Mallorca,1,0,1,1.0
+CA Osasuna,Real Valladolid CF,1,0,1,1.0
+Girona FC,CD Leganés,4,3,1,1.0
+Atlético de Madrid,UD Las Palmas,2,0,1,1.0
+FC Barcelona,RCD Espanyol de Barcelona,3,1,1,1.0
+Sevilla FC,Real Sociedad,0,2,-1,1.0
+Athletic Club,Betis,1,1,0,1.0
+RC Celta,Getafe CF,1,0,1,1.0
+Rayo Vallecano,UD Las Palmas,1,3,-1,1.0
+Real Madrid,CA Osasuna,4,0,1,1.0
+Villarreal CF,Deportivo Alavés,3,0,1,1.0
+CD Leganés,Sevilla FC,1,0,1,1.0
+Betis,RC Celta,2,2,0,1.0
+RCD Mallorca,Atlético de Madrid,0,1,-1,1.0
+Getafe CF,Girona FC,0,1,-1,1.0
+Real Valladolid CF,Athletic Club,1,1,0,1.0
+Real Sociedad,FC Barcelona,1,0,1,1.0
+Getafe CF,Real Valladolid CF,2,0,1,1.0
+Valencia CF,Betis,4,2,1,1.0
+Atlético de Madrid,Deportivo Alavés,2,1,1,1.0
+Girona FC,RCD Espanyol de Barcelona,4,1,1,1.0
+UD Las Palmas,RCD Mallorca,2,3,-1,1.0
+RC Celta,FC Barcelona,2,2,0,1.0
+CA Osasuna,Villarreal CF,2,2,0,1.0
+Sevilla FC,Rayo Vallecano,1,0,1,1.0
+CD Leganés,Real Madrid,0,3,-1,1.0
+Athletic Club,Real Sociedad,1,0,1,1.0
+RCD Mallorca,Valencia CF,2,1,1,1.0
+FC Barcelona,UD Las Palmas,1,2,-1,1.0
+Deportivo Alavés,CD Leganés,1,1,0,1.0
+RCD Espanyol de Barcelona,RC Celta,3,1,1,1.0
+Real Valladolid CF,Atlético de Madrid,0,5,-1,1.0
+Villarreal CF,Girona FC,2,2,0,1.0
+Real Madrid,Getafe CF,2,0,1,1.0
+Rayo Vallecano,Athletic Club,1,2,-1,1.0
+Real Sociedad,Betis,2,0,1,1.0
+Sevilla FC,CA Osasuna,1,1,0,1.0
+RCD Mallorca,FC Barcelona,1,5,-1,1.0
+Athletic Club,Real Madrid,2,1,1,1.0
+RC Celta,RCD Mallorca,2,0,1,1.0
+UD Las Palmas,Real Valladolid CF,2,1,1,1.0
+Betis,FC Barcelona,2,2,0,1.0
+Valencia CF,Rayo Vallecano,0,1,-1,1.0
+Girona FC,Real Madrid,0,3,-1,1.0
+CD Leganés,Real Sociedad,0,3,-1,1.0
+Athletic Club,Villarreal CF,2,0,1,1.0
+CA Osasuna,Deportivo Alavés,2,2,0,1.0
+Atlético de Madrid,Sevilla FC,4,3,1,1.0
+Getafe CF,RCD Espanyol de Barcelona,1,0,1,1.0
+Real Valladolid CF,Valencia CF,1,0,1,1.0
+RCD Espanyol de Barcelona,CA Osasuna,0,0,0,1.0
+RCD Mallorca,Girona FC,2,1,1,1.0
+Sevilla FC,RC Celta,1,0,1,1.0
+Rayo Vallecano,Real Madrid,3,3,0,1.0
+Atlético de Madrid,Getafe CF,1,0,1,1.0
+Deportivo Alavés,Athletic Club,1,1,0,1.0
+Real Sociedad,UD Las Palmas,0,0,0,1.0
+Villarreal CF,Betis,1,2,-1,1.0
+FC Barcelona,CD Leganés,0,1,-1,1.0
+RCD Espanyol de Barcelona,Valencia CF,1,1,0,1.0
+Villarreal CF,Rayo Vallecano,1,1,0,1.0
+Girona FC,Real Valladolid CF,3,0,1,1.0
+Getafe CF,RCD Mallorca,0,1,-1,1.0
+RC Celta,Real Sociedad,2,0,1,1.0
+CA Osasuna,Athletic Club,1,2,-1,1.0
+FC Barcelona,Atlético de Madrid,1,2,-1,1.0
+Valencia CF,Deportivo Alavés,2,2,0,1.0
+Real Madrid,Sevilla FC,4,2,1,1.0
+UD Las Palmas,RCD Espanyol de Barcelona,1,0,1,1.0
+CD Leganés,Villarreal CF,2,5,-1,1.0
+Betis,Rayo Vallecano,1,1,0,1.0
+Valencia CF,Real Madrid,1,2,-1,1.0
+Rayo Vallecano,RC Celta,2,1,1,1.0
+Deportivo Alavés,Girona FC,0,1,-1,1.0
+Real Valladolid CF,Betis,1,0,1,1.0
+RCD Espanyol de Barcelona,CD Leganés,1,1,0,1.0
+Sevilla FC,Valencia CF,1,1,0,1.0
+UD Las Palmas,Getafe CF,1,2,-1,1.0
+Atlético de Madrid,CA Osasuna,1,0,1,1.0
+Real Sociedad,Villarreal CF,1,0,1,1.0
+RCD Espanyol de Barcelona,Real Valladolid CF,2,1,1,1.0
+Girona FC,Sevilla FC,1,2,-1,1.0
+CD Leganés,Atlético de Madrid,1,0,1,1.0
+Betis,Deportivo Alavés,1,3,-1,1.0
+Getafe CF,FC Barcelona,1,1,0,1.0
+RC Celta,Athletic Club,1,2,-1,1.0
+Real Madrid,UD Las Palmas,4,1,1,1.0
+CA Osasuna,Rayo Vallecano,1,1,0,1.0
+Valencia CF,Real Sociedad,1,0,1,1.0
+Villarreal CF,RCD Mallorca,4,0,1,1.0
+UD Las Palmas,CA Osasuna,1,1,0,1.0
+RCD Mallorca,Betis,0,1,-1,1.0
+Atlético de Madrid,Villarreal CF,1,1,0,1.0
+Sevilla FC,RCD Espanyol de Barcelona,1,1,0,1.0
+Real Valladolid CF,Real Madrid,0,3,-1,1.0
+Rayo Vallecano,Girona FC,2,1,1,1.0
+Real Sociedad,Getafe CF,0,3,-1,1.0
+Athletic Club,CD Leganés,0,0,0,1.0
+FC Barcelona,Valencia CF,7,1,1,1.0
+Deportivo Alavés,RC Celta,1,1,0,1.0
+CD Leganés,Rayo Vallecano,0,1,-1,1.0
+Getafe CF,Sevilla FC,0,0,0,1.0
+Villarreal CF,Real Valladolid CF,5,1,1,1.0
+Atlético de Madrid,RCD Mallorca,2,0,1,1.0
+RCD Espanyol de Barcelona,Real Madrid,1,0,1,1.0
+FC Barcelona,Deportivo Alavés,1,0,1,1.0
+Valencia CF,RC Celta,2,1,1,1.0
+CA Osasuna,Real Sociedad,2,1,1,1.0
+Betis,Athletic Club,2,2,0,1.0
+Girona FC,UD Las Palmas,2,1,1,1.0
+Rayo Vallecano,Real Valladolid CF,1,0,1,1.0
+RC Celta,Betis,3,2,1,1.0
+Athletic Club,Girona FC,3,0,1,1.0
+UD Las Palmas,Villarreal CF,1,2,-1,1.0
+Real Madrid,Atlético de Madrid,1,1,0,1.0
+Deportivo Alavés,Getafe CF,0,1,-1,1.0
+Valencia CF,CD Leganés,2,0,1,1.0
+Real Sociedad,RCD Espanyol de Barcelona,2,1,1,1.0
+Sevilla FC,FC Barcelona,1,4,-1,1.0
+RCD Mallorca,CA Osasuna,1,1,0,1.0
+Girona FC,Getafe CF,1,2,-1,1.0
+CD Leganés,Deportivo Alavés,3,3,0,1.0
+CA Osasuna,Real Madrid,1,1,0,1.0
+Atlético de Madrid,RC Celta,1,1,0,1.0
+Villarreal CF,Valencia CF,1,1,0,1.0
+RCD Espanyol de Barcelona,Athletic Club,1,1,0,1.0
+Real Valladolid CF,Sevilla FC,0,4,-1,1.0
+RCD Mallorca,UD Las Palmas,3,1,1,1.0
+Betis,Real Sociedad,3,0,1,1.0
+FC Barcelona,Rayo Vallecano,1,0,1,1.0
+RC Celta,CA Osasuna,1,0,1,1.0
+Deportivo Alavés,RCD Espanyol de Barcelona,0,1,-1,1.0
+Rayo Vallecano,Villarreal CF,0,1,-1,1.0
+Valencia CF,Atlético de Madrid,0,3,-1,1.0
+UD Las Palmas,FC Barcelona,0,2,-1,1.0
+Athletic Club,Real Valladolid CF,7,1,1,1.0
+Real Madrid,Girona FC,2,0,1,1.0
+Getafe CF,Betis,1,2,-1,1.0
+Real Sociedad,CD Leganés,3,0,1,1.0
+Sevilla FC,RCD Mallorca,1,1,0,1.0
+Real Valladolid CF,UD Las Palmas,1,1,0,1.0
+Girona FC,RC Celta,2,2,0,1.0
+Rayo Vallecano,Sevilla FC,1,1,0,1.0
+Betis,Real Madrid,2,1,1,1.0
+Atlético de Madrid,Athletic Club,1,0,1,1.0
+CD Leganés,Getafe CF,1,0,1,1.0
+FC Barcelona,Real Sociedad,4,0,1,1.0
+RCD Mallorca,Deportivo Alavés,1,1,0,1.0
+CA Osasuna,Valencia CF,3,3,0,1.0
+RC Celta,CD Leganés,2,1,1,1.0
+Deportivo Alavés,Villarreal CF,1,0,1,1.0
+Valencia CF,Real Valladolid CF,2,1,1,1.0
+Getafe CF,Atlético de Madrid,2,1,1,1.0
+Real Madrid,Rayo Vallecano,2,1,1,1.0
+Athletic Club,RCD Mallorca,1,1,0,1.0
+Betis,UD Las Palmas,1,0,1,1.0
+Real Sociedad,Sevilla FC,0,1,-1,1.0
+RCD Espanyol de Barcelona,Girona FC,1,1,0,1.0
+UD Las Palmas,Deportivo Alavés,2,2,0,1.0
+Real Valladolid CF,RC Celta,0,1,-1,1.0
+RCD Mallorca,RCD Espanyol de Barcelona,2,1,1,1.0
+Villarreal CF,Real Madrid,1,2,-1,1.0
+Girona FC,Valencia CF,1,1,0,1.0
+CD Leganés,Betis,2,3,-1,1.0
+Sevilla FC,Athletic Club,0,1,-1,1.0
+CA Osasuna,Getafe CF,1,2,-1,1.0
+Rayo Vallecano,Real Sociedad,2,2,0,1.0
+Atlético de Madrid,FC Barcelona,2,4,-1,1.0
+FC Barcelona,CA Osasuna,3,0,1,1.0
+Real Sociedad,Real Valladolid CF,2,1,1,1.0
+RCD Espanyol de Barcelona,Atlético de Madrid,1,1,0,1.0
+Deportivo Alavés,Rayo Vallecano,0,2,-1,1.0
+Real Madrid,CD Leganés,3,2,1,1.0
+Getafe CF,Villarreal CF,1,2,-1,1.0
+FC Barcelona,Girona FC,4,1,1,1.0
+Athletic Club,CA Osasuna,0,0,0,1.0
+Valencia CF,RCD Mallorca,1,0,1,1.0
+Betis,Sevilla FC,2,1,1,1.0
+RC Celta,UD Las Palmas,1,1,0,1.0
+Rayo Vallecano,RCD Espanyol de Barcelona,0,4,-1,1.0
+Girona FC,Deportivo Alavés,0,1,-1,1.0
+Real Madrid,Valencia CF,1,2,-1,1.0
+RCD Mallorca,RC Celta,1,2,-1,1.0
+FC Barcelona,Betis,1,1,0,1.0
+UD Las Palmas,Real Sociedad,1,3,-1,1.0
+Sevilla FC,Atlético de Madrid,1,2,-1,1.0
+Real Valladolid CF,Getafe CF,0,4,-1,1.0
+Villarreal CF,Athletic Club,0,0,0,1.0
+CD Leganés,CA Osasuna,1,1,0,1.0
+Valencia CF,Sevilla FC,1,0,1,1.0
+Real Sociedad,RCD Mallorca,0,2,-1,1.0
+Getafe CF,UD Las Palmas,1,3,-1,1.0
+RC Celta,RCD Espanyol de Barcelona,0,2,-1,1.0
+CD Leganés,FC Barcelona,0,1,-1,1.0
+CA Osasuna,Girona FC,2,1,1,1.0
+Deportivo Alavés,Real Madrid,0,1,-1,1.0
+Betis,Villarreal CF,1,2,-1,1.0
+Athletic Club,Rayo Vallecano,3,1,1,1.0
+Atlético de Madrid,Real Valladolid CF,4,2,1,1.0
+RCD Espanyol de Barcelona,Getafe CF,1,0,1,1.0
+Rayo Vallecano,Valencia CF,1,1,0,1.0
+FC Barcelona,RC Celta,4,3,1,1.0
+RCD Mallorca,CD Leganés,0,0,0,1.0
+UD Las Palmas,Atlético de Madrid,1,0,1,1.0
+Real Valladolid CF,CA Osasuna,2,3,-1,1.0
+Villarreal CF,Real Sociedad,2,2,0,1.0
+Sevilla FC,Deportivo Alavés,1,1,0,1.0
+Real Madrid,Athletic Club,1,0,1,1.0
+Girona FC,Betis,1,3,-1,1.0
+Valencia CF,RCD Espanyol de Barcelona,1,1,0,1.0
+FC Barcelona,RCD Mallorca,1,0,1,1.0
+Athletic Club,UD Las Palmas,1,0,1,1.0
+RC Celta,Villarreal CF,3,0,1,1.0
+Deportivo Alavés,Real Sociedad,1,0,1,1.0
+Getafe CF,Real Madrid,0,1,-1,1.0
+CD Leganés,Girona FC,1,1,0,1.0
+CA Osasuna,Sevilla FC,1,0,1,1.0
+Atlético de Madrid,Rayo Vallecano,3,0,1,1.0
+Betis,Real Valladolid CF,5,1,1,1.0
+Villarreal CF,RCD Espanyol de Barcelona,1,0,1,1.0
+Rayo Vallecano,Getafe CF,1,0,1,1.0
+Deportivo Alavés,Atlético de Madrid,0,0,0,1.0
+Villarreal CF,CA Osasuna,4,2,1,1.0
+UD Las Palmas,Valencia CF,2,3,-1,1.0
+Real Valladolid CF,FC Barcelona,1,2,-1,1.0
+Real Madrid,RC Celta,3,2,1,1.0
+Sevilla FC,CD Leganés,2,2,0,1.0
+RCD Espanyol de Barcelona,Betis,1,2,-1,1.0
+Real Sociedad,Athletic Club,0,0,0,1.0
+Girona FC,RCD Mallorca,1,0,1,1.0
+UD Las Palmas,Rayo Vallecano,0,1,-1,1.0
+Valencia CF,Getafe CF,3,0,1,1.0
+RC Celta,Sevilla FC,3,2,1,1.0
+Girona FC,Villarreal CF,0,1,-1,1.0
+RCD Mallorca,Real Valladolid CF,2,1,1,1.0
+Atlético de Madrid,Real Sociedad,4,0,1,1.0
+CD Leganés,RCD Espanyol de Barcelona,3,2,1,1.0
+FC Barcelona,Real Madrid,4,3,1,1.0
+Athletic Club,Deportivo Alavés,1,0,1,1.0
+Betis,CA Osasuna,1,1,0,1.0
+Real Valladolid CF,Girona FC,0,1,-1,1.0
+Real Sociedad,RC Celta,0,1,-1,1.0
+Sevilla FC,UD Las Palmas,1,0,1,1.0
+Deportivo Alavés,Valencia CF,1,0,1,1.0
+Villarreal CF,CD Leganés,3,0,1,1.0
+Real Madrid,RCD Mallorca,2,1,1,1.0
+Rayo Vallecano,Betis,2,2,0,1.0
+CA Osasuna,Atlético de Madrid,2,0,1,1.0
+RCD Espanyol de Barcelona,FC Barcelona,0,2,-1,1.0
+Getafe CF,Athletic Club,0,2,-1,1.0
+Atlético de Madrid,Betis,4,1,1,1.0
+FC Barcelona,Villarreal CF,2,3,-1,1.0
+RC Celta,Rayo Vallecano,1,2,-1,1.0
+UD Las Palmas,CD Leganés,0,1,-1,1.0
+RCD Mallorca,Getafe CF,1,2,-1,1.0
+CA Osasuna,RCD Espanyol de Barcelona,2,0,1,1.0
+Sevilla FC,Real Madrid,0,2,-1,1.0
+Real Sociedad,Girona FC,3,2,1,1.0
+Valencia CF,Athletic Club,0,1,-1,1.0
+Real Valladolid CF,Deportivo Alavés,0,1,-1,1.0
+Betis,Valencia CF,1,1,0,1.0
+Real Madrid,Real Sociedad,2,0,1,1.0
+RCD Espanyol de Barcelona,UD Las Palmas,2,0,1,1.0
+CD Leganés,Real Valladolid CF,3,0,1,1.0
+Deportivo Alavés,CA Osasuna,1,1,0,1.0
+Getafe CF,RC Celta,1,2,-1,1.0
+Rayo Vallecano,RCD Mallorca,0,0,0,1.0
+Girona FC,Atlético de Madrid,0,4,-1,1.0
+Villarreal CF,Sevilla FC,4,2,1,1.0
+Athletic Club,FC Barcelona,0,3,-1,1.0
+Lugo,Extremadura UD,0,0,0,0.1
+RACING,MALAGA,0,1,-1,0.1
+ALMERIA,ALBACETE,3,0,1,0.1
+ELCHE,Fuenlabrada,0,2,-1,0.1
+Rayo Vallecano,MIRANDES,2,2,0,0.1
+ZARAGOZA,TENERIFE,2,0,1,0.1
+DEPORTIVO,OVIEDO,3,2,1,0.1
+Numancia,Alcorcon,0,1,-1,0.1
+Girona FC,SPORTING,1,1,0,0.1
+CADIZ,Ponferradina,3,1,1,0.1
+UD Las Palmas,HUESCA,0,1,-1,0.1
+ALBACETE,Girona FC,1,0,1,0.1
+OVIEDO,Lugo,1,1,0,0.1
+RACING,ALMERIA,1,1,0,0.1
+MIRANDES,CADIZ,1,2,-1,0.1
+Alcorcon,ELCHE,1,2,-1,0.1
+MALAGA,UD Las Palmas,1,1,0,0.1
+Ponferradina,ZARAGOZA,1,1,0,0.1
+SPORTING,Rayo Vallecano,1,1,0,0.1
+HUESCA,DEPORTIVO,3,1,1,0.1
+TENERIFE,Numancia,3,2,1,0.1
+Extremadura UD,Fuenlabrada,1,2,-1,0.1
+ZARAGOZA,ELCHE,1,0,1,0.1
+Fuenlabrada,OVIEDO,2,1,1,0.1
+Numancia,MIRANDES,2,0,1,0.1
+ALMERIA,HUESCA,1,0,1,0.1
+UD Las Palmas,RACING,2,2,0,0.1
+Lugo,Alcorcon,2,4,-1,0.1
+SPORTING,ALBACETE,2,0,1,0.1
+Rayo Vallecano,DEPORTIVO,3,1,1,0.1
+Girona FC,MALAGA,1,0,1,0.1
+Ponferradina,TENERIFE,4,0,1,0.1
+CADIZ,Extremadura UD,2,1,1,0.1
+RACING,CADIZ,1,2,-1,0.1
+DEPORTIVO,ALBACETE,0,1,-1,0.1
+MALAGA,ALMERIA,0,1,-1,0.1
+Extremadura UD,Numancia,0,0,0,0.1
+Fuenlabrada,Ponferradina,1,1,0,0.1
+TENERIFE,UD Las Palmas,0,0,0,0.1
+HUESCA,SPORTING,1,0,1,0.1
+Girona FC,Rayo Vallecano,3,1,1,0.1
+ELCHE,Lugo,1,1,0,0.1
+MIRANDES,OVIEDO,2,1,1,0.1
+Alcorcon,ZARAGOZA,0,3,-1,0.1
+Rayo Vallecano,RACING,2,0,1,0.1
+MIRANDES,MALAGA,1,1,0,0.1
+Numancia,HUESCA,1,0,1,0.1
+UD Las Palmas,ALMERIA,0,3,-1,0.1
+CADIZ,Girona FC,2,0,1,0.1
+Ponferradina,Alcorcon,1,1,0,0.1
+ALBACETE,TENERIFE,0,4,-1,0.1
+OVIEDO,ELCHE,0,2,-1,0.1
+ZARAGOZA,Extremadura UD,3,1,1,0.1
+Lugo,Fuenlabrada,2,0,1,0.1
+SPORTING,DEPORTIVO,1,1,0,0.1
+ALMERIA,Girona FC,3,1,1,0.1
+MALAGA,Rayo Vallecano,1,1,0,0.1
+RACING,MIRANDES,4,0,1,0.1
+Alcorcon,CADIZ,3,0,1,0.1
+HUESCA,ALBACETE,0,1,-1,0.1
+Lugo,Ponferradina,2,2,0,0.1
+DEPORTIVO,Numancia,3,3,0,0.1
+ELCHE,TENERIFE,1,1,0,0.1
+OVIEDO,Extremadura UD,1,1,0,0.1
+UD Las Palmas,SPORTING,1,0,1,0.1
+MIRANDES,Alcorcon,2,2,0,0.1
+CADIZ,DEPORTIVO,0,0,0,0.1
+ZARAGOZA,Lugo,0,0,0,0.1
+Rayo Vallecano,ALMERIA,1,1,0,0.1
+ALBACETE,MALAGA,1,0,1,0.1
+Ponferradina,OVIEDO,2,1,1,0.1
+Girona FC,UD Las Palmas,1,0,1,0.1
+Numancia,ELCHE,1,1,0,0.1
+SPORTING,RACING,1,1,0,0.1
+Extremadura UD,HUESCA,0,1,-1,0.1
+TENERIFE,Fuenlabrada,0,1,-1,0.1
+UD Las Palmas,ALBACETE,3,2,1,0.1
+Fuenlabrada,Rayo Vallecano,2,2,0,0.1
+Alcorcon,Extremadura UD,0,2,-1,0.1
+HUESCA,Girona FC,1,0,1,0.1
+ELCHE,Ponferradina,1,0,1,0.1
+RACING,Numancia,0,0,0,0.1
+MALAGA,SPORTING,0,0,0,0.1
+ALMERIA,CADIZ,1,2,-1,0.1
+OVIEDO,ZARAGOZA,2,2,0,0.1
+DEPORTIVO,MIRANDES,1,1,0,0.1
+Lugo,TENERIFE,1,4,-1,0.1
+ALBACETE,RACING,0,0,0,0.1
+Extremadura UD,ELCHE,2,0,1,0.1
+Numancia,Fuenlabrada,1,0,1,0.1
+Rayo Vallecano,Alcorcon,1,1,0,0.1
+CADIZ,HUESCA,1,0,1,0.1
+MIRANDES,Lugo,1,1,0,0.1
+Ponferradina,UD Las Palmas,0,2,-1,0.1
+TENERIFE,OVIEDO,0,1,-1,0.1
+SPORTING,ALMERIA,4,2,1,0.1
+ZARAGOZA,MALAGA,2,2,0,0.1
+Girona FC,DEPORTIVO,3,1,1,0.1
+Alcorcon,ALBACETE,0,1,-1,0.1
+Lugo,UD Las Palmas,0,2,-1,0.1
+ELCHE,Rayo Vallecano,1,1,0,0.1
+Ponferradina,MIRANDES,2,0,1,0.1
+TENERIFE,Extremadura UD,1,2,-1,0.1
+Fuenlabrada,SPORTING,2,0,1,0.1
+OVIEDO,Numancia,1,1,0,0.1
+ZARAGOZA,CADIZ,0,2,-1,0.1
+DEPORTIVO,ALMERIA,0,0,0,0.1
+HUESCA,MALAGA,2,0,1,0.1
+RACING,Girona FC,0,3,-1,0.1
+Rayo Vallecano,TENERIFE,2,1,1,0.1
+Girona FC,ELCHE,0,2,-1,0.1
+ALMERIA,Lugo,0,0,0,0.1
+SPORTING,Alcorcon,1,3,-1,0.1
+Extremadura UD,Ponferradina,1,1,0,0.1
+MALAGA,CADIZ,1,2,-1,0.1
+MIRANDES,Fuenlabrada,2,1,1,0.1
+Numancia,ZARAGOZA,0,1,-1,0.1
+ALBACETE,OVIEDO,1,2,-1,0.1
+HUESCA,RACING,1,1,0,0.1
+UD Las Palmas,DEPORTIVO,3,0,1,0.1
+Fuenlabrada,ZARAGOZA,2,1,1,0.1
+CADIZ,UD Las Palmas,2,0,1,0.1
+Alcorcon,ALMERIA,2,2,0,0.1
+Ponferradina,Numancia,1,1,0,0.1
+ELCHE,SPORTING,0,1,-1,0.1
+Lugo,HUESCA,3,2,1,0.1
+Extremadura UD,Rayo Vallecano,0,3,-1,0.1
+Fuenlabrada,ALBACETE,0,1,-1,0.1
+DEPORTIVO,MALAGA,0,2,-1,0.1
+OVIEDO,Girona FC,4,2,1,0.1
+TENERIFE,RACING,3,3,0,0.1
+ZARAGOZA,MIRANDES,1,2,-1,0.1
+ALBACETE,CADIZ,1,0,1,0.1
+Rayo Vallecano,Ponferradina,1,3,-1,0.1
+MIRANDES,TENERIFE,0,0,0,0.1
+RACING,DEPORTIVO,1,1,0,0.1
+MALAGA,OVIEDO,2,1,1,0.1
+Numancia,Lugo,3,1,1,0.1
+Girona FC,Alcorcon,0,0,0,0.1
+SPORTING,ZARAGOZA,4,0,1,0.1
+HUESCA,ELCHE,2,0,1,0.1
+UD Las Palmas,Fuenlabrada,1,3,-1,0.1
+ALMERIA,Extremadura UD,3,2,1,0.1
+Numancia,ALBACETE,1,0,1,0.1
+CADIZ,SPORTING,3,1,1,0.1
+Ponferradina,MALAGA,1,0,1,0.1
+OVIEDO,ALMERIA,0,0,0,0.1
+Fuenlabrada,DEPORTIVO,1,1,0,0.1
+Alcorcon,RACING,1,0,1,0.1
+TENERIFE,HUESCA,0,0,0,0.1
+Extremadura UD,Girona FC,1,3,-1,0.1
+Lugo,Rayo Vallecano,1,0,1,0.1
+ZARAGOZA,UD Las Palmas,3,0,1,0.1
+ELCHE,MIRANDES,4,2,1,0.1
+Girona FC,TENERIFE,1,0,1,0.1
+HUESCA,OVIEDO,3,1,1,0.1
+MIRANDES,Extremadura UD,2,0,1,0.1
+ALBACETE,Lugo,0,1,-1,0.1
+SPORTING,Numancia,0,1,-1,0.1
+UD Las Palmas,Alcorcon,1,1,0,0.1
+DEPORTIVO,ELCHE,1,3,-1,0.1
+ALMERIA,ZARAGOZA,1,1,0,0.1
+MALAGA,Fuenlabrada,0,0,0,0.1
+RACING,Ponferradina,2,2,0,0.1
+Rayo Vallecano,CADIZ,1,1,0,0.1
+Fuenlabrada,HUESCA,3,2,1,0.1
+Extremadura UD,DEPORTIVO,2,0,1,0.1
+ELCHE,ALMERIA,1,1,0,0.1
+Numancia,Rayo Vallecano,2,2,0,0.1
+ZARAGOZA,ALBACETE,0,1,-1,0.1
+Ponferradina,Girona FC,1,1,0,0.1
+Alcorcon,MALAGA,1,0,1,0.1
+OVIEDO,SPORTING,0,0,0,0.1
+Lugo,RACING,1,1,0,0.1
+MIRANDES,UD Las Palmas,2,1,1,0.1
+TENERIFE,CADIZ,1,1,0,0.1
+SPORTING,TENERIFE,0,2,-1,0.1
+Rayo Vallecano,ZARAGOZA,0,1,-1,0.1
+DEPORTIVO,Alcorcon,0,0,0,0.1
+RACING,Extremadura UD,3,0,1,0.1
+HUESCA,Ponferradina,2,0,1,0.1
+ALMERIA,Numancia,2,0,1,0.1
+ALBACETE,MIRANDES,1,2,-1,0.1
+MALAGA,ELCHE,3,3,0,0.1
+Girona FC,Fuenlabrada,2,0,1,0.1
+UD Las Palmas,OVIEDO,3,1,1,0.1
+CADIZ,Lugo,2,1,1,0.1
+Numancia,MALAGA,0,0,0,0.1
+Alcorcon,HUESCA,0,2,-1,0.1
+MIRANDES,SPORTING,0,0,0,0.1
+Ponferradina,ALBACETE,1,1,0,0.1
+TENERIFE,ALMERIA,1,3,-1,0.1
+ZARAGOZA,Girona FC,3,3,0,0.1
+Fuenlabrada,CADIZ,1,0,1,0.1
+OVIEDO,Rayo Vallecano,2,1,1,0.1
+ELCHE,RACING,2,0,1,0.1
+Lugo,DEPORTIVO,0,0,0,0.1
+Extremadura UD,UD Las Palmas,0,1,-1,0.1
+ALBACETE,Extremadura UD,1,1,0,0.1
+RACING,Fuenlabrada,2,2,0,0.1
+Alcorcon,OVIEDO,1,3,-1,0.1
+MALAGA,TENERIFE,2,0,1,0.1
+HUESCA,Rayo Vallecano,0,2,-1,0.1
+SPORTING,Ponferradina,1,0,1,0.1
+ALMERIA,MIRANDES,3,1,1,0.1
+Girona FC,Lugo,3,1,1,0.1
+DEPORTIVO,ZARAGOZA,1,3,-1,0.1
+UD Las Palmas,Numancia,3,1,1,0.1
+CADIZ,ELCHE,0,0,0,0.1
+Numancia,Girona FC,2,0,1,0.1
+MIRANDES,HUESCA,2,0,1,0.1
+Ponferradina,DEPORTIVO,2,0,1,0.1
+TENERIFE,Alcorcon,0,0,0,0.1
+ZARAGOZA,RACING,2,0,1,0.1
+Extremadura UD,MALAGA,0,0,0,0.1
+OVIEDO,CADIZ,0,2,-1,0.1
+ELCHE,UD Las Palmas,2,3,-1,0.1
+Lugo,SPORTING,1,2,-1,0.1
+Fuenlabrada,ALMERIA,2,2,0,0.1
+DEPORTIVO,TENERIFE,2,1,1,0.1
+ALBACETE,ELCHE,0,1,-1,0.1
+MALAGA,Lugo,1,1,0,0.1
+UD Las Palmas,Rayo Vallecano,1,1,0,0.1
+SPORTING,Extremadura UD,0,1,-1,0.1
+RACING,OVIEDO,1,1,0,0.1
+CADIZ,Numancia,2,4,-1,0.1
+ALMERIA,Ponferradina,2,3,-1,0.1
+HUESCA,ZARAGOZA,2,1,1,0.1
+Alcorcon,Fuenlabrada,1,1,0,0.1
+Girona FC,MIRANDES,0,3,-1,0.1
+Extremadura UD,Alcorcon,0,0,0,0.1
+Fuenlabrada,UD Las Palmas,0,0,0,0.1
+Ponferradina,CADIZ,0,0,0,0.1
+Lugo,ALMERIA,0,4,-1,0.1
+TENERIFE,ALBACETE,4,2,1,0.1
+ELCHE,HUESCA,1,1,0,0.1
+MIRANDES,RACING,0,0,0,0.1
+Numancia,DEPORTIVO,0,1,-1,0.1
+Rayo Vallecano,Girona FC,1,0,1,0.1
+OVIEDO,MALAGA,1,1,0,0.1
+ZARAGOZA,SPORTING,2,0,1,0.1
+ALBACETE,Fuenlabrada,1,1,0,0.1
+SPORTING,ELCHE,1,0,1,0.1
+MALAGA,Ponferradina,1,0,1,0.1
+UD Las Palmas,ZARAGOZA,0,1,-1,0.1
+Alcorcon,Numancia,2,2,0,0.1
+HUESCA,TENERIFE,2,1,1,0.1
+Rayo Vallecano,Lugo,1,0,1,0.1
+CADIZ,MIRANDES,3,3,0,0.1
+DEPORTIVO,RACING,2,1,1,0.1
+Girona FC,Extremadura UD,3,1,1,0.1
+ALMERIA,OVIEDO,2,0,1,0.1
+Fuenlabrada,MALAGA,0,0,0,0.1
+Numancia,SPORTING,2,0,1,0.1
+Lugo,ALBACETE,1,0,1,0.1
+Ponferradina,Rayo Vallecano,1,1,0,0.1
+ELCHE,Alcorcon,1,1,0,0.1
+DEPORTIVO,CADIZ,1,0,1,0.1
+OVIEDO,HUESCA,1,1,0,0.1
+RACING,UD Las Palmas,1,1,0,0.1
+Extremadura UD,ALMERIA,1,2,-1,0.1
+TENERIFE,Girona FC,1,0,1,0.1
+CADIZ,RACING,1,0,1,0.1
+HUESCA,Lugo,2,1,1,0.1
+SPORTING,Fuenlabrada,1,0,1,0.1
+UD Las Palmas,TENERIFE,0,0,0,0.1
+ZARAGOZA,Numancia,1,0,1,0.1
+MALAGA,MIRANDES,2,2,0,0.1
+ALBACETE,DEPORTIVO,0,1,-1,0.1
+ALMERIA,ELCHE,0,2,-1,0.1
+Alcorcon,Ponferradina,3,1,1,0.1
+Rayo Vallecano,Extremadura UD,1,1,0,0.1
+Girona FC,OVIEDO,1,1,0,0.1
+TENERIFE,SPORTING,2,1,1,0.1
+Extremadura UD,Lugo,1,0,1,0.1
+DEPORTIVO,UD Las Palmas,2,1,1,0.1
+Ponferradina,HUESCA,3,1,1,0.1
+ELCHE,MALAGA,2,0,1,0.1
+Fuenlabrada,Girona FC,0,1,-1,0.1
+CADIZ,ZARAGOZA,1,1,0,0.1
+MIRANDES,Rayo Vallecano,0,0,0,0.1
+Numancia,ALMERIA,1,1,0,0.1
+OVIEDO,ALBACETE,3,1,1,0.1
+RACING,Alcorcon,1,1,0,0.1
+ALMERIA,RACING,0,1,-1,0.1
+Extremadura UD,TENERIFE,2,4,-1,0.1
+Girona FC,HUESCA,1,0,1,0.1
+UD Las Palmas,CADIZ,1,2,-1,0.1
+ZARAGOZA,Fuenlabrada,0,0,0,0.1
+ALBACETE,Ponferradina,1,1,0,0.1
+Alcorcon,DEPORTIVO,0,1,-1,0.1
+SPORTING,MIRANDES,2,2,0,0.1
+Lugo,ELCHE,2,2,0,0.1
+Rayo Vallecano,OVIEDO,1,1,0,0.1
+MALAGA,Numancia,2,1,1,0.1
+DEPORTIVO,Girona FC,2,2,0,0.1
+HUESCA,ALMERIA,3,2,1,0.1
+Numancia,UD Las Palmas,1,1,0,0.1
+OVIEDO,Alcorcon,1,2,-1,0.1
+ELCHE,ZARAGOZA,1,2,-1,0.1
+Fuenlabrada,Lugo,0,1,-1,0.1
+MIRANDES,ALBACETE,1,1,0,0.1
+CADIZ,MALAGA,0,1,-1,0.1
+Ponferradina,Extremadura UD,0,0,0,0.1
+RACING,SPORTING,0,2,-1,0.1
+TENERIFE,Rayo Vallecano,0,0,0,0.1
+MIRANDES,ZARAGOZA,1,1,0,0.1
+SPORTING,CADIZ,1,0,1,0.1
+Alcorcon,UD Las Palmas,1,1,0,0.1
+ALMERIA,Fuenlabrada,0,0,0,0.1
+Girona FC,Ponferradina,2,0,1,0.1
+TENERIFE,ELCHE,1,0,1,0.1
+ALBACETE,Numancia,2,1,1,0.1
+Lugo,OVIEDO,1,0,1,0.1
+ZARAGOZA,DEPORTIVO,3,1,1,0.1
+Extremadura UD,MIRANDES,3,2,1,0.1
+MALAGA,RACING,2,0,1,0.1
+Rayo Vallecano,HUESCA,2,0,1,0.1
+UD Las Palmas,MALAGA,1,1,0,0.1
+HUESCA,Extremadura UD,2,2,0,0.1
+Ponferradina,SPORTING,1,0,1,0.1
+CADIZ,ALMERIA,2,1,1,0.1
+ALBACETE,Rayo Vallecano,1,1,0,0.1
+RACING,ZARAGOZA,2,2,0,0.1
+MIRANDES,Girona FC,1,1,0,0.1
+ELCHE,Numancia,2,0,1,0.1
+DEPORTIVO,Lugo,0,0,0,0.1
+Fuenlabrada,Alcorcon,3,4,-1,0.1
+OVIEDO,TENERIFE,1,0,1,0.1
+Lugo,CADIZ,1,1,0,0.1
+Extremadura UD,OVIEDO,1,2,-1,0.1
+Girona FC,ALBACETE,1,1,0,0.1
+HUESCA,Fuenlabrada,2,0,1,0.1
+Numancia,RACING,1,2,-1,0.1
+ALMERIA,DEPORTIVO,4,0,1,0.1
+Rayo Vallecano,ELCHE,2,3,-1,0.1
+MALAGA,ZARAGOZA,0,1,-1,0.1
+Alcorcon,MIRANDES,1,2,-1,0.1
+SPORTING,UD Las Palmas,4,0,1,0.1
+TENERIFE,Ponferradina,1,0,1,0.1
+Rayo Vallecano,ALBACETE,1,0,1,0.1
+ELCHE,Extremadura UD,1,1,0,0.1
+Fuenlabrada,TENERIFE,1,0,1,0.1
+MALAGA,HUESCA,1,3,-1,0.1
+OVIEDO,Ponferradina,0,0,0,0.1
+RACING,Lugo,1,2,-1,0.1
+UD Las Palmas,Girona FC,0,0,0,0.1
+ZARAGOZA,Alcorcon,1,3,-1,0.1
+DEPORTIVO,SPORTING,0,0,0,0.1
+MIRANDES,Numancia,2,1,1,0.1
+ALBACETE,ALMERIA,0,1,-1,0.1
+CADIZ,Rayo Vallecano,1,1,0,0.1
+Ponferradina,ELCHE,2,1,1,0.1
+TENERIFE,MALAGA,0,0,0,0.1
+Lugo,ZARAGOZA,1,3,-1,0.1
+Girona FC,RACING,0,0,0,0.1
+ALMERIA,UD Las Palmas,0,1,-1,0.1
+Extremadura UD,ALBACETE,0,1,-1,0.1
+OVIEDO,DEPORTIVO,2,2,0,0.1
+Rayo Vallecano,Fuenlabrada,1,0,1,0.1
+HUESCA,MIRANDES,1,2,-1,0.1
+Numancia,CADIZ,1,2,-1,0.1
+Alcorcon,SPORTING,0,2,-1,0.1
+ELCHE,Girona FC,1,0,1,0.1
+DEPORTIVO,Rayo Vallecano,3,3,0,0.1
+UD Las Palmas,Lugo,1,0,1,0.1
+ZARAGOZA,ALMERIA,0,2,-1,0.1
+MALAGA,Extremadura UD,1,1,0,0.1
+MIRANDES,Ponferradina,1,2,-1,0.1
+RACING,TENERIFE,1,2,-1,0.1
+ALBACETE,HUESCA,2,2,0,0.1
+CADIZ,Alcorcon,1,1,0,0.1
+Fuenlabrada,Numancia,2,0,1,0.1
+SPORTING,OVIEDO,0,1,-1,0.1
+ELCHE,DEPORTIVO,0,1,-1,0.1
+Lugo,MALAGA,0,0,0,0.1
+Extremadura UD,ZARAGOZA,1,2,-1,0.1
+Girona FC,Numancia,2,0,1,0.1
+HUESCA,CADIZ,1,1,0,0.1
+TENERIFE,MIRANDES,4,1,1,0.1
+ALBACETE,UD Las Palmas,0,0,0,0.1
+Ponferradina,RACING,1,1,0,0.1
+ALMERIA,Alcorcon,0,1,-1,0.1
+Rayo Vallecano,SPORTING,1,1,0,0.1
+OVIEDO,Fuenlabrada,0,0,0,0.1
+DEPORTIVO,Ponferradina,2,1,1,0.1
+CADIZ,TENERIFE,0,2,-1,0.1
+UD Las Palmas,ELCHE,1,1,0,0.1
+RACING,ALBACETE,1,2,-1,0.1
+MIRANDES,ALMERIA,2,2,0,0.1
+SPORTING,Lugo,2,0,1,0.1
+MALAGA,Girona FC,2,0,1,0.1
+Numancia,OVIEDO,1,0,1,0.1
+Fuenlabrada,Extremadura UD,1,1,0,0.1
+Alcorcon,Rayo Vallecano,3,2,1,0.1
+ZARAGOZA,HUESCA,0,1,-1,0.1
+TENERIFE,DEPORTIVO,1,1,0,0.1
+ELCHE,CADIZ,0,0,0,0.1
+ALMERIA,SPORTING,1,0,1,0.1
+Lugo,Numancia,3,1,1,0.1
+OVIEDO,MIRANDES,1,0,1,0.1
+Extremadura UD,RACING,3,1,1,0.1
+Ponferradina,Fuenlabrada,0,3,-1,0.1
+ALBACETE,Alcorcon,1,1,0,0.1
+HUESCA,UD Las Palmas,1,0,1,0.1
+Rayo Vallecano,MALAGA,0,0,0,0.1
+Girona FC,ZARAGOZA,1,0,1,0.1
+Numancia,Extremadura UD,1,0,1,0.1
+RACING,ELCHE,1,2,-1,0.1
+ALMERIA,TENERIFE,1,2,-1,0.1
+CADIZ,OVIEDO,2,0,1,0.1
+Fuenlabrada,MIRANDES,2,2,0,0.1
+DEPORTIVO,HUESCA,2,1,1,0.1
+UD Las Palmas,Ponferradina,3,0,1,0.1
+MALAGA,ALBACETE,0,0,0,0.1
+Alcorcon,Lugo,2,2,0,0.1
+SPORTING,Girona FC,0,0,0,0.1
+ZARAGOZA,Rayo Vallecano,2,4,-1,0.1
+MIRANDES,ELCHE,1,0,1,0.1
+Fuenlabrada,RACING,1,0,1,0.1
+Extremadura UD,CADIZ,0,1,-1,0.1
+MALAGA,DEPORTIVO,1,0,1,0.1
+OVIEDO,UD Las Palmas,2,1,1,0.1
+HUESCA,Alcorcon,2,1,1,0.1
+Ponferradina,Lugo,0,1,-1,0.1
+ALBACETE,SPORTING,1,1,0,0.1
+Rayo Vallecano,Numancia,3,2,1,0.1
+Girona FC,ALMERIA,1,0,1,0.1
+TENERIFE,ZARAGOZA,1,1,0,0.1
+RACING,HUESCA,1,0,1,0.1
+UD Las Palmas,MIRANDES,1,0,1,0.1
+CADIZ,Fuenlabrada,0,1,-1,0.1
+DEPORTIVO,Extremadura UD,2,3,-1,0.1
+Lugo,Girona FC,2,2,0,0.1
+Numancia,Ponferradina,1,0,1,0.1
+ZARAGOZA,OVIEDO,2,4,-1,0.1
+ALMERIA,Rayo Vallecano,3,2,1,0.1
+SPORTING,MALAGA,2,1,1,0.1
+Alcorcon,TENERIFE,0,0,0,0.1
+ELCHE,ALBACETE,2,0,1,0.1
+ALBACETE,ZARAGOZA,4,1,1,0.1
+Extremadura UD,SPORTING,2,0,1,0.1
+Fuenlabrada,ELCHE,3,1,1,0.1
+Girona FC,CADIZ,2,1,1,0.1
+HUESCA,Numancia,3,0,1,0.1
+MALAGA,Alcorcon,2,0,1,0.1
+MIRANDES,DEPORTIVO,1,0,1,0.1
+OVIEDO,RACING,1,0,1,0.1
+Ponferradina,ALMERIA,2,1,1,0.1
+TENERIFE,Lugo,1,2,-1,0.1
+Rayo Vallecano,UD Las Palmas,2,2,0,0.1
+UD Las Palmas,Extremadura UD,5,1,1,0.1
+Alcorcon,Girona FC,2,0,1,0.1
+ALMERIA,MALAGA,0,0,0,0.1
+CADIZ,ALBACETE,0,1,-1,0.1
+ELCHE,OVIEDO,2,1,1,0.1
+Lugo,MIRANDES,2,1,1,0.1
+Numancia,TENERIFE,2,1,1,0.1
+RACING,Rayo Vallecano,1,2,-1,0.1
+SPORTING,HUESCA,0,1,-1,0.1
+ZARAGOZA,Ponferradina,2,1,1,0.1
+DEPORTIVO,Fuenlabrada,2,1,1,0.1
+Ponferradina,CASTELLON,1,2,-1,0.2
+CD Leganés,UD Las Palmas,1,0,1,0.2
+SPORTING,Logrones,1,0,1,0.2
+RCD Espanyol de Barcelona,ALBACETE,3,0,1,0.2
+OVIEDO,CARTAGENA,0,0,0,0.2
+RCD Mallorca,Rayo Vallecano,0,1,-1,0.2
+Fuenlabrada,Lugo,2,0,1,0.2
+MIRANDES,Alcorcon,0,0,0,0.2
+TENERIFE,MALAGA,2,0,1,0.2
+MIRANDES,OVIEDO,1,1,0,0.2
+Alcorcon,TENERIFE,2,0,1,0.2
+CASTELLON,MALAGA,0,1,-1,0.2
+Rayo Vallecano,Sabadell,2,1,1,0.2
+Lugo,CD Leganés,2,1,1,0.2
+RCD Espanyol de Barcelona,RCD Mallorca,0,0,0,0.2
+ALBACETE,Ponferradina,0,2,-1,0.2
+CARTAGENA,SPORTING,0,1,-1,0.2
+UD Las Palmas,Fuenlabrada,3,3,0,0.2
+ZARAGOZA,UD Las Palmas,2,2,0,0.2
+Logrones,CASTELLON,1,1,0,0.2
+MALAGA,Alcorcon,1,0,1,0.2
+SPORTING,Girona FC,2,0,1,0.2
+Fuenlabrada,ALBACETE,1,0,1,0.2
+Lugo,ALMERIA,0,2,-1,0.2
+RCD Mallorca,Sabadell,1,0,1,0.2
+OVIEDO,RCD Espanyol de Barcelona,0,2,-1,0.2
+Ponferradina,Rayo Vallecano,3,0,1,0.2
+TENERIFE,MIRANDES,1,2,-1,0.2
+CD Leganés,CARTAGENA,3,1,1,0.2
+Alcorcon,ZARAGOZA,0,0,0,0.2
+MIRANDES,Ponferradina,0,1,-1,0.2
+ALBACETE,OVIEDO,1,1,0,0.2
+RCD Mallorca,TENERIFE,2,0,1,0.2
+UD Las Palmas,Logrones,2,1,1,0.2
+Rayo Vallecano,MALAGA,4,0,1,0.2
+Girona FC,Fuenlabrada,0,1,-1,0.2
+Sabadell,RCD Espanyol de Barcelona,0,1,-1,0.2
+ALMERIA,SPORTING,0,1,-1,0.2
+CASTELLON,CD Leganés,2,0,1,0.2
+CARTAGENA,Lugo,2,1,1,0.2
+Sabadell,MIRANDES,0,2,-1,0.2
+RCD Espanyol de Barcelona,Alcorcon,1,0,1,0.2
+Logrones,ALMERIA,1,0,1,0.2
+TENERIFE,Rayo Vallecano,1,0,1,0.2
+Fuenlabrada,CASTELLON,1,1,0,0.2
+Lugo,RCD Mallorca,0,1,-1,0.2
+CD Leganés,Girona FC,0,1,-1,0.2
+MALAGA,UD Las Palmas,0,0,0,0.2
+ZARAGOZA,ALBACETE,1,0,1,0.2
+Ponferradina,CARTAGENA,0,2,-1,0.2
+OVIEDO,SPORTING,1,0,1,0.2
+ALBACETE,Sabadell,3,0,1,0.2
+CASTELLON,Lugo,0,1,-1,0.2
+CARTAGENA,Fuenlabrada,1,1,0,0.2
+UD Las Palmas,ALMERIA,2,0,1,0.2
+Logrones,CD Leganés,0,1,-1,0.2
+Rayo Vallecano,RCD Espanyol de Barcelona,1,0,1,0.2
+MIRANDES,RCD Mallorca,0,0,0,0.2
+ZARAGOZA,MALAGA,1,2,-1,0.2
+Girona FC,OVIEDO,1,0,1,0.2
+SPORTING,TENERIFE,1,1,0,0.2
+RCD Espanyol de Barcelona,MIRANDES,2,0,1,0.2
+UD Las Palmas,CASTELLON,2,1,1,0.2
+Lugo,Girona FC,3,0,1,0.2
+Ponferradina,TENERIFE,1,0,1,0.2
+ALMERIA,CARTAGENA,1,1,0,0.2
+Fuenlabrada,Logrones,0,0,0,0.2
+CD Leganés,ZARAGOZA,1,0,1,0.2
+MALAGA,SPORTING,1,0,1,0.2
+RCD Mallorca,ALBACETE,0,0,0,0.2
+OVIEDO,Rayo Vallecano,0,0,0,0.2
+CARTAGENA,UD Las Palmas,3,0,1,0.2
+Logrones,Lugo,2,3,-1,0.2
+ALMERIA,Fuenlabrada,3,0,1,0.2
+CASTELLON,Girona FC,0,1,-1,0.2
+SPORTING,Ponferradina,2,1,1,0.2
+CD Leganés,OVIEDO,2,1,1,0.2
+TENERIFE,RCD Espanyol de Barcelona,0,0,0,0.2
+ALBACETE,Rayo Vallecano,2,1,1,0.2
+MALAGA,MIRANDES,1,1,0,0.2
+ZARAGOZA,Sabadell,0,0,0,0.2
+Alcorcon,RCD Mallorca,0,2,-1,0.2
+Girona FC,CARTAGENA,2,1,1,0.2
+ALBACETE,UD Las Palmas,1,1,0,0.2
+CASTELLON,ALMERIA,1,2,-1,0.2
+RCD Espanyol de Barcelona,Ponferradina,2,0,1,0.2
+OVIEDO,Logrones,2,3,-1,0.2
+Alcorcon,SPORTING,1,2,-1,0.2
+RCD Mallorca,MALAGA,3,1,1,0.2
+MIRANDES,ZARAGOZA,1,0,1,0.2
+TENERIFE,Lugo,1,1,0,0.2
+Sabadell,CD Leganés,1,0,1,0.2
+Rayo Vallecano,Fuenlabrada,2,0,1,0.2
+CARTAGENA,ALBACETE,3,1,1,0.2
+UD Las Palmas,OVIEDO,1,2,-1,0.2
+CD Leganés,MIRANDES,1,0,1,0.2
+ZARAGOZA,RCD Mallorca,0,0,0,0.2
+Fuenlabrada,TENERIFE,1,1,0,0.2
+Ponferradina,Sabadell,0,3,-1,0.2
+Lugo,Rayo Vallecano,1,0,1,0.2
+ALMERIA,Girona FC,0,0,0,0.2
+Logrones,Alcorcon,1,0,1,0.2
+SPORTING,CASTELLON,1,0,1,0.2
+MALAGA,RCD Espanyol de Barcelona,0,3,-1,0.2
+ZARAGOZA,Girona FC,2,2,0,0.2
+Alcorcon,Ponferradina,0,1,-1,0.2
+Sabadell,ALMERIA,1,2,-1,0.2
+ALBACETE,CD Leganés,0,0,0,0.2
+CARTAGENA,Logrones,0,1,-1,0.2
+MIRANDES,SPORTING,1,0,1,0.2
+RCD Espanyol de Barcelona,Lugo,2,1,1,0.2
+Sabadell,MALAGA,1,2,-1,0.2
+Alcorcon,Fuenlabrada,0,3,-1,0.2
+Rayo Vallecano,ALMERIA,0,1,-1,0.2
+RCD Mallorca,Ponferradina,3,0,1,0.2
+OVIEDO,CASTELLON,4,0,1,0.2
+TENERIFE,ZARAGOZA,1,0,1,0.2
+Girona FC,UD Las Palmas,1,1,0,0.2
+ZARAGOZA,OVIEDO,1,2,-1,0.2
+Fuenlabrada,RCD Espanyol de Barcelona,1,1,0,0.2
+ALMERIA,MIRANDES,2,1,1,0.2
+Girona FC,RCD Mallorca,0,1,-1,0.2
+Lugo,ALBACETE,1,0,1,0.2
+CD Leganés,Alcorcon,1,0,1,0.2
+Ponferradina,MALAGA,1,1,0,0.2
+CASTELLON,CARTAGENA,2,1,1,0.2
+Logrones,Sabadell,1,0,1,0.2
+UD Las Palmas,TENERIFE,1,0,1,0.2
+SPORTING,Rayo Vallecano,1,1,0,0.2
+Alcorcon,Lugo,1,0,1,0.2
+RCD Espanyol de Barcelona,Girona FC,1,2,-1,0.2
+MALAGA,CD Leganés,1,2,-1,0.2
+MIRANDES,CARTAGENA,4,1,1,0.2
+Rayo Vallecano,CASTELLON,2,1,1,0.2
+OVIEDO,Fuenlabrada,1,1,0,0.2
+Sabadell,UD Las Palmas,3,1,1,0.2
+RCD Mallorca,SPORTING,0,0,0,0.2
+TENERIFE,Logrones,0,1,-1,0.2
+Ponferradina,ZARAGOZA,2,1,1,0.2
+ALBACETE,ALMERIA,1,2,-1,0.2
+CASTELLON,Alcorcon,0,2,-1,0.2
+Girona FC,MALAGA,0,1,-1,0.2
+Lugo,OVIEDO,0,0,0,0.2
+UD Las Palmas,MIRANDES,0,2,-1,0.2
+SPORTING,Sabadell,3,1,1,0.2
+ZARAGOZA,Rayo Vallecano,1,2,-1,0.2
+CARTAGENA,RCD Mallorca,1,2,-1,0.2
+Fuenlabrada,Ponferradina,1,1,0,0.2
+CD Leganés,RCD Espanyol de Barcelona,2,0,1,0.2
+Logrones,ALBACETE,2,0,1,0.2
+ALMERIA,TENERIFE,2,0,1,0.2
+Alcorcon,Girona FC,1,0,1,0.2
+MALAGA,Lugo,2,2,0,0.2
+Sabadell,Fuenlabrada,1,2,-1,0.2
+Rayo Vallecano,CARTAGENA,0,0,0,0.2
+MIRANDES,CASTELLON,1,1,0,0.2
+ALBACETE,TENERIFE,0,2,-1,0.2
+RCD Espanyol de Barcelona,ZARAGOZA,2,0,1,0.2
+RCD Mallorca,Logrones,4,0,1,0.2
+Ponferradina,CD Leganés,3,2,1,0.2
+UD Las Palmas,SPORTING,3,2,1,0.2
+OVIEDO,ALMERIA,1,2,-1,0.2
+Fuenlabrada,MALAGA,0,2,-1,0.2
+Girona FC,MIRANDES,1,0,1,0.2
+CARTAGENA,RCD Espanyol de Barcelona,1,3,-1,0.2
+CD Leganés,Rayo Vallecano,1,0,1,0.2
+Logrones,Ponferradina,1,2,-1,0.2
+CASTELLON,ZARAGOZA,1,0,1,0.2
+Lugo,UD Las Palmas,1,1,0,0.2
+ALMERIA,RCD Mallorca,0,1,-1,0.2
+OVIEDO,Alcorcon,1,1,0,0.2
+TENERIFE,Sabadell,1,2,-1,0.2
+SPORTING,ALBACETE,0,0,0,0.2
+Rayo Vallecano,Logrones,2,1,1,0.2
+Ponferradina,UD Las Palmas,0,0,0,0.2
+MIRANDES,Lugo,0,0,0,0.2
+MALAGA,CARTAGENA,1,2,-1,0.2
+Alcorcon,ALMERIA,0,1,-1,0.2
+RCD Espanyol de Barcelona,SPORTING,2,0,1,0.2
+ALBACETE,Girona FC,0,2,-1,0.2
+Sabadell,OVIEDO,0,1,-1,0.2
+ZARAGOZA,Fuenlabrada,1,0,1,0.2
+TENERIFE,CD Leganés,0,0,0,0.2
+RCD Mallorca,CASTELLON,3,1,1,0.2
+ALMERIA,ZARAGOZA,1,0,1,0.2
+Sabadell,Alcorcon,1,1,0,0.2
+Girona FC,Logrones,2,0,1,0.2
+Lugo,Ponferradina,1,0,1,0.2
+OVIEDO,TENERIFE,4,2,1,0.2
+CD Leganés,RCD Mallorca,0,1,-1,0.2
+CASTELLON,ALBACETE,3,0,1,0.2
+Fuenlabrada,MIRANDES,0,1,-1,0.2
+Logrones,RCD Espanyol de Barcelona,0,3,-1,0.2
+ALMERIA,MALAGA,3,1,1,0.2
+UD Las Palmas,Alcorcon,0,0,0,0.2
+CARTAGENA,Sabadell,1,2,-1,0.2
+SPORTING,ZARAGOZA,1,0,1,0.2
+Girona FC,Rayo Vallecano,0,0,0,0.2
+Ponferradina,OVIEDO,1,0,1,0.2
+Sabadell,CASTELLON,1,1,0,0.2
+RCD Mallorca,Fuenlabrada,2,3,-1,0.2
+ZARAGOZA,Lugo,1,0,1,0.2
+Alcorcon,CARTAGENA,2,1,1,0.2
+RCD Espanyol de Barcelona,ALMERIA,2,1,1,0.2
+Rayo Vallecano,UD Las Palmas,2,0,1,0.2
+MALAGA,Logrones,0,0,0,0.2
+MIRANDES,ALBACETE,0,2,-1,0.2
+SPORTING,CD Leganés,1,1,0,0.2
+TENERIFE,Girona FC,2,0,1,0.2
+Fuenlabrada,CD Leganés,0,0,0,0.2
+Rayo Vallecano,Alcorcon,2,1,1,0.2
+Logrones,MIRANDES,2,1,1,0.2
+CARTAGENA,ZARAGOZA,1,1,0,0.2
+CASTELLON,TENERIFE,0,1,-1,0.2
+UD Las Palmas,RCD Espanyol de Barcelona,1,0,1,0.2
+ALBACETE,MALAGA,1,1,0,0.2
+ALMERIA,Ponferradina,3,1,1,0.2
+OVIEDO,RCD Mallorca,2,2,0,0.2
+Girona FC,Sabadell,0,0,0,0.2
+Lugo,SPORTING,0,0,0,0.2
+ZARAGOZA,Logrones,2,0,1,0.2
+MALAGA,OVIEDO,1,1,0,0.2
+RCD Mallorca,UD Las Palmas,0,1,-1,0.2
+TENERIFE,CARTAGENA,3,0,1,0.2
+RCD Espanyol de Barcelona,CASTELLON,2,0,1,0.2
+Ponferradina,Girona FC,1,1,0,0.2
+SPORTING,Fuenlabrada,2,1,1,0.2
+Sabadell,Lugo,1,1,0,0.2
+MIRANDES,Rayo Vallecano,0,2,-1,0.2
+Fuenlabrada,Alcorcon,0,0,0,0.2
+ALBACETE,ZARAGOZA,1,0,1,0.2
+Rayo Vallecano,RCD Mallorca,1,3,-1,0.2
+Girona FC,RCD Espanyol de Barcelona,1,0,1,0.2
+Lugo,TENERIFE,2,0,1,0.2
+MALAGA,Ponferradina,0,2,-1,0.2
+ALMERIA,Sabadell,2,2,0,0.2
+Logrones,OVIEDO,0,0,0,0.2
+CASTELLON,SPORTING,2,0,1,0.2
+UD Las Palmas,CD Leganés,2,1,1,0.2
+CARTAGENA,MIRANDES,0,2,-1,0.2
+Alcorcon,ALBACETE,1,2,-1,0.2
+ZARAGOZA,Ponferradina,1,0,1,0.2
+OVIEDO,ALBACETE,0,1,-1,0.2
+Alcorcon,MALAGA,0,1,-1,0.2
+RCD Mallorca,Girona FC,1,0,1,0.2
+ALMERIA,CASTELLON,3,1,1,0.2
+SPORTING,CARTAGENA,0,0,0,0.2
+RCD Espanyol de Barcelona,Rayo Vallecano,2,3,-1,0.2
+MIRANDES,UD Las Palmas,2,0,1,0.2
+TENERIFE,Fuenlabrada,1,1,0,0.2
+CD Leganés,Lugo,3,2,1,0.2
+Sabadell,Logrones,0,0,0,0.2
+ALBACETE,RCD Mallorca,0,1,-1,0.2
+CARTAGENA,OVIEDO,2,0,1,0.2
+Logrones,SPORTING,0,4,-1,0.2
+Fuenlabrada,ALMERIA,1,1,0,0.2
+Girona FC,CD Leganés,0,2,-1,0.2
+MALAGA,ZARAGOZA,1,2,-1,0.2
+CASTELLON,MIRANDES,0,1,-1,0.2
+Rayo Vallecano,TENERIFE,0,1,-1,0.2
+UD Las Palmas,Sabadell,0,1,-1,0.2
+Ponferradina,Alcorcon,2,0,1,0.2
+Lugo,RCD Espanyol de Barcelona,1,1,0,0.2
+Sabadell,ZARAGOZA,1,1,0,0.2
+CARTAGENA,Rayo Vallecano,2,2,0,0.2
+MIRANDES,Girona FC,3,3,0,0.2
+TENERIFE,Ponferradina,1,0,1,0.2
+RCD Mallorca,RCD Espanyol de Barcelona,1,2,-1,0.2
+ALMERIA,UD Las Palmas,3,1,1,0.2
+Alcorcon,Logrones,1,0,1,0.2
+CD Leganés,ALBACETE,3,1,1,0.2
+SPORTING,MALAGA,1,0,1,0.2
+CASTELLON,Fuenlabrada,1,2,-1,0.2
+OVIEDO,Lugo,3,1,1,0.2
+CD Leganés,ALMERIA,2,1,1,0.2
+Ponferradina,MIRANDES,1,0,1,0.2
+RCD Espanyol de Barcelona,Sabadell,1,0,1,0.2
+ALBACETE,SPORTING,0,1,-1,0.2
+UD Las Palmas,CARTAGENA,2,0,1,0.2
+CD Leganés,TENERIFE,1,0,1,0.2
+RCD Mallorca,ALMERIA,2,0,1,0.2
+Girona FC,CASTELLON,2,1,1,0.2
+Lugo,Logrones,1,1,0,0.2
+MALAGA,Rayo Vallecano,2,0,1,0.2
+Fuenlabrada,OVIEDO,2,2,0,0.2
+ZARAGOZA,Alcorcon,0,1,-1,0.2
+Sabadell,ALBACETE,0,0,0,0.2
+CARTAGENA,CD Leganés,1,0,1,0.2
+Rayo Vallecano,Ponferradina,1,1,0,0.2
+ALMERIA,Lugo,4,1,1,0.2
+CASTELLON,UD Las Palmas,4,0,1,0.2
+Logrones,RCD Mallorca,0,1,-1,0.2
+Fuenlabrada,Girona FC,1,1,0,0.2
+SPORTING,RCD Espanyol de Barcelona,1,1,0,0.2
+TENERIFE,Alcorcon,3,1,1,0.2
+OVIEDO,ZARAGOZA,1,0,1,0.2
+MIRANDES,MALAGA,1,0,1,0.2
+RCD Espanyol de Barcelona,OVIEDO,1,1,0,0.2
+ZARAGOZA,TENERIFE,1,0,1,0.2
+UD Las Palmas,Rayo Vallecano,1,1,0,0.2
+CD Leganés,CASTELLON,0,0,0,0.2
+ALBACETE,Logrones,1,1,0,0.2
+MALAGA,Sabadell,2,0,1,0.2
+Ponferradina,SPORTING,2,2,0,0.2
+RCD Mallorca,CARTAGENA,2,1,1,0.2
+Girona FC,ALMERIA,0,1,-1,0.2
+Alcorcon,MIRANDES,4,0,1,0.2
+Lugo,Fuenlabrada,0,0,0,0.2
+CARTAGENA,Ponferradina,1,1,0,0.2
+Rayo Vallecano,ZARAGOZA,3,2,1,0.2
+Fuenlabrada,UD Las Palmas,1,2,-1,0.2
+Girona FC,Lugo,1,1,0,0.2
+CASTELLON,Sabadell,2,1,1,0.2
+MIRANDES,RCD Espanyol de Barcelona,2,2,0,0.2
+Logrones,MALAGA,0,1,-1,0.2
+SPORTING,RCD Mallorca,2,0,1,0.2
+TENERIFE,ALBACETE,2,0,1,0.2
+OVIEDO,CD Leganés,1,3,-1,0.2
+ALMERIA,Alcorcon,0,0,0,0.2
+UD Las Palmas,Girona FC,1,2,-1,0.2
+Sabadell,SPORTING,1,1,0,0.2
+RCD Mallorca,OVIEDO,0,0,0,0.2
+CD Leganés,Fuenlabrada,0,2,-1,0.2
+RCD Espanyol de Barcelona,Logrones,4,0,1,0.2
+Ponferradina,ALMERIA,2,1,1,0.2
+MALAGA,TENERIFE,1,1,0,0.2
+Lugo,CASTELLON,0,0,0,0.2
+Alcorcon,Rayo Vallecano,0,3,-1,0.2
+ALBACETE,CARTAGENA,2,0,1,0.2
+ZARAGOZA,MIRANDES,1,0,1,0.2
+SPORTING,Alcorcon,0,0,0,0.2
+CASTELLON,RCD Espanyol de Barcelona,1,3,-1,0.2
+OVIEDO,Ponferradina,1,1,0,0.2
+ALMERIA,CD Leganés,1,1,0,0.2
+CARTAGENA,MALAGA,1,1,0,0.2
+Logrones,ZARAGOZA,1,1,0,0.2
+Lugo,Sabadell,0,1,-1,0.2
+Girona FC,ALBACETE,2,1,1,0.2
+TENERIFE,UD Las Palmas,1,1,0,0.2
+Fuenlabrada,RCD Mallorca,4,1,1,0.2
+Alcorcon,OVIEDO,1,1,0,0.2
+MALAGA,ALMERIA,0,3,-1,0.2
+Ponferradina,Logrones,2,2,0,0.2
+Rayo Vallecano,SPORTING,0,1,-1,0.2
+ALBACETE,CASTELLON,0,1,-1,0.2
+Sabadell,Girona FC,2,2,0,0.2
+RCD Espanyol de Barcelona,Fuenlabrada,4,0,1,0.2
+RCD Mallorca,CD Leganés,1,0,1,0.2
+UD Las Palmas,Lugo,6,1,1,0.2
+ZARAGOZA,CARTAGENA,0,0,0,0.2
+ALMERIA,Rayo Vallecano,0,1,-1,0.2
+Logrones,TENERIFE,1,0,1,0.2
+Girona FC,Ponferradina,3,1,1,0.2
+CASTELLON,OVIEDO,1,0,1,0.2
+SPORTING,MIRANDES,1,2,-1,0.2
+ALBACETE,RCD Espanyol de Barcelona,0,3,-1,0.2
+CD Leganés,Sabadell,2,1,1,0.2
+Lugo,MALAGA,0,1,-1,0.2
+UD Las Palmas,RCD Mallorca,1,1,0,0.2
+CARTAGENA,Alcorcon,2,1,1,0.2
+Fuenlabrada,ZARAGOZA,0,1,-1,0.2
+TENERIFE,SPORTING,1,0,1,0.2
+Ponferradina,Fuenlabrada,0,0,0,0.2
+OVIEDO,UD Las Palmas,0,0,0,0.2
+Rayo Vallecano,Girona FC,2,1,1,0.2
+MALAGA,ALBACETE,2,0,1,0.2
+ZARAGOZA,ALMERIA,2,1,1,0.2
+RCD Mallorca,Lugo,2,0,1,0.2
+MIRANDES,Logrones,0,1,-1,0.2
+Sabadell,CARTAGENA,1,1,0,0.2
+RCD Espanyol de Barcelona,CD Leganés,2,1,1,0.2
+Alcorcon,CASTELLON,2,1,1,0.2
+Rayo Vallecano,MIRANDES,0,1,-1,0.2
+Fuenlabrada,Sabadell,2,2,0,0.2
+Girona FC,ZARAGOZA,3,0,1,0.2
+Lugo,Alcorcon,1,3,-1,0.2
+CASTELLON,RCD Mallorca,1,0,1,0.2
+UD Las Palmas,MALAGA,1,1,0,0.2
+SPORTING,OVIEDO,0,1,-1,0.2
+ALBACETE,MIRANDES,1,0,1,0.2
+Logrones,Rayo Vallecano,0,0,0,0.2
+CARTAGENA,TENERIFE,0,0,0,0.2
+CD Leganés,Ponferradina,1,1,0,0.2
+ALMERIA,RCD Espanyol de Barcelona,1,1,0,0.2
+MIRANDES,TENERIFE,0,0,0,0.2
+ZARAGOZA,SPORTING,0,0,0,0.2
+Logrones,CARTAGENA,0,1,-1,0.2
+MALAGA,Fuenlabrada,0,1,-1,0.2
+RCD Espanyol de Barcelona,UD Las Palmas,4,0,1,0.2
+Ponferradina,Lugo,2,0,1,0.2
+OVIEDO,Girona FC,0,1,-1,0.2
+MIRANDES,ALMERIA,1,1,0,0.2
+Alcorcon,CD Leganés,1,2,-1,0.2
+TENERIFE,CASTELLON,1,1,0,0.2
+Rayo Vallecano,ALBACETE,2,2,0,0.2
+Sabadell,RCD Mallorca,1,0,1,0.2
+Lugo,ZARAGOZA,2,2,0,0.2
+Girona FC,TENERIFE,1,0,1,0.2
+ALMERIA,OVIEDO,2,2,0,0.2
+RCD Mallorca,MIRANDES,2,1,1,0.2
+Fuenlabrada,CARTAGENA,2,1,1,0.2
+RCD Espanyol de Barcelona,MALAGA,3,0,1,0.2
+CASTELLON,Logrones,0,0,0,0.2
+CD Leganés,SPORTING,0,0,0,0.2
+UD Las Palmas,Ponferradina,2,0,1,0.2
+Sabadell,Rayo Vallecano,2,0,1,0.2
+ALBACETE,Alcorcon,0,1,-1,0.2
+TENERIFE,ALMERIA,0,1,-1,0.2
+Ponferradina,ALBACETE,0,1,-1,0.2
+ZARAGOZA,RCD Espanyol de Barcelona,0,0,0,0.2
+Alcorcon,UD Las Palmas,0,0,0,0.2
+MALAGA,RCD Mallorca,1,1,0,0.2
+MIRANDES,Fuenlabrada,2,1,1,0.2
+OVIEDO,Sabadell,2,1,1,0.2
+CARTAGENA,CASTELLON,1,0,1,0.2
+Logrones,Girona FC,1,4,-1,0.2
+Rayo Vallecano,CD Leganés,1,1,0,0.2
+SPORTING,Lugo,1,0,1,0.2
+RCD Espanyol de Barcelona,CARTAGENA,0,2,-1,0.2
+CASTELLON,Ponferradina,0,2,-1,0.2
+Lugo,MIRANDES,2,1,1,0.2
+ALMERIA,ALBACETE,1,1,0,0.2
+UD Las Palmas,ZARAGOZA,0,2,-1,0.2
+Sabadell,TENERIFE,0,2,-1,0.2
+Fuenlabrada,Rayo Vallecano,1,2,-1,0.2
+RCD Mallorca,Alcorcon,2,0,1,0.2
+CD Leganés,Logrones,3,0,1,0.2
+OVIEDO,MALAGA,1,0,1,0.2
+Girona FC,SPORTING,1,0,1,0.2
+CARTAGENA,ALMERIA,3,2,1,0.2
+ALBACETE,Lugo,1,1,0,0.2
+Ponferradina,RCD Espanyol de Barcelona,1,4,-1,0.2
+Alcorcon,Sabadell,2,0,1,0.2
+Logrones,Fuenlabrada,1,0,1,0.2
+MIRANDES,CD Leganés,0,0,0,0.2
+TENERIFE,RCD Mallorca,0,1,-1,0.2
+MALAGA,Girona FC,0,1,-1,0.2
+SPORTING,UD Las Palmas,1,0,1,0.2
+Rayo Vallecano,OVIEDO,4,1,1,0.2
+ZARAGOZA,CASTELLON,3,0,1,0.2
+RCD Espanyol de Barcelona,TENERIFE,1,1,0,0.2
+RCD Mallorca,ZARAGOZA,2,1,1,0.2
+OVIEDO,MIRANDES,1,1,0,0.2
+ALMERIA,Logrones,2,1,1,0.2
+CASTELLON,Rayo Vallecano,0,2,-1,0.2
+Fuenlabrada,SPORTING,0,0,0,0.2
+Girona FC,Alcorcon,1,0,1,0.2
+UD Las Palmas,ALBACETE,3,2,1,0.2
+CD Leganés,MALAGA,1,0,1,0.2
+Lugo,CARTAGENA,2,1,1,0.2
+Sabadell,Ponferradina,2,0,1,0.2
+TENERIFE,OVIEDO,2,2,0,0.2
+ALBACETE,Fuenlabrada,1,2,-1,0.2
+Alcorcon,RCD Espanyol de Barcelona,1,0,1,0.2
+CARTAGENA,Girona FC,1,1,0,0.2
+Logrones,UD Las Palmas,0,1,-1,0.2
+MALAGA,CASTELLON,3,0,1,0.2
+MIRANDES,Sabadell,0,2,-1,0.2
+Ponferradina,RCD Mallorca,2,2,0,0.2
+SPORTING,ALMERIA,0,2,-1,0.2
+Rayo Vallecano,Lugo,0,1,-1,0.2
+ZARAGOZA,CD Leganés,0,5,-1,0.2
+HUESCA,EIBAR,2,0,1,0.4
+ZARAGOZA,Ibiza,0,0,0,0.4
+Sociedad B,CD Leganés,1,0,1,0.4
+Girona FC,Amorebieta,2,0,1,0.4
+Ponferradina,Alcorcon,1,0,1,0.4
+SPORTING,BURGOS,1,0,1,0.4
+OVIEDO,Lugo,2,2,0,0.4
+Fuenlabrada,TENERIFE,1,2,-1,0.4
+UD Las Palmas,Real Valladolid CF,1,1,0,0.4
+MALAGA,MIRANDES,0,0,0,0.4
+CARTAGENA,ALMERIA,1,3,-1,0.4
+Real Valladolid CF,ZARAGOZA,2,0,1,0.4
+ALMERIA,OVIEDO,2,1,1,0.4
+Lugo,Sociedad B,0,0,0,0.4
+TENERIFE,SPORTING,0,0,0,0.4
+Alcorcon,Fuenlabrada,0,2,-1,0.4
+Ibiza,MALAGA,2,2,0,0.4
+EIBAR,Ponferradina,0,1,-1,0.4
+Girona FC,UD Las Palmas,0,0,0,0.4
+HUESCA,CARTAGENA,2,0,1,0.4
+MIRANDES,Amorebieta,2,0,1,0.4
+CD Leganés,BURGOS,0,0,0,0.4
+UD Las Palmas,HUESCA,2,1,1,0.4
+MALAGA,Alcorcon,1,0,1,0.4
+SPORTING,MIRANDES,2,1,1,0.4
+CD Leganés,Ibiza,1,2,-1,0.4
+OVIEDO,TENERIFE,0,0,0,0.4
+Ponferradina,Girona FC,2,1,1,0.4
+Amorebieta,ALMERIA,2,1,1,0.4
+Lugo,Real Valladolid CF,0,2,-1,0.4
+Sociedad B,Fuenlabrada,0,0,0,0.4
+BURGOS,EIBAR,0,1,-1,0.4
+ZARAGOZA,CARTAGENA,0,1,-1,0.4
+Girona FC,SPORTING,1,2,-1,0.4
+EIBAR,CD Leganés,1,1,0,0.4
+CARTAGENA,Sociedad B,1,0,1,0.4
+TENERIFE,Ponferradina,2,0,1,0.4
+ALMERIA,MALAGA,2,0,1,0.4
+Fuenlabrada,Lugo,1,1,0,0.4
+BURGOS,Real Valladolid CF,3,0,1,0.4
+Ibiza,Amorebieta,1,1,0,0.4
+Alcorcon,ZARAGOZA,1,2,-1,0.4
+MIRANDES,UD Las Palmas,4,2,1,0.4
+HUESCA,OVIEDO,1,2,-1,0.4
+SPORTING,CD Leganés,2,1,1,0.4
+Amorebieta,BURGOS,2,2,0,0.4
+Sociedad B,EIBAR,2,3,-1,0.4
+UD Las Palmas,Ibiza,1,1,0,0.4
+MIRANDES,Alcorcon,1,3,-1,0.4
+OVIEDO,CARTAGENA,2,0,1,0.4
+Real Valladolid CF,TENERIFE,0,2,-1,0.4
+Ponferradina,ALMERIA,1,0,1,0.4
+Fuenlabrada,ZARAGOZA,1,1,0,0.4
+MALAGA,Girona FC,2,0,1,0.4
+Lugo,HUESCA,3,2,1,0.4
+Alcorcon,ALMERIA,0,4,-1,0.4
+Ibiza,OVIEDO,1,1,0,0.4
+CD Leganés,Amorebieta,1,0,1,0.4
+ZARAGOZA,Sociedad B,1,1,0,0.4
+Girona FC,Real Valladolid CF,1,0,1,0.4
+CARTAGENA,Lugo,2,1,1,0.4
+HUESCA,Fuenlabrada,0,0,0,0.4
+Ponferradina,MALAGA,4,0,1,0.4
+EIBAR,SPORTING,3,2,1,0.4
+TENERIFE,MIRANDES,1,2,-1,0.4
+BURGOS,UD Las Palmas,0,0,0,0.4
+Sociedad B,HUESCA,0,2,-1,0.4
+ALMERIA,TENERIFE,3,1,1,0.4
+Ibiza,BURGOS,2,0,1,0.4
+Amorebieta,EIBAR,1,1,0,0.4
+UD Las Palmas,Ponferradina,2,1,1,0.4
+MIRANDES,CD Leganés,1,2,-1,0.4
+SPORTING,MALAGA,2,1,1,0.4
+OVIEDO,Girona FC,0,0,0,0.4
+Lugo,ZARAGOZA,1,1,0,0.4
+Real Valladolid CF,Alcorcon,2,0,1,0.4
+Fuenlabrada,CARTAGENA,2,1,1,0.4
+Ponferradina,Real Valladolid CF,2,2,0,0.4
+Amorebieta,SPORTING,1,1,0,0.4
+HUESCA,TENERIFE,1,2,-1,0.4
+ZARAGOZA,OVIEDO,0,0,0,0.4
+Alcorcon,Sociedad B,1,4,-1,0.4
+EIBAR,Ibiza,3,1,1,0.4
+MALAGA,Fuenlabrada,1,0,1,0.4
+BURGOS,MIRANDES,1,0,1,0.4
+UD Las Palmas,CARTAGENA,4,1,1,0.4
+CD Leganés,Lugo,1,1,0,0.4
+Girona FC,ALMERIA,1,2,-1,0.4
+Real Valladolid CF,MALAGA,1,1,0,0.4
+Lugo,Girona FC,1,0,1,0.4
+MIRANDES,EIBAR,3,3,0,0.4
+ALMERIA,UD Las Palmas,1,1,0,0.4
+OVIEDO,SPORTING,1,1,0,0.4
+Sociedad B,Ponferradina,1,1,0,0.4
+CARTAGENA,Ibiza,5,1,1,0.4
+Alcorcon,BURGOS,1,0,1,0.4
+Fuenlabrada,CD Leganés,2,1,1,0.4
+TENERIFE,Amorebieta,2,1,1,0.4
+ZARAGOZA,HUESCA,0,0,0,0.4
+EIBAR,ALMERIA,1,0,1,0.4
+Amorebieta,CARTAGENA,2,3,-1,0.4
+Girona FC,HUESCA,1,3,-1,0.4
+UD Las Palmas,TENERIFE,2,1,1,0.4
+MALAGA,ZARAGOZA,1,1,0,0.4
+SPORTING,Alcorcon,1,0,1,0.4
+Ibiza,MIRANDES,0,2,-1,0.4
+CD Leganés,Real Valladolid CF,0,2,-1,0.4
+BURGOS,Lugo,1,1,0,0.4
+Sociedad B,OVIEDO,1,1,0,0.4
+Ponferradina,Fuenlabrada,0,0,0,0.4
+CARTAGENA,SPORTING,1,0,1,0.4
+HUESCA,MALAGA,0,0,0,0.4
+TENERIFE,EIBAR,0,1,-1,0.4
+Fuenlabrada,Amorebieta,0,0,0,0.4
+Real Valladolid CF,Ibiza,1,1,0,0.4
+Alcorcon,CD Leganés,3,3,0,0.4
+Lugo,UD Las Palmas,2,0,1,0.4
+ALMERIA,Sociedad B,3,1,1,0.4
+ZARAGOZA,Ponferradina,1,1,0,0.4
+MIRANDES,Girona FC,1,2,-1,0.4
+OVIEDO,BURGOS,1,3,-1,0.4
+EIBAR,CARTAGENA,2,1,1,0.4
+Ibiza,Fuenlabrada,3,1,1,0.4
+SPORTING,Real Valladolid CF,1,2,-1,0.4
+MALAGA,Lugo,1,0,1,0.4
+CD Leganés,TENERIFE,1,2,-1,0.4
+Amorebieta,Sociedad B,1,2,-1,0.4
+MIRANDES,ALMERIA,1,4,-1,0.4
+BURGOS,HUESCA,3,1,1,0.4
+Ponferradina,OVIEDO,1,2,-1,0.4
+UD Las Palmas,Alcorcon,3,0,1,0.4
+Girona FC,ZARAGOZA,1,1,0,0.4
+ALMERIA,CD Leganés,1,0,1,0.4
+Sociedad B,UD Las Palmas,0,1,-1,0.4
+HUESCA,Amorebieta,1,1,0,0.4
+Lugo,SPORTING,1,1,0,0.4
+CARTAGENA,Ponferradina,0,1,-1,0.4
+Fuenlabrada,Girona FC,1,2,-1,0.4
+OVIEDO,MALAGA,2,1,1,0.4
+Real Valladolid CF,EIBAR,2,0,1,0.4
+ZARAGOZA,MIRANDES,1,1,0,0.4
+Alcorcon,Ibiza,0,2,-1,0.4
+TENERIFE,BURGOS,4,0,1,0.4
+Ponferradina,HUESCA,1,1,0,0.4
+SPORTING,ALMERIA,0,1,-1,0.4
+CD Leganés,CARTAGENA,1,1,0,0.4
+Amorebieta,Real Valladolid CF,4,1,1,0.4
+MIRANDES,Lugo,3,2,1,0.4
+EIBAR,OVIEDO,1,0,1,0.4
+UD Las Palmas,Fuenlabrada,2,1,1,0.4
+BURGOS,ZARAGOZA,0,1,-1,0.4
+Girona FC,Alcorcon,3,1,1,0.4
+Ibiza,TENERIFE,0,0,0,0.4
+MALAGA,Sociedad B,2,1,1,0.4
+HUESCA,CD Leganés,0,2,-1,0.4
+Lugo,Ponferradina,1,2,-1,0.4
+OVIEDO,UD Las Palmas,1,1,0,0.4
+Real Valladolid CF,MIRANDES,3,1,1,0.4
+Fuenlabrada,EIBAR,0,0,0,0.4
+Alcorcon,Amorebieta,2,2,0,0.4
+ZARAGOZA,SPORTING,2,0,1,0.4
+ALMERIA,BURGOS,2,0,1,0.4
+CARTAGENA,MALAGA,3,1,1,0.4
+Sociedad B,Ibiza,0,1,-1,0.4
+TENERIFE,Girona FC,2,1,1,0.4
+SPORTING,Sociedad B,0,1,-1,0.4
+Real Valladolid CF,Fuenlabrada,3,0,1,0.4
+EIBAR,Alcorcon,2,1,1,0.4
+MIRANDES,HUESCA,0,1,-1,0.4
+UD Las Palmas,ZARAGOZA,2,3,-1,0.4
+Amorebieta,Lugo,1,3,-1,0.4
+Girona FC,CARTAGENA,2,0,1,0.4
+Ibiza,ALMERIA,0,1,-1,0.4
+BURGOS,Ponferradina,1,0,1,0.4
+CD Leganés,OVIEDO,0,0,0,0.4
+MALAGA,TENERIFE,1,0,1,0.4
+Fuenlabrada,MIRANDES,1,1,0,0.4
+OVIEDO,Amorebieta,2,0,1,0.4
+MALAGA,UD Las Palmas,2,1,1,0.4
+ALMERIA,Real Valladolid CF,3,1,1,0.4
+CARTAGENA,BURGOS,1,0,1,0.4
+Lugo,EIBAR,2,2,0,0.4
+HUESCA,Ibiza,0,0,0,0.4
+TENERIFE,Alcorcon,1,0,1,0.4
+Ponferradina,SPORTING,4,1,1,0.4
+Sociedad B,Girona FC,1,2,-1,0.4
+ZARAGOZA,CD Leganés,0,2,-1,0.4
+Alcorcon,Lugo,1,1,0,0.4
+MIRANDES,OVIEDO,1,1,0,0.4
+BURGOS,MALAGA,3,0,1,0.4
+ALMERIA,HUESCA,0,0,0,0.4
+SPORTING,Fuenlabrada,1,1,0,0.4
+Real Valladolid CF,CARTAGENA,2,0,1,0.4
+CD Leganés,UD Las Palmas,4,1,1,0.4
+Amorebieta,ZARAGOZA,1,1,0,0.4
+Ibiza,Ponferradina,0,1,-1,0.4
+TENERIFE,Sociedad B,2,0,1,0.4
+EIBAR,Girona FC,4,2,1,0.4
+HUESCA,Real Valladolid CF,3,2,1,0.4
+Fuenlabrada,ALMERIA,1,1,0,0.4
+Ponferradina,MIRANDES,2,1,1,0.4
+MALAGA,Amorebieta,1,2,-1,0.4
+Lugo,Ibiza,0,0,0,0.4
+OVIEDO,Alcorcon,3,1,1,0.4
+Sociedad B,BURGOS,0,1,-1,0.4
+UD Las Palmas,SPORTING,1,0,1,0.4
+ZARAGOZA,EIBAR,1,0,1,0.4
+CARTAGENA,TENERIFE,1,1,0,0.4
+Girona FC,CD Leganés,3,0,1,0.4
+SPORTING,HUESCA,1,1,0,0.4
+BURGOS,Fuenlabrada,2,0,1,0.4
+Ibiza,Girona FC,1,1,0,0.4
+ALMERIA,ZARAGOZA,3,0,1,0.4
+EIBAR,MALAGA,2,2,0,0.4
+TENERIFE,Lugo,1,1,0,0.4
+CD Leganés,Ponferradina,1,1,0,0.4
+Real Valladolid CF,OVIEDO,2,1,1,0.4
+Alcorcon,CARTAGENA,1,1,0,0.4
+Amorebieta,UD Las Palmas,1,1,0,0.4
+MIRANDES,Sociedad B,2,0,1,0.4
+Girona FC,BURGOS,3,1,1,0.4
+Ibiza,SPORTING,0,2,-1,0.4
+MALAGA,CD Leganés,0,2,-1,0.4
+UD Las Palmas,EIBAR,0,1,-1,0.4
+Fuenlabrada,OVIEDO,0,0,0,0.4
+Ponferradina,Amorebieta,1,1,0,0.4
+ZARAGOZA,TENERIFE,0,2,-1,0.4
+CARTAGENA,MIRANDES,3,0,1,0.4
+HUESCA,Alcorcon,0,0,0,0.4
+Sociedad B,Real Valladolid CF,0,2,-1,0.4
+OVIEDO,Ponferradina,2,0,1,0.4
+BURGOS,Amorebieta,2,2,0,0.4
+EIBAR,Sociedad B,3,2,1,0.4
+ALMERIA,CARTAGENA,0,1,-1,0.4
+Real Valladolid CF,CD Leganés,1,0,1,0.4
+SPORTING,Lugo,1,1,0,0.4
+HUESCA,Girona FC,0,1,-1,0.4
+MIRANDES,ZARAGOZA,2,0,1,0.4
+Fuenlabrada,Ibiza,1,2,-1,0.4
+TENERIFE,UD Las Palmas,0,1,-1,0.4
+Alcorcon,MALAGA,0,1,-1,0.4
+Amorebieta,TENERIFE,1,1,0,0.4
+CARTAGENA,HUESCA,0,3,-1,0.4
+Ibiza,Alcorcon,6,2,1,0.4
+Real Valladolid CF,BURGOS,1,0,1,0.4
+CD Leganés,Sociedad B,1,1,0,0.4
+Girona FC,Fuenlabrada,2,1,1,0.4
+Lugo,MIRANDES,2,1,1,0.4
+MALAGA,SPORTING,2,2,0,0.4
+Ponferradina,ZARAGOZA,0,0,0,0.4
+UD Las Palmas,ALMERIA,1,1,0,0.4
+OVIEDO,EIBAR,1,1,0,0.4
+Lugo,ALMERIA,2,1,1,0.4
+TENERIFE,OVIEDO,4,0,1,0.4
+ZARAGOZA,Real Valladolid CF,0,0,0,0.4
+Fuenlabrada,UD Las Palmas,3,2,1,0.4
+MALAGA,Ibiza,0,5,-1,0.4
+BURGOS,CD Leganés,4,0,1,0.4
+SPORTING,Amorebieta,2,1,1,0.4
+Girona FC,Lugo,1,1,0,0.4
+HUESCA,Ponferradina,1,2,-1,0.4
+Alcorcon,MIRANDES,0,0,0,0.4
+ALMERIA,EIBAR,0,2,-1,0.4
+Sociedad B,CARTAGENA,1,2,-1,0.4
+Real Valladolid CF,SPORTING,1,0,1,0.4
+Amorebieta,Girona FC,1,0,1,0.4
+EIBAR,HUESCA,2,1,1,0.4
+Lugo,BURGOS,1,0,1,0.4
+OVIEDO,ALMERIA,2,0,1,0.4
+CD Leganés,Alcorcon,1,0,1,0.4
+CARTAGENA,Fuenlabrada,3,0,1,0.4
+UD Las Palmas,Sociedad B,0,0,0,0.4
+MIRANDES,MALAGA,3,0,1,0.4
+Ponferradina,TENERIFE,1,2,-1,0.4
+Ibiza,ZARAGOZA,2,2,0,0.4
+ALMERIA,Ibiza,2,0,1,0.4
+BURGOS,Alcorcon,3,1,1,0.4
+Sociedad B,Lugo,1,1,0,0.4
+ZARAGOZA,MALAGA,1,1,0,0.4
+Girona FC,Ponferradina,3,0,1,0.4
+SPORTING,EIBAR,0,1,-1,0.4
+Amorebieta,OVIEDO,1,1,0,0.4
+Fuenlabrada,Real Valladolid CF,0,0,0,0.4
+CARTAGENA,UD Las Palmas,0,2,-1,0.4
+HUESCA,MIRANDES,4,0,1,0.4
+TENERIFE,CD Leganés,0,0,0,0.4
+CD Leganés,ZARAGOZA,2,1,1,0.4
+MIRANDES,SPORTING,0,3,-1,0.4
+Ibiza,CARTAGENA,2,1,1,0.4
+Real Valladolid CF,Girona FC,2,2,0,0.4
+MALAGA,ALMERIA,0,1,-1,0.4
+EIBAR,Fuenlabrada,0,0,0,0.4
+OVIEDO,HUESCA,3,3,0,0.4
+Alcorcon,TENERIFE,0,2,-1,0.4
+Lugo,Amorebieta,1,1,0,0.4
+UD Las Palmas,BURGOS,0,2,-1,0.4
+Ponferradina,Sociedad B,3,2,1,0.4
+CARTAGENA,Real Valladolid CF,2,3,-1,0.4
+ZARAGOZA,UD Las Palmas,2,1,1,0.4
+Girona FC,EIBAR,0,1,-1,0.4
+TENERIFE,Ibiza,2,0,1,0.4
+Sociedad B,MALAGA,2,0,1,0.4
+Fuenlabrada,Alcorcon,2,2,0,0.4
+BURGOS,OVIEDO,0,1,-1,0.4
+HUESCA,Lugo,1,0,1,0.4
+SPORTING,Ponferradina,2,3,-1,0.4
+ALMERIA,MIRANDES,2,1,1,0.4
+Amorebieta,CD Leganés,1,3,-1,0.4
+ALMERIA,Fuenlabrada,3,1,1,0.4
+Ibiza,HUESCA,2,1,1,0.4
+MIRANDES,TENERIFE,2,1,1,0.4
+OVIEDO,Sociedad B,0,1,-1,0.4
+UD Las Palmas,Lugo,2,2,0,0.4
+EIBAR,BURGOS,2,0,1,0.4
+SPORTING,ZARAGOZA,1,2,-1,0.4
+CD Leganés,Girona FC,1,1,0,0.4
+Real Valladolid CF,Amorebieta,5,1,1,0.4
+Alcorcon,Ponferradina,2,2,0,0.4
+MALAGA,CARTAGENA,1,1,0,0.4
+ZARAGOZA,ALMERIA,2,0,1,0.4
+Fuenlabrada,BURGOS,1,2,-1,0.4
+HUESCA,UD Las Palmas,0,0,0,0.4
+TENERIFE,Real Valladolid CF,1,4,-1,0.4
+Lugo,Alcorcon,1,0,1,0.4
+Ponferradina,Ibiza,1,1,0,0.4
+Amorebieta,MALAGA,1,2,-1,0.4
+CARTAGENA,EIBAR,4,1,1,0.4
+CD Leganés,MIRANDES,2,0,1,0.4
+Girona FC,OVIEDO,2,1,1,0.4
+Sociedad B,SPORTING,2,1,1,0.4
+ZARAGOZA,Fuenlabrada,2,1,1,0.4
+Ibiza,CD Leganés,1,1,0,0.4
+MIRANDES,CARTAGENA,2,1,1,0.4
+ALMERIA,Lugo,3,3,0,0.4
+UD Las Palmas,Girona FC,1,3,-1,0.4
+MALAGA,Ponferradina,0,0,0,0.4
+BURGOS,Sociedad B,0,0,0,0.4
+EIBAR,Amorebieta,1,0,1,0.4
+SPORTING,TENERIFE,1,2,-1,0.4
+Alcorcon,HUESCA,1,0,1,0.4
+OVIEDO,Real Valladolid CF,3,0,1,0.4
+HUESCA,BURGOS,1,0,1,0.4
+Sociedad B,MIRANDES,1,3,-1,0.4
+CARTAGENA,ZARAGOZA,3,0,1,0.4
+Fuenlabrada,MALAGA,1,0,1,0.4
+Lugo,OVIEDO,1,1,0,0.4
+Real Valladolid CF,UD Las Palmas,0,1,-1,0.4
+Girona FC,Ibiza,5,1,1,0.4
+Amorebieta,Alcorcon,0,0,0,0.4
+Ponferradina,EIBAR,2,2,0,0.4
+CD Leganés,SPORTING,1,1,0,0.4
+TENERIFE,ALMERIA,0,1,-1,0.4
+ZARAGOZA,Amorebieta,1,1,0,0.4
+Ibiza,Sociedad B,2,2,0,0.4
+EIBAR,Lugo,1,0,1,0.4
+SPORTING,CARTAGENA,4,1,1,0.4
+OVIEDO,Fuenlabrada,3,0,1,0.4
+MIRANDES,Ponferradina,3,1,1,0.4
+BURGOS,TENERIFE,1,0,1,0.4
+Alcorcon,Real Valladolid CF,1,2,-1,0.4
+MALAGA,HUESCA,0,2,-1,0.4
+ALMERIA,Girona FC,0,1,-1,0.4
+UD Las Palmas,CD Leganés,4,2,1,0.4
+Girona FC,MALAGA,1,0,1,0.4
+Sociedad B,Alcorcon,2,4,-1,0.4
+Real Valladolid CF,Lugo,4,1,1,0.4
+Amorebieta,Ibiza,3,1,1,0.4
+TENERIFE,ZARAGOZA,1,1,0,0.4
+CARTAGENA,OVIEDO,1,2,-1,0.4
+BURGOS,SPORTING,0,0,0,0.4
+Ponferradina,UD Las Palmas,1,2,-1,0.4
+EIBAR,MIRANDES,1,1,0,0.4
+HUESCA,ALMERIA,1,1,0,0.4
+CD Leganés,Fuenlabrada,3,2,1,0.4
+Lugo,CARTAGENA,1,0,1,0.4
+Sociedad B,TENERIFE,1,2,-1,0.4
+Alcorcon,SPORTING,1,1,0,0.4
+MALAGA,Real Valladolid CF,2,2,0,0.4
+UD Las Palmas,Amorebieta,1,0,1,0.4
+Fuenlabrada,HUESCA,2,3,-1,0.4
+ZARAGOZA,Girona FC,1,0,1,0.4
+Ibiza,EIBAR,2,0,1,0.4
+MIRANDES,BURGOS,3,1,1,0.4
+OVIEDO,CD Leganés,1,0,1,0.4
+ALMERIA,Ponferradina,3,0,1,0.4
+EIBAR,UD Las Palmas,2,2,0,0.4
+Amorebieta,MIRANDES,1,0,1,0.4
+CD Leganés,MALAGA,0,3,-1,0.4
+Real Valladolid CF,ALMERIA,2,2,0,0.4
+SPORTING,OVIEDO,0,1,-1,0.4
+CARTAGENA,Alcorcon,3,1,1,0.4
+Ponferradina,Lugo,3,1,1,0.4
+BURGOS,Ibiza,2,1,1,0.4
+HUESCA,ZARAGOZA,1,1,0,0.4
+TENERIFE,Fuenlabrada,3,1,1,0.4
+Girona FC,Sociedad B,2,0,1,0.4
+TENERIFE,HUESCA,0,0,0,0.4
+Sociedad B,Amorebieta,2,1,1,0.4
+CARTAGENA,Girona FC,3,0,1,0.4
+Fuenlabrada,Ponferradina,2,3,-1,0.4
+MALAGA,EIBAR,1,3,-1,0.4
+Alcorcon,OVIEDO,1,2,-1,0.4
+Ibiza,UD Las Palmas,1,1,0,0.4
+MIRANDES,Real Valladolid CF,0,1,-1,0.4
+Lugo,CD Leganés,0,0,0,0.4
+ZARAGOZA,BURGOS,0,0,0,0.4
+ALMERIA,SPORTING,1,0,1,0.4
+UD Las Palmas,MALAGA,2,1,1,0.4
+OVIEDO,MIRANDES,3,0,1,0.4
+EIBAR,ZARAGOZA,2,0,1,0.4
+BURGOS,ALMERIA,0,2,-1,0.4
+Amorebieta,Fuenlabrada,2,1,1,0.4
+Alcorcon,Girona FC,0,1,-1,0.4
+SPORTING,Ibiza,0,1,-1,0.4
+Lugo,TENERIFE,0,2,-1,0.4
+Ponferradina,CARTAGENA,4,2,1,0.4
+CD Leganés,HUESCA,2,1,1,0.4
+Real Valladolid CF,Sociedad B,1,2,-1,0.4
+UD Las Palmas,MIRANDES,1,0,1,0.4
+Fuenlabrada,Sociedad B,1,2,-1,0.4
+HUESCA,SPORTING,1,1,0,0.4
+ALMERIA,Amorebieta,3,0,1,0.4
+MALAGA,OVIEDO,0,0,0,0.4
+Ponferradina,BURGOS,3,1,1,0.4
+CARTAGENA,CD Leganés,0,0,0,0.4
+EIBAR,Real Valladolid CF,0,2,-1,0.4
+Ibiza,Lugo,1,1,0,0.4
+ZARAGOZA,Alcorcon,0,3,-1,0.4
+Girona FC,TENERIFE,0,1,-1,0.4
+Sociedad B,ALMERIA,0,2,-1,0.4
+Amorebieta,HUESCA,1,0,1,0.4
+BURGOS,CARTAGENA,1,1,0,0.4
+Lugo,Fuenlabrada,1,3,-1,0.4
+Real Valladolid CF,Ponferradina,2,0,1,0.4
+CD Leganés,EIBAR,2,3,-1,0.4
+Alcorcon,UD Las Palmas,0,2,-1,0.4
+MIRANDES,Ibiza,4,0,1,0.4
+SPORTING,Girona FC,2,1,1,0.4
+TENERIFE,MALAGA,0,2,-1,0.4
+OVIEDO,ZARAGOZA,3,3,0,0.4
+ZARAGOZA,Lugo,1,0,1,0.4
+CARTAGENA,Amorebieta,5,0,1,0.4
+Fuenlabrada,SPORTING,0,0,0,0.4
+HUESCA,Sociedad B,3,2,1,0.4
+MALAGA,BURGOS,0,1,-1,0.4
+ALMERIA,Alcorcon,1,1,0,0.4
+EIBAR,TENERIFE,2,0,1,0.4
+Girona FC,MIRANDES,2,0,1,0.4
+Ibiza,Real Valladolid CF,1,2,-1,0.4
+UD Las Palmas,OVIEDO,2,1,1,0.4
+Ponferradina,CD Leganés,0,3,-1,0.4
+MIRANDES,Fuenlabrada,5,1,1,0.4
+Sociedad B,ZARAGOZA,1,2,-1,0.4
+Amorebieta,Ponferradina,1,0,1,0.4
+Lugo,MALAGA,1,0,1,0.4
+Alcorcon,EIBAR,1,0,1,0.4
+BURGOS,Girona FC,0,0,0,0.4
+CD Leganés,ALMERIA,2,2,0,0.4
+OVIEDO,Ibiza,3,2,1,0.4
+SPORTING,UD Las Palmas,0,1,-1,0.4
+TENERIFE,CARTAGENA,1,2,-1,0.4
+Real Valladolid CF,HUESCA,3,0,1,0.4
+LEVANTE,HUESCA,0,0,0,0.6
+EIBAR,TENERIFE,2,1,1,0.6
+MIRANDES,SPORTING,1,1,0,0.6
+CD Leganés,Deportivo Alavés,1,2,-1,0.6
+UD Las Palmas,ZARAGOZA,0,0,0,0.6
+RACING,Villarreal B,0,2,-1,0.6
+Ibiza,GRANADA,0,2,-1,0.6
+BURGOS,MALAGA,1,0,1,0.6
+OVIEDO,Andorra,0,1,-1,0.6
+Lugo,ALBACETE,1,2,-1,0.6
+CARTAGENA,Ponferradina,2,3,-1,0.6
+Villarreal B,EIBAR,2,2,0,0.6
+Deportivo Alavés,MIRANDES,1,0,1,0.6
+SPORTING,Andorra,4,1,1,0.6
+ALBACETE,BURGOS,0,0,0,0.6
+ZARAGOZA,LEVANTE,0,0,0,0.6
+GRANADA,RACING,2,0,1,0.6
+OVIEDO,CD Leganés,1,0,1,0.6
+HUESCA,CARTAGENA,2,3,-1,0.6
+TENERIFE,Lugo,1,1,0,0.6
+Ponferradina,Ibiza,2,1,1,0.6
+MALAGA,UD Las Palmas,0,4,-1,0.6
+ALBACETE,HUESCA,2,1,1,0.6
+CARTAGENA,ZARAGOZA,1,0,1,0.6
+SPORTING,BURGOS,0,0,0,0.6
+Lugo,CD Leganés,1,0,1,0.6
+MIRANDES,MALAGA,1,3,-1,0.6
+LEVANTE,TENERIFE,2,0,1,0.6
+RACING,OVIEDO,0,1,-1,0.6
+EIBAR,Ponferradina,1,0,1,0.6
+Ibiza,Deportivo Alavés,1,1,0,0.6
+GRANADA,Villarreal B,3,0,1,0.6
+UD Las Palmas,Andorra,2,0,1,0.6
+CD Leganés,EIBAR,2,1,1,0.6
+Deportivo Alavés,UD Las Palmas,1,1,0,0.6
+Villarreal B,MIRANDES,3,0,1,0.6
+Ponferradina,SPORTING,1,3,-1,0.6
+TENERIFE,RACING,1,0,1,0.6
+Andorra,GRANADA,1,0,1,0.6
+MALAGA,ALBACETE,1,2,-1,0.6
+BURGOS,CARTAGENA,1,0,1,0.6
+HUESCA,Ibiza,3,0,1,0.6
+ZARAGOZA,Lugo,1,2,-1,0.6
+OVIEDO,LEVANTE,1,1,0,0.6
+UD Las Palmas,CD Leganés,1,0,1,0.6
+Lugo,Deportivo Alavés,1,2,-1,0.6
+BURGOS,OVIEDO,0,0,0,0.6
+CARTAGENA,ALBACETE,2,1,1,0.6
+LEVANTE,Villarreal B,4,1,1,0.6
+SPORTING,RACING,0,2,-1,0.6
+Ibiza,TENERIFE,1,0,1,0.6
+MIRANDES,Andorra,1,1,0,0.6
+Ponferradina,ZARAGOZA,1,2,-1,0.6
+HUESCA,MALAGA,1,0,1,0.6
+EIBAR,GRANADA,4,0,1,0.6
+LEVANTE,CARTAGENA,0,1,-1,0.6
+Villarreal B,Lugo,3,1,1,0.6
+OVIEDO,Ibiza,0,1,-1,0.6
+Andorra,EIBAR,2,0,1,0.6
+GRANADA,MIRANDES,2,1,1,0.6
+ZARAGOZA,SPORTING,1,0,1,0.6
+CD Leganés,BURGOS,0,0,0,0.6
+Deportivo Alavés,HUESCA,2,1,1,0.6
+RACING,UD Las Palmas,0,0,0,0.6
+ALBACETE,Ponferradina,0,1,-1,0.6
+TENERIFE,MALAGA,3,1,1,0.6
+SPORTING,Ibiza,2,1,1,0.6
+HUESCA,CD Leganés,1,0,1,0.6
+MIRANDES,ZARAGOZA,2,0,1,0.6
+MALAGA,Villarreal B,1,1,0,0.6
+Ponferradina,TENERIFE,2,2,0,0.6
+BURGOS,LEVANTE,0,0,0,0.6
+Lugo,OVIEDO,0,0,0,0.6
+ALBACETE,Andorra,1,1,0,0.6
+EIBAR,RACING,2,1,1,0.6
+CARTAGENA,Deportivo Alavés,1,1,0,0.6
+UD Las Palmas,GRANADA,2,0,1,0.6
+TENERIFE,SPORTING,1,1,0,0.6
+MIRANDES,UD Las Palmas,3,3,0,0.6
+RACING,MALAGA,0,0,0,0.6
+Andorra,LEVANTE,3,1,1,0.6
+Villarreal B,BURGOS,0,0,0,0.6
+Deportivo Alavés,Ponferradina,3,1,1,0.6
+CD Leganés,ALBACETE,1,2,-1,0.6
+GRANADA,HUESCA,0,0,0,0.6
+OVIEDO,CARTAGENA,1,3,-1,0.6
+Ibiza,Lugo,3,2,1,0.6
+ZARAGOZA,EIBAR,0,0,0,0.6
+SPORTING,Villarreal B,3,1,1,0.6
+Ponferradina,GRANADA,0,0,0,0.6
+HUESCA,Lugo,1,1,0,0.6
+UD Las Palmas,Ibiza,0,0,0,0.6
+BURGOS,Deportivo Alavés,3,0,1,0.6
+CARTAGENA,CD Leganés,1,2,-1,0.6
+ZARAGOZA,OVIEDO,1,1,0,0.6
+ALBACETE,TENERIFE,1,1,0,0.6
+LEVANTE,RACING,0,1,-1,0.6
+MALAGA,Andorra,0,0,0,0.6
+EIBAR,MIRANDES,0,0,0,0.6
+Villarreal B,Ponferradina,2,2,0,0.6
+Andorra,BURGOS,0,1,-1,0.6
+CD Leganés,MALAGA,1,0,1,0.6
+Deportivo Alavés,ALBACETE,0,0,0,0.6
+OVIEDO,HUESCA,0,1,-1,0.6
+TENERIFE,CARTAGENA,0,0,0,0.6
+Lugo,UD Las Palmas,0,1,-1,0.6
+RACING,ZARAGOZA,1,0,1,0.6
+Ibiza,EIBAR,1,2,-1,0.6
+MIRANDES,LEVANTE,0,1,-1,0.6
+GRANADA,SPORTING,5,0,1,0.6
+Andorra,Deportivo Alavés,0,1,-1,0.6
+ZARAGOZA,Villarreal B,2,1,1,0.6
+HUESCA,RACING,0,0,0,0.6
+Ponferradina,UD Las Palmas,0,1,-1,0.6
+ALBACETE,OVIEDO,1,0,1,0.6
+LEVANTE,CD Leganés,2,1,1,0.6
+BURGOS,MIRANDES,2,1,1,0.6
+MALAGA,Lugo,3,2,1,0.6
+CARTAGENA,Ibiza,2,0,1,0.6
+TENERIFE,GRANADA,2,0,1,0.6
+SPORTING,EIBAR,2,0,1,0.6
+GRANADA,ZARAGOZA,1,0,1,0.6
+Villarreal B,Andorra,1,0,1,0.6
+Deportivo Alavés,SPORTING,0,0,0,0.6
+MIRANDES,HUESCA,1,1,0,0.6
+Ibiza,LEVANTE,1,2,-1,0.6
+RACING,Ponferradina,1,1,0,0.6
+Lugo,BURGOS,2,0,1,0.6
+EIBAR,ALBACETE,1,1,0,0.6
+CD Leganés,TENERIFE,2,1,1,0.6
+UD Las Palmas,CARTAGENA,1,0,1,0.6
+OVIEDO,MALAGA,1,0,1,0.6
+TENERIFE,ZARAGOZA,0,2,-1,0.6
+Andorra,Ponferradina,3,0,1,0.6
+HUESCA,UD Las Palmas,1,0,1,0.6
+Deportivo Alavés,OVIEDO,2,1,1,0.6
+CD Leganés,RACING,0,0,0,0.6
+BURGOS,Ibiza,2,0,1,0.6
+Lugo,MIRANDES,0,0,0,0.6
+MALAGA,EIBAR,0,1,-1,0.6
+CARTAGENA,GRANADA,0,0,0,0.6
+ALBACETE,Villarreal B,0,0,0,0.6
+LEVANTE,SPORTING,1,0,1,0.6
+Ponferradina,HUESCA,1,0,1,0.6
+ZARAGOZA,Andorra,0,2,-1,0.6
+UD Las Palmas,BURGOS,0,2,-1,0.6
+RACING,Deportivo Alavés,1,1,0,0.6
+Ibiza,CD Leganés,0,2,-1,0.6
+EIBAR,Lugo,1,0,1,0.6
+Villarreal B,OVIEDO,2,1,1,0.6
+MIRANDES,TENERIFE,1,0,1,0.6
+CARTAGENA,MALAGA,2,1,1,0.6
+SPORTING,ALBACETE,2,2,0,0.6
+GRANADA,LEVANTE,0,0,0,0.6
+Deportivo Alavés,ZARAGOZA,1,0,1,0.6
+BURGOS,TENERIFE,0,1,-1,0.6
+Andorra,RACING,0,1,-1,0.6
+HUESCA,Villarreal B,1,0,1,0.6
+CD Leganés,Ponferradina,2,1,1,0.6
+Ibiza,MIRANDES,1,1,0,0.6
+OVIEDO,GRANADA,1,0,1,0.6
+UD Las Palmas,EIBAR,1,1,0,0.6
+MALAGA,SPORTING,1,1,0,0.6
+ALBACETE,LEVANTE,2,3,-1,0.6
+Lugo,CARTAGENA,1,1,0,0.6
+GRANADA,ALBACETE,4,0,1,0.6
+Ponferradina,OVIEDO,1,1,0,0.6
+SPORTING,CD Leganés,2,2,0,0.6
+TENERIFE,HUESCA,2,0,1,0.6
+ZARAGOZA,MALAGA,1,1,0,0.6
+Villarreal B,Ibiza,1,0,1,0.6
+Andorra,Lugo,4,0,1,0.6
+EIBAR,Deportivo Alavés,0,0,0,0.6
+RACING,BURGOS,0,1,-1,0.6
+LEVANTE,UD Las Palmas,1,1,0,0.6
+MIRANDES,CARTAGENA,2,1,1,0.6
+HUESCA,SPORTING,0,0,0,0.6
+Deportivo Alavés,Villarreal B,2,0,1,0.6
+MALAGA,Ponferradina,1,0,1,0.6
+ALBACETE,RACING,2,1,1,0.6
+OVIEDO,MIRANDES,1,0,1,0.6
+UD Las Palmas,TENERIFE,3,1,1,0.6
+BURGOS,ZARAGOZA,2,2,0,0.6
+CD Leganés,GRANADA,1,0,1,0.6
+Lugo,LEVANTE,1,1,0,0.6
+CARTAGENA,EIBAR,2,1,1,0.6
+Ibiza,Andorra,0,1,-1,0.6
+TENERIFE,OVIEDO,0,1,-1,0.6
+GRANADA,Deportivo Alavés,3,1,1,0.6
+ZARAGOZA,Ibiza,2,1,1,0.6
+MIRANDES,ALBACETE,4,2,1,0.6
+SPORTING,UD Las Palmas,0,1,-1,0.6
+Villarreal B,CD Leganés,0,0,0,0.6
+Andorra,CARTAGENA,0,1,-1,0.6
+RACING,Lugo,0,1,-1,0.6
+EIBAR,HUESCA,2,1,1,0.6
+LEVANTE,MALAGA,1,0,1,0.6
+Ponferradina,BURGOS,1,2,-1,0.6
+CD Leganés,MIRANDES,2,2,0,0.6
+OVIEDO,UD Las Palmas,0,0,0,0.6
+ALBACETE,ZARAGOZA,0,0,0,0.6
+CARTAGENA,Villarreal B,0,1,-1,0.6
+HUESCA,Andorra,1,0,1,0.6
+TENERIFE,Deportivo Alavés,2,1,1,0.6
+BURGOS,EIBAR,1,2,-1,0.6
+Lugo,SPORTING,0,1,-1,0.6
+Ibiza,RACING,1,0,1,0.6
+LEVANTE,Ponferradina,0,0,0,0.6
+MALAGA,GRANADA,1,1,0,0.6
+Andorra,CD Leganés,1,1,0,0.6
+Villarreal B,TENERIFE,2,2,0,0.6
+ZARAGOZA,HUESCA,3,0,1,0.6
+Ibiza,MALAGA,1,1,0,0.6
+Ponferradina,Lugo,1,0,1,0.6
+SPORTING,CARTAGENA,0,0,0,0.6
+EIBAR,OVIEDO,1,0,1,0.6
+GRANADA,BURGOS,1,0,1,0.6
+UD Las Palmas,ALBACETE,1,2,-1,0.6
+RACING,MIRANDES,1,2,-1,0.6
+Deportivo Alavés,LEVANTE,0,2,-1,0.6
+TENERIFE,Andorra,1,1,0,0.6
+Lugo,GRANADA,1,0,1,0.6
+MIRANDES,Ponferradina,2,1,1,0.6
+Villarreal B,UD Las Palmas,0,1,-1,0.6
+CARTAGENA,RACING,0,3,-1,0.6
+OVIEDO,SPORTING,1,0,1,0.6
+ALBACETE,Ibiza,4,0,1,0.6
+LEVANTE,EIBAR,0,0,0,0.6
+BURGOS,HUESCA,1,1,0,0.6
+MALAGA,Deportivo Alavés,1,0,1,0.6
+CD Leganés,ZARAGOZA,2,1,1,0.6
+Ponferradina,Villarreal B,2,1,1,0.6
+SPORTING,LEVANTE,1,1,0,0.6
+CD Leganés,Lugo,1,0,1,0.6
+Andorra,OVIEDO,3,1,1,0.6
+MALAGA,TENERIFE,1,1,0,0.6
+Deportivo Alavés,BURGOS,1,0,1,0.6
+GRANADA,CARTAGENA,1,0,1,0.6
+ZARAGOZA,MIRANDES,0,0,0,0.6
+UD Las Palmas,RACING,1,1,0,0.6
+EIBAR,Ibiza,1,0,1,0.6
+HUESCA,ALBACETE,1,1,0,0.6
+OVIEDO,Deportivo Alavés,1,0,1,0.6
+CARTAGENA,HUESCA,0,0,0,0.6
+Ibiza,UD Las Palmas,1,2,-1,0.6
+Villarreal B,ZARAGOZA,2,3,-1,0.6
+RACING,SPORTING,2,0,1,0.6
+TENERIFE,Ponferradina,0,0,0,0.6
+LEVANTE,GRANADA,3,1,1,0.6
+EIBAR,MALAGA,2,1,1,0.6
+BURGOS,Andorra,2,1,1,0.6
+MIRANDES,Lugo,2,0,1,0.6
+ALBACETE,CD Leganés,1,0,1,0.6
+UD Las Palmas,MIRANDES,2,1,1,0.6
+MALAGA,BURGOS,1,1,0,0.6
+Ponferradina,EIBAR,0,1,-1,0.6
+GRANADA,Ibiza,2,0,1,0.6
+Deportivo Alavés,RACING,3,0,1,0.6
+CD Leganés,LEVANTE,2,2,0,0.6
+CARTAGENA,TENERIFE,0,1,-1,0.6
+SPORTING,ZARAGOZA,1,0,1,0.6
+HUESCA,OVIEDO,1,1,0,0.6
+Lugo,Villarreal B,1,2,-1,0.6
+Andorra,ALBACETE,0,1,-1,0.6
+RACING,TENERIFE,1,1,0,0.6
+GRANADA,Andorra,2,0,1,0.6
+EIBAR,CD Leganés,0,0,0,0.6
+OVIEDO,Villarreal B,0,1,-1,0.6
+UD Las Palmas,HUESCA,1,0,1,0.6
+MIRANDES,Deportivo Alavés,1,3,-1,0.6
+LEVANTE,BURGOS,1,0,1,0.6
+ALBACETE,Lugo,2,0,1,0.6
+SPORTING,MALAGA,0,0,0,0.6
+Ibiza,CARTAGENA,2,2,0,0.6
+ZARAGOZA,Ponferradina,0,0,0,0.6
+MALAGA,OVIEDO,0,1,-1,0.6
+HUESCA,MIRANDES,1,0,1,0.6
+CD Leganés,SPORTING,1,0,1,0.6
+TENERIFE,ALBACETE,1,0,1,0.6
+Deportivo Alavés,EIBAR,2,0,1,0.6
+Villarreal B,GRANADA,0,2,-1,0.6
+Andorra,ZARAGOZA,0,1,-1,0.6
+CARTAGENA,LEVANTE,1,2,-1,0.6
+Ponferradina,RACING,1,1,0,0.6
+Lugo,Ibiza,0,0,0,0.6
+BURGOS,UD Las Palmas,0,0,0,0.6
+GRANADA,TENERIFE,2,0,1,0.6
+ZARAGOZA,Deportivo Alavés,1,4,-1,0.6
+LEVANTE,Andorra,1,0,1,0.6
+MIRANDES,Villarreal B,2,1,1,0.6
+UD Las Palmas,Lugo,3,0,1,0.6
+ALBACETE,MALAGA,3,2,1,0.6
+OVIEDO,BURGOS,0,1,-1,0.6
+EIBAR,CARTAGENA,0,3,-1,0.6
+SPORTING,HUESCA,1,1,0,0.6
+Ibiza,Ponferradina,1,1,0,0.6
+RACING,CD Leganés,2,1,1,0.6
+CARTAGENA,OVIEDO,2,1,1,0.6
+Lugo,EIBAR,0,2,-1,0.6
+CD Leganés,UD Las Palmas,0,0,0,0.6
+Ponferradina,LEVANTE,0,0,0,0.6
+TENERIFE,MIRANDES,1,0,1,0.6
+HUESCA,GRANADA,1,1,0,0.6
+Deportivo Alavés,Ibiza,4,2,1,0.6
+Andorra,SPORTING,1,0,1,0.6
+BURGOS,ALBACETE,1,1,0,0.6
+Villarreal B,RACING,2,1,1,0.6
+MALAGA,ZARAGOZA,3,0,1,0.6
+EIBAR,Villarreal B,2,0,1,0.6
+Deportivo Alavés,CARTAGENA,0,0,0,0.6
+RACING,Andorra,2,1,1,0.6
+MIRANDES,CD Leganés,0,0,0,0.6
+SPORTING,TENERIFE,1,0,1,0.6
+Ibiza,HUESCA,2,2,0,0.6
+LEVANTE,Lugo,3,1,1,0.6
+ZARAGOZA,BURGOS,0,0,0,0.6
+UD Las Palmas,Ponferradina,2,0,1,0.6
+OVIEDO,ALBACETE,1,1,0,0.6
+GRANADA,MALAGA,1,0,1,0.6
+Andorra,UD Las Palmas,0,0,0,0.6
+BURGOS,GRANADA,1,3,-1,0.6
+HUESCA,LEVANTE,3,0,1,0.6
+TENERIFE,EIBAR,0,1,-1,0.6
+MIRANDES,OVIEDO,1,0,1,0.6
+CD Leganés,Ibiza,0,1,-1,0.6
+ALBACETE,SPORTING,2,1,1,0.6
+Lugo,ZARAGOZA,0,0,0,0.6
+MALAGA,RACING,0,1,-1,0.6
+Ponferradina,CARTAGENA,0,3,-1,0.6
+Villarreal B,Deportivo Alavés,1,0,1,0.6
+OVIEDO,TENERIFE,0,0,0,0.6
+EIBAR,BURGOS,1,0,1,0.6
+Deportivo Alavés,Lugo,0,0,0,0.6
+Ibiza,Villarreal B,0,0,0,0.6
+UD Las Palmas,MALAGA,2,2,0,0.6
+ZARAGOZA,CD Leganés,3,0,1,0.6
+SPORTING,MIRANDES,3,4,-1,0.6
+CARTAGENA,Andorra,0,3,-1,0.6
+LEVANTE,ALBACETE,0,0,0,0.6
+GRANADA,Ponferradina,2,2,0,0.6
+RACING,HUESCA,1,1,0,0.6
+MALAGA,LEVANTE,0,0,0,0.6
+Andorra,Ibiza,2,2,0,0.6
+ALBACETE,GRANADA,1,2,-1,0.6
+CD Leganés,OVIEDO,0,1,-1,0.6
+TENERIFE,UD Las Palmas,4,1,1,0.6
+Ponferradina,Deportivo Alavés,1,0,1,0.6
+BURGOS,SPORTING,0,0,0,0.6
+HUESCA,ZARAGOZA,1,1,0,0.6
+Lugo,RACING,1,1,0,0.6
+Villarreal B,CARTAGENA,5,2,1,0.6
+MIRANDES,EIBAR,2,3,-1,0.6
+CARTAGENA,Lugo,2,0,1,0.6
+Ibiza,BURGOS,2,0,1,0.6
+RACING,LEVANTE,0,1,-1,0.6
+Deportivo Alavés,TENERIFE,1,0,1,0.6
+EIBAR,Andorra,0,0,0,0.6
+Ponferradina,MIRANDES,0,0,0,0.6
+ZARAGOZA,ALBACETE,1,1,0,0.6
+GRANADA,OVIEDO,1,0,1,0.6
+Villarreal B,HUESCA,0,0,0,0.6
+UD Las Palmas,SPORTING,1,1,0,0.6
+MALAGA,CD Leganés,2,0,1,0.6
+LEVANTE,ZARAGOZA,1,1,0,0.6
+BURGOS,RACING,2,1,1,0.6
+CD Leganés,CARTAGENA,1,3,-1,0.6
+TENERIFE,Villarreal B,1,1,0,0.6
+OVIEDO,EIBAR,1,1,0,0.6
+HUESCA,Deportivo Alavés,0,1,-1,0.6
+Lugo,Ponferradina,0,0,0,0.6
+Andorra,MALAGA,1,0,1,0.6
+SPORTING,GRANADA,1,0,1,0.6
+MIRANDES,Ibiza,2,2,0,0.6
+ALBACETE,UD Las Palmas,1,2,-1,0.6
+Lugo,TENERIFE,0,0,0,0.6
+Villarreal B,MALAGA,1,2,-1,0.6
+ZARAGOZA,GRANADA,1,0,1,0.6
+Ibiza,SPORTING,1,3,-1,0.6
+RACING,ALBACETE,4,1,1,0.6
+HUESCA,BURGOS,2,1,1,0.6
+EIBAR,LEVANTE,1,1,0,0.6
+CARTAGENA,MIRANDES,1,0,1,0.6
+Ponferradina,CD Leganés,0,1,-1,0.6
+UD Las Palmas,OVIEDO,0,1,-1,0.6
+Deportivo Alavés,Andorra,0,0,0,0.6
+ALBACETE,EIBAR,3,1,1,0.6
+GRANADA,UD Las Palmas,2,1,1,0.6
+OVIEDO,Lugo,2,1,1,0.6
+ZARAGOZA,RACING,4,1,1,0.6
+BURGOS,Ponferradina,2,2,0,0.6
+Andorra,HUESCA,1,0,1,0.6
+SPORTING,Deportivo Alavés,0,0,0,0.6
+MALAGA,CARTAGENA,1,0,1,0.6
+TENERIFE,Ibiza,4,0,1,0.6
+CD Leganés,Villarreal B,1,0,1,0.6
+LEVANTE,MIRANDES,1,2,-1,0.6
+EIBAR,ZARAGOZA,1,1,0,0.6
+Villarreal B,ALBACETE,1,2,-1,0.6
+CARTAGENA,SPORTING,2,1,1,0.6
+Ponferradina,Andorra,1,4,-1,0.6
+UD Las Palmas,LEVANTE,0,0,0,0.6
+Ibiza,OVIEDO,1,2,-1,0.6
+Lugo,MALAGA,0,2,-1,0.6
+MIRANDES,BURGOS,2,1,1,0.6
+RACING,GRANADA,1,0,1,0.6
+Deportivo Alavés,CD Leganés,2,1,1,0.6
+HUESCA,TENERIFE,1,1,0,0.6
+RACING,Ibiza,1,0,1,0.6
+LEVANTE,Deportivo Alavés,2,0,1,0.6
+ALBACETE,CARTAGENA,1,1,0,0.6
+TENERIFE,CD Leganés,1,0,1,0.6
+Andorra,MIRANDES,0,1,-1,0.6
+OVIEDO,Ponferradina,3,2,1,0.6
+GRANADA,EIBAR,1,1,0,0.6
+ZARAGOZA,UD Las Palmas,1,1,0,0.6
+SPORTING,Lugo,3,1,1,0.6
+MALAGA,HUESCA,0,0,0,0.6
+BURGOS,Villarreal B,1,0,1,0.6
+Deportivo Alavés,GRANADA,1,1,0,0.6
+MIRANDES,RACING,1,1,0,0.6
+CD Leganés,HUESCA,2,1,1,0.6
+TENERIFE,LEVANTE,1,0,1,0.6
+Villarreal B,SPORTING,2,0,1,0.6
+Ibiza,ALBACETE,0,5,-1,0.6
+Ponferradina,MALAGA,2,0,1,0.6
+Lugo,Andorra,2,2,0,0.6
+OVIEDO,ZARAGOZA,2,1,1,0.6
+CARTAGENA,BURGOS,0,0,0,0.6
+EIBAR,UD Las Palmas,0,1,-1,0.6
+BURGOS,CD Leganés,0,3,-1,0.6
+SPORTING,OVIEDO,1,1,0,0.6
+GRANADA,Lugo,2,0,1,0.6
+ZARAGOZA,CARTAGENA,2,0,1,0.6
+MALAGA,MIRANDES,2,0,1,0.6
+RACING,EIBAR,1,0,1,0.6
+Andorra,TENERIFE,1,0,1,0.6
+ALBACETE,Deportivo Alavés,1,1,0,0.6
+HUESCA,Ponferradina,1,1,0,0.6
+UD Las Palmas,Villarreal B,1,1,0,0.6
+LEVANTE,Ibiza,0,0,0,0.6
+Ibiza,ZARAGOZA,1,0,1,0.6
+Deportivo Alavés,MALAGA,2,1,1,0.6
+CARTAGENA,UD Las Palmas,1,4,-1,0.6
+EIBAR,SPORTING,2,2,0,0.6
+Lugo,HUESCA,1,2,-1,0.6
+MIRANDES,GRANADA,1,3,-1,0.6
+Ponferradina,ALBACETE,1,1,0,0.6
+Villarreal B,LEVANTE,2,3,-1,0.6
+TENERIFE,BURGOS,2,1,1,0.6
+OVIEDO,RACING,1,0,1,0.6
+CD Leganés,Andorra,1,1,0,0.6
+ZARAGOZA,TENERIFE,1,1,0,0.6
+Andorra,Villarreal B,4,3,1,0.6
+BURGOS,Lugo,0,1,-1,0.6
+ALBACETE,MIRANDES,2,1,1,0.6
+MALAGA,Ibiza,1,1,0,0.6
+GRANADA,CD Leganés,2,0,1,0.6
+HUESCA,EIBAR,0,1,-1,0.6
+UD Las Palmas,Deportivo Alavés,0,0,0,0.6
+LEVANTE,OVIEDO,2,1,1,0.6
+RACING,CARTAGENA,3,1,1,0.6
+SPORTING,Ponferradina,1,4,-1,0.6
+Amorebieta,LEVANTE,1,1,0,0.8
+Real Valladolid CF,SPORTING,2,0,1,0.8
+RACING,EIBAR,4,0,1,0.8
+ZARAGOZA,Villarreal B,2,0,1,0.8
+ELCHE,FERROL,0,1,-1,0.8
+BURGOS,HUESCA,1,1,0,0.8
+ALBACETE,RCD Espanyol de Barcelona,1,1,0,0.8
+CARTAGENA,ELDENSE,0,1,-1,0.8
+CD Leganés,Andorra,0,1,-1,0.8
+MIRANDES,Alcorcon,4,0,1,0.8
+TENERIFE,OVIEDO,1,0,1,0.8
+Andorra,CARTAGENA,3,2,1,0.8
+ZARAGOZA,Real Valladolid CF,1,0,1,0.8
+EIBAR,ELCHE,2,1,1,0.8
+RCD Espanyol de Barcelona,RACING,2,0,1,0.8
+LEVANTE,BURGOS,3,2,1,0.8
+Alcorcon,CD Leganés,0,2,-1,0.8
+OVIEDO,FERROL,1,1,0,0.8
+SPORTING,MIRANDES,3,0,1,0.8
+ALBACETE,Amorebieta,2,2,0,0.8
+Villarreal B,ELDENSE,3,1,1,0.8
+HUESCA,TENERIFE,0,2,-1,0.8
+CARTAGENA,LEVANTE,0,1,-1,0.8
+BURGOS,OVIEDO,1,0,1,0.8
+TENERIFE,ZARAGOZA,0,1,-1,0.8
+ELCHE,Villarreal B,1,0,1,0.8
+Real Valladolid CF,Alcorcon,0,2,-1,0.8
+FERROL,SPORTING,2,0,1,0.8
+Amorebieta,Andorra,3,0,1,0.8
+MIRANDES,RCD Espanyol de Barcelona,0,1,-1,0.8
+CD Leganés,ALBACETE,2,0,1,0.8
+ELDENSE,EIBAR,2,1,1,0.8
+RACING,HUESCA,0,0,0,0.8
+Alcorcon,FERROL,1,1,0,0.8
+ALBACETE,Real Valladolid CF,2,0,1,0.8
+SPORTING,BURGOS,2,1,1,0.8
+LEVANTE,OVIEDO,1,1,0,0.8
+ELCHE,RACING,1,1,0,0.8
+Villarreal B,CARTAGENA,1,2,-1,0.8
+Andorra,TENERIFE,0,1,-1,0.8
+EIBAR,CD Leganés,0,1,-1,0.8
+RCD Espanyol de Barcelona,Amorebieta,3,2,1,0.8
+ZARAGOZA,ELDENSE,2,0,1,0.8
+HUESCA,MIRANDES,1,1,0,0.8
+LEVANTE,RCD Espanyol de Barcelona,1,4,-1,0.8
+BURGOS,EIBAR,1,0,1,0.8
+OVIEDO,SPORTING,0,0,0,0.8
+CD Leganés,HUESCA,2,0,1,0.8
+TENERIFE,ALBACETE,2,0,1,0.8
+FERROL,Villarreal B,2,2,0,0.8
+RACING,Amorebieta,1,0,1,0.8
+CARTAGENA,ZARAGOZA,1,3,-1,0.8
+MIRANDES,Andorra,4,3,1,0.8
+Real Valladolid CF,ELCHE,1,1,0,0.8
+ELDENSE,Alcorcon,2,2,0,0.8
+ZARAGOZA,RACING,1,1,0,0.8
+HUESCA,Villarreal B,2,2,0,0.8
+Alcorcon,LEVANTE,0,2,-1,0.8
+Real Valladolid CF,CARTAGENA,1,0,1,0.8
+ALBACETE,BURGOS,2,1,1,0.8
+Amorebieta,MIRANDES,2,0,1,0.8
+EIBAR,FERROL,2,0,1,0.8
+ELCHE,CD Leganés,1,0,1,0.8
+RCD Espanyol de Barcelona,ELDENSE,3,3,0,0.8
+SPORTING,TENERIFE,2,1,1,0.8
+Andorra,OVIEDO,1,0,1,0.8
+CARTAGENA,EIBAR,1,2,-1,0.8
+Andorra,SPORTING,0,0,0,0.8
+LEVANTE,ELDENSE,2,0,1,0.8
+BURGOS,ELCHE,4,0,1,0.8
+Alcorcon,HUESCA,0,2,-1,0.8
+RACING,ALBACETE,2,1,1,0.8
+Villarreal B,Amorebieta,3,1,1,0.8
+OVIEDO,Real Valladolid CF,0,1,-1,0.8
+MIRANDES,CD Leganés,1,3,-1,0.8
+FERROL,ZARAGOZA,1,0,1,0.8
+TENERIFE,RCD Espanyol de Barcelona,1,0,1,0.8
+CD Leganés,RACING,2,1,1,0.8
+EIBAR,TENERIFE,3,0,1,0.8
+ELCHE,LEVANTE,0,0,0,0.8
+ALBACETE,Andorra,3,1,1,0.8
+Villarreal B,Alcorcon,2,2,0,0.8
+ELDENSE,OVIEDO,1,3,-1,0.8
+Amorebieta,CARTAGENA,0,0,0,0.8
+Real Valladolid CF,BURGOS,3,0,1,0.8
+ZARAGOZA,MIRANDES,0,1,-1,0.8
+HUESCA,SPORTING,0,1,-1,0.8
+RCD Espanyol de Barcelona,FERROL,3,0,1,0.8
+Alcorcon,ALBACETE,1,2,-1,0.8
+LEVANTE,Villarreal B,1,1,0,0.8
+TENERIFE,RACING,2,0,1,0.8
+ELDENSE,Real Valladolid CF,0,1,-1,0.8
+OVIEDO,HUESCA,1,0,1,0.8
+BURGOS,CD Leganés,1,0,1,0.8
+SPORTING,ELCHE,2,0,1,0.8
+Andorra,ZARAGOZA,0,1,-1,0.8
+MIRANDES,EIBAR,1,3,-1,0.8
+CARTAGENA,RCD Espanyol de Barcelona,0,2,-1,0.8
+FERROL,Amorebieta,1,0,1,0.8
+ALBACETE,LEVANTE,0,2,-1,0.8
+HUESCA,ELDENSE,0,1,-1,0.8
+RACING,SPORTING,3,2,1,0.8
+CD Leganés,OVIEDO,0,0,0,0.8
+Amorebieta,EIBAR,1,2,-1,0.8
+Real Valladolid CF,MIRANDES,3,2,1,0.8
+FERROL,CARTAGENA,1,1,0,0.8
+TENERIFE,BURGOS,2,1,1,0.8
+ZARAGOZA,Alcorcon,0,2,-1,0.8
+ELCHE,Andorra,2,1,1,0.8
+Villarreal B,RCD Espanyol de Barcelona,3,1,1,0.8
+OVIEDO,ALBACETE,3,0,1,0.8
+MIRANDES,TENERIFE,1,1,0,0.8
+CARTAGENA,RACING,2,3,-1,0.8
+SPORTING,ZARAGOZA,2,2,0,0.8
+RCD Espanyol de Barcelona,Real Valladolid CF,2,0,1,0.8
+BURGOS,Villarreal B,3,2,1,0.8
+Andorra,Alcorcon,2,0,1,0.8
+ELDENSE,ELCHE,1,1,0,0.8
+EIBAR,HUESCA,1,1,0,0.8
+CD Leganés,Amorebieta,6,0,1,0.8
+LEVANTE,FERROL,1,0,1,0.8
+RCD Espanyol de Barcelona,CD Leganés,0,1,-1,0.8
+Amorebieta,OVIEDO,0,0,0,0.8
+Villarreal B,MIRANDES,0,3,-1,0.8
+TENERIFE,LEVANTE,0,0,0,0.8
+ZARAGOZA,EIBAR,2,3,-1,0.8
+FERROL,ELDENSE,1,1,0,0.8
+HUESCA,ELCHE,0,1,-1,0.8
+ALBACETE,SPORTING,1,3,-1,0.8
+RACING,BURGOS,3,0,1,0.8
+Real Valladolid CF,Andorra,2,0,1,0.8
+Alcorcon,CARTAGENA,1,1,0,0.8
+EIBAR,Real Valladolid CF,5,1,1,0.8
+ELDENSE,Amorebieta,2,0,1,0.8
+Andorra,LEVANTE,2,0,1,0.8
+SPORTING,RCD Espanyol de Barcelona,2,0,1,0.8
+ELCHE,TENERIFE,2,1,1,0.8
+MIRANDES,CARTAGENA,2,1,1,0.8
+HUESCA,ALBACETE,0,0,0,0.8
+CD Leganés,Villarreal B,1,0,1,0.8
+OVIEDO,Alcorcon,2,0,1,0.8
+RACING,FERROL,1,3,-1,0.8
+BURGOS,ZARAGOZA,1,1,0,0.8
+RCD Espanyol de Barcelona,EIBAR,2,2,0,0.8
+Villarreal B,SPORTING,0,3,-1,0.8
+LEVANTE,MIRANDES,2,2,0,0.8
+Real Valladolid CF,TENERIFE,2,0,1,0.8
+ALBACETE,ELCHE,1,1,0,0.8
+FERROL,Andorra,1,0,1,0.8
+Amorebieta,HUESCA,0,1,-1,0.8
+Alcorcon,RACING,3,1,1,0.8
+CARTAGENA,CD Leganés,0,3,-1,0.8
+ELDENSE,BURGOS,2,0,1,0.8
+ZARAGOZA,OVIEDO,0,0,0,0.8
+CD Leganés,LEVANTE,2,1,1,0.8
+RACING,Real Valladolid CF,2,3,-1,0.8
+ELCHE,ZARAGOZA,2,0,1,0.8
+MIRANDES,FERROL,1,2,-1,0.8
+SPORTING,Amorebieta,1,1,0,0.8
+BURGOS,Alcorcon,4,2,1,0.8
+Andorra,ELDENSE,1,3,-1,0.8
+HUESCA,RCD Espanyol de Barcelona,1,1,0,0.8
+TENERIFE,Villarreal B,0,1,-1,0.8
+EIBAR,ALBACETE,1,1,0,0.8
+OVIEDO,CARTAGENA,1,1,0,0.8
+Real Valladolid CF,CD Leganés,1,1,0,0.8
+Alcorcon,SPORTING,0,0,0,0.8
+Amorebieta,TENERIFE,2,0,1,0.8
+ZARAGOZA,HUESCA,0,2,-1,0.8
+RCD Espanyol de Barcelona,ELCHE,2,0,1,0.8
+FERROL,BURGOS,1,1,0,0.8
+ELDENSE,MIRANDES,2,2,0,0.8
+OVIEDO,EIBAR,2,1,1,0.8
+CARTAGENA,ALBACETE,1,1,0,0.8
+Villarreal B,Andorra,0,0,0,0.8
+LEVANTE,RACING,2,4,-1,0.8
+HUESCA,Real Valladolid CF,0,1,-1,0.8
+BURGOS,Andorra,0,0,0,0.8
+RACING,Villarreal B,2,0,1,0.8
+ALBACETE,ZARAGOZA,1,0,1,0.8
+EIBAR,LEVANTE,3,1,1,0.8
+CD Leganés,FERROL,2,2,0,0.8
+ELCHE,Amorebieta,2,0,1,0.8
+MIRANDES,OVIEDO,2,1,1,0.8
+TENERIFE,CARTAGENA,1,1,0,0.8
+RCD Espanyol de Barcelona,Alcorcon,2,0,1,0.8
+SPORTING,ELDENSE,2,0,1,0.8
+OVIEDO,RCD Espanyol de Barcelona,2,0,1,0.8
+CARTAGENA,SPORTING,1,0,1,0.8
+ELDENSE,TENERIFE,0,3,-1,0.8
+ZARAGOZA,CD Leganés,1,0,1,0.8
+LEVANTE,Real Valladolid CF,2,1,1,0.8
+Andorra,HUESCA,1,0,1,0.8
+Alcorcon,ELCHE,0,2,-1,0.8
+FERROL,ALBACETE,5,4,1,0.8
+MIRANDES,RACING,0,0,0,0.8
+Amorebieta,BURGOS,0,1,-1,0.8
+Villarreal B,EIBAR,1,0,1,0.8
+ALBACETE,Villarreal B,2,0,1,0.8
+RCD Espanyol de Barcelona,ZARAGOZA,1,1,0,0.8
+Real Valladolid CF,Amorebieta,2,1,1,0.8
+SPORTING,LEVANTE,0,0,0,0.8
+BURGOS,MIRANDES,0,0,0,0.8
+ELCHE,CARTAGENA,1,2,-1,0.8
+RACING,OVIEDO,2,2,0,0.8
+EIBAR,Andorra,2,2,0,0.8
+CD Leganés,ELDENSE,1,1,0,0.8
+HUESCA,FERROL,1,0,1,0.8
+TENERIFE,Alcorcon,1,0,1,0.8
+OVIEDO,ELCHE,3,2,1,0.8
+ELDENSE,RACING,3,3,0,0.8
+Andorra,RCD Espanyol de Barcelona,1,1,0,0.8
+CARTAGENA,BURGOS,0,3,-1,0.8
+SPORTING,CD Leganés,1,1,0,0.8
+MIRANDES,ALBACETE,2,0,1,0.8
+Alcorcon,EIBAR,1,0,1,0.8
+LEVANTE,HUESCA,2,1,1,0.8
+Amorebieta,ZARAGOZA,1,1,0,0.8
+FERROL,TENERIFE,3,1,1,0.8
+Villarreal B,Real Valladolid CF,1,0,1,0.8
+ALBACETE,ELDENSE,1,1,0,0.8
+RACING,Andorra,2,0,1,0.8
+ELCHE,MIRANDES,0,0,0,0.8
+RCD Espanyol de Barcelona,BURGOS,3,3,0,0.8
+ZARAGOZA,LEVANTE,2,2,0,0.8
+EIBAR,SPORTING,1,1,0,0.8
+CD Leganés,TENERIFE,1,1,0,0.8
+HUESCA,CARTAGENA,3,0,1,0.8
+Villarreal B,OVIEDO,1,1,0,0.8
+Amorebieta,Alcorcon,1,2,-1,0.8
+Real Valladolid CF,FERROL,0,1,-1,0.8
+EIBAR,RACING,2,0,1,0.8
+Alcorcon,MIRANDES,0,0,0,0.8
+LEVANTE,ALBACETE,3,2,1,0.8
+OVIEDO,Amorebieta,1,1,0,0.8
+TENERIFE,ELCHE,0,1,-1,0.8
+BURGOS,Real Valladolid CF,1,0,1,0.8
+FERROL,RCD Espanyol de Barcelona,0,0,0,0.8
+Andorra,CD Leganés,2,3,-1,0.8
+CARTAGENA,Villarreal B,4,1,1,0.8
+SPORTING,HUESCA,0,0,0,0.8
+ELDENSE,ZARAGOZA,1,1,0,0.8
+ALBACETE,Alcorcon,0,1,-1,0.8
+Amorebieta,ELDENSE,0,2,-1,0.8
+ZARAGOZA,Andorra,2,0,1,0.8
+RCD Espanyol de Barcelona,Villarreal B,2,1,1,0.8
+TENERIFE,SPORTING,1,2,-1,0.8
+FERROL,OVIEDO,1,3,-1,0.8
+RACING,CARTAGENA,0,2,-1,0.8
+MIRANDES,LEVANTE,1,1,0,0.8
+HUESCA,EIBAR,2,3,-1,0.8
+ELCHE,Real Valladolid CF,0,0,0,0.8
+CD Leganés,BURGOS,2,0,1,0.8
+EIBAR,MIRANDES,1,0,1,0.8
+Alcorcon,ZARAGOZA,0,0,0,0.8
+CARTAGENA,Amorebieta,1,0,1,0.8
+OVIEDO,CD Leganés,1,0,1,0.8
+LEVANTE,TENERIFE,0,0,0,0.8
+ELDENSE,RCD Espanyol de Barcelona,3,2,1,0.8
+Andorra,ELCHE,0,1,-1,0.8
+Villarreal B,HUESCA,1,1,0,0.8
+BURGOS,ALBACETE,2,1,1,0.8
+SPORTING,FERROL,1,2,-1,0.8
+Real Valladolid CF,RACING,3,1,1,0.8
+ELCHE,BURGOS,2,0,1,0.8
+ALBACETE,CARTAGENA,1,1,0,0.8
+HUESCA,Alcorcon,1,0,1,0.8
+MIRANDES,Villarreal B,3,0,1,0.8
+CD Leganés,Real Valladolid CF,0,0,0,0.8
+TENERIFE,Andorra,0,0,0,0.8
+FERROL,EIBAR,1,1,0,0.8
+Amorebieta,RACING,0,1,-1,0.8
+OVIEDO,ELDENSE,1,1,0,0.8
+RCD Espanyol de Barcelona,LEVANTE,2,1,1,0.8
+ZARAGOZA,SPORTING,3,0,1,0.8
+LEVANTE,CD Leganés,0,0,0,0.8
+Amorebieta,ELCHE,1,0,1,0.8
+ELDENSE,HUESCA,0,0,0,0.8
+SPORTING,OVIEDO,1,0,1,0.8
+RACING,RCD Espanyol de Barcelona,2,0,1,0.8
+Villarreal B,TENERIFE,1,0,1,0.8
+Alcorcon,Andorra,1,0,1,0.8
+CARTAGENA,MIRANDES,1,0,1,0.8
+EIBAR,ZARAGOZA,1,0,1,0.8
+BURGOS,FERROL,2,0,1,0.8
+Real Valladolid CF,ALBACETE,0,0,0,0.8
+ZARAGOZA,CARTAGENA,1,2,-1,0.8
+Andorra,Villarreal B,1,1,0,0.8
+OVIEDO,BURGOS,5,0,1,0.8
+SPORTING,Real Valladolid CF,1,1,0,0.8
+RCD Espanyol de Barcelona,MIRANDES,3,0,1,0.8
+ALBACETE,RACING,2,0,1,0.8
+FERROL,LEVANTE,0,0,0,0.8
+CD Leganés,Alcorcon,3,0,1,0.8
+HUESCA,Amorebieta,0,0,0,0.8
+ELCHE,EIBAR,0,0,0,0.8
+TENERIFE,ELDENSE,1,0,1,0.8
+Real Valladolid CF,OVIEDO,3,0,1,0.8
+RACING,CD Leganés,2,1,1,0.8
+EIBAR,RCD Espanyol de Barcelona,2,3,-1,0.8
+Villarreal B,ZARAGOZA,0,0,0,0.8
+ELDENSE,FERROL,2,0,1,0.8
+Alcorcon,TENERIFE,1,1,0,0.8
+BURGOS,SPORTING,1,0,1,0.8
+CARTAGENA,ELCHE,0,1,-1,0.8
+Amorebieta,ALBACETE,1,1,0,0.8
+MIRANDES,HUESCA,0,3,-1,0.8
+SPORTING,ALBACETE,2,1,1,0.8
+ELDENSE,Villarreal B,2,0,1,0.8
+RCD Espanyol de Barcelona,HUESCA,0,0,0,0.8
+FERROL,RACING,2,2,0,0.8
+OVIEDO,LEVANTE,3,2,1,0.8
+BURGOS,CARTAGENA,3,0,1,0.8
+Andorra,Real Valladolid CF,2,1,1,0.8
+TENERIFE,MIRANDES,2,1,1,0.8
+ZARAGOZA,Amorebieta,0,1,-1,0.8
+CD Leganés,EIBAR,0,2,-1,0.8
+ELCHE,Alcorcon,3,0,1,0.8
+HUESCA,Andorra,2,0,1,0.8
+ALBACETE,OVIEDO,1,2,-1,0.8
+MIRANDES,ELDENSE,3,1,1,0.8
+Real Valladolid CF,ZARAGOZA,2,0,1,0.8
+CARTAGENA,FERROL,2,1,1,0.8
+RACING,TENERIFE,4,2,1,0.8
+LEVANTE,SPORTING,1,0,1,0.8
+Villarreal B,ELCHE,0,1,-1,0.8
+EIBAR,BURGOS,0,1,-1,0.8
+Alcorcon,RCD Espanyol de Barcelona,1,1,0,0.8
+Amorebieta,CD Leganés,0,1,-1,0.8
+LEVANTE,Andorra,0,0,0,0.8
+ELDENSE,CARTAGENA,0,0,0,0.8
+BURGOS,LEVANTE,1,1,0,0.8
+EIBAR,Villarreal B,2,0,1,0.8
+OVIEDO,RACING,1,1,0,0.8
+TENERIFE,HUESCA,0,0,0,0.8
+SPORTING,Alcorcon,1,0,1,0.8
+CD Leganés,MIRANDES,4,0,1,0.8
+FERROL,Real Valladolid CF,2,0,1,0.8
+ELCHE,ALBACETE,3,2,1,0.8
+ZARAGOZA,RCD Espanyol de Barcelona,0,1,-1,0.8
+Andorra,Amorebieta,0,1,-1,0.8
+Alcorcon,OVIEDO,1,0,1,0.8
+CARTAGENA,Andorra,1,0,1,0.8
+Villarreal B,CD Leganés,1,2,-1,0.8
+RCD Espanyol de Barcelona,TENERIFE,1,1,0,0.8
+Amorebieta,SPORTING,3,1,1,0.8
+HUESCA,BURGOS,3,0,1,0.8
+Real Valladolid CF,EIBAR,3,1,1,0.8
+LEVANTE,ELCHE,3,2,1,0.8
+MIRANDES,ZARAGOZA,0,0,0,0.8
+RACING,ELDENSE,2,1,1,0.8
+ALBACETE,FERROL,1,1,0,0.8
+BURGOS,RCD Espanyol de Barcelona,0,0,0,0.8
+Real Valladolid CF,LEVANTE,0,0,0,0.8
+Andorra,MIRANDES,1,0,1,0.8
+EIBAR,ELDENSE,5,1,1,0.8
+CD Leganés,CARTAGENA,0,0,0,0.8
+ALBACETE,HUESCA,1,1,0,0.8
+SPORTING,RACING,2,3,-1,0.8
+Alcorcon,Amorebieta,1,1,0,0.8
+FERROL,ELCHE,1,0,1,0.8
+ZARAGOZA,TENERIFE,3,1,1,0.8
+OVIEDO,Villarreal B,2,1,1,0.8
+Amorebieta,FERROL,3,1,1,0.8
+ELCHE,OVIEDO,0,2,-1,0.8
+ELDENSE,Andorra,0,2,-1,0.8
+LEVANTE,ZARAGOZA,2,1,1,0.8
+HUESCA,CD Leganés,0,0,0,0.8
+MIRANDES,SPORTING,1,3,-1,0.8
+Villarreal B,BURGOS,2,1,1,0.8
+RCD Espanyol de Barcelona,ALBACETE,2,1,1,0.8
+TENERIFE,EIBAR,2,1,1,0.8
+CARTAGENA,Real Valladolid CF,0,2,-1,0.8
+RACING,Alcorcon,0,1,-1,0.8
+CD Leganés,RCD Espanyol de Barcelona,0,0,0,0.8
+SPORTING,CARTAGENA,1,0,1,0.8
+Real Valladolid CF,ELDENSE,1,0,1,0.8
+LEVANTE,Amorebieta,1,2,-1,0.8
+OVIEDO,MIRANDES,1,1,0,0.8
+ALBACETE,TENERIFE,1,0,1,0.8
+Andorra,EIBAR,0,2,-1,0.8
+BURGOS,RACING,2,1,1,0.8
+ZARAGOZA,ELCHE,1,1,0,0.8
+FERROL,HUESCA,2,1,1,0.8
+Alcorcon,Villarreal B,1,0,1,0.8
+TENERIFE,CD Leganés,0,0,0,0.8
+Amorebieta,Real Valladolid CF,0,3,-1,0.8
+RACING,LEVANTE,0,0,0,0.8
+Villarreal B,FERROL,1,0,1,0.8
+ELCHE,SPORTING,2,1,1,0.8
+HUESCA,ZARAGOZA,1,2,-1,0.8
+RCD Espanyol de Barcelona,Andorra,1,1,0,0.8
+EIBAR,Alcorcon,2,0,1,0.8
+ELDENSE,ALBACETE,0,1,-1,0.8
+MIRANDES,BURGOS,2,1,1,0.8
+CARTAGENA,OVIEDO,2,0,1,0.8
+Andorra,RACING,1,1,0,0.8
+BURGOS,Amorebieta,2,2,0,0.8
+CD Leganés,ZARAGOZA,1,1,0,0.8
+ELCHE,RCD Espanyol de Barcelona,2,2,0,0.8
+SPORTING,Villarreal B,0,3,-1,0.8
+Alcorcon,ELDENSE,0,0,0,0.8
+OVIEDO,TENERIFE,0,1,-1,0.8
+LEVANTE,CARTAGENA,0,1,-1,0.8
+Real Valladolid CF,HUESCA,1,0,1,0.8
+ALBACETE,EIBAR,2,1,1,0.8
+FERROL,MIRANDES,0,2,-1,0.8
+Villarreal B,LEVANTE,0,3,-1,0.8
+MIRANDES,Real Valladolid CF,0,1,-1,0.8
+HUESCA,OVIEDO,0,2,-1,0.8
+RACING,ELCHE,3,1,1,0.8
+CARTAGENA,Alcorcon,1,0,1,0.8
+EIBAR,Amorebieta,5,0,1,0.8
+Andorra,ALBACETE,0,1,-1,0.8
+RCD Espanyol de Barcelona,SPORTING,0,0,0,0.8
+ELDENSE,CD Leganés,1,2,-1,0.8
+ZARAGOZA,BURGOS,1,3,-1,0.8
+TENERIFE,FERROL,2,0,1,0.8
+BURGOS,ELDENSE,1,2,-1,0.8
+RACING,MIRANDES,1,0,1,0.8
+FERROL,Alcorcon,2,1,1,0.8
+SPORTING,Andorra,5,2,1,0.8
+Real Valladolid CF,RCD Espanyol de Barcelona,0,0,0,0.8
+LEVANTE,EIBAR,2,2,0,0.8
+Amorebieta,Villarreal B,2,0,1,0.8
+OVIEDO,ZARAGOZA,1,0,1,0.8
+ALBACETE,CD Leganés,1,0,1,0.8
+CARTAGENA,TENERIFE,2,0,1,0.8
+ELCHE,HUESCA,0,3,-1,0.8
+MIRANDES,ELCHE,1,1,0,0.8
+Andorra,BURGOS,1,0,1,0.8
+HUESCA,RACING,0,3,-1,0.8
+CD Leganés,SPORTING,2,1,1,0.8
+ELDENSE,LEVANTE,0,0,0,0.8
+TENERIFE,Amorebieta,0,1,-1,0.8
+EIBAR,CARTAGENA,1,0,1,0.8
+Alcorcon,Real Valladolid CF,1,1,0,0.8
+ZARAGOZA,FERROL,2,2,0,0.8
+RCD Espanyol de Barcelona,OVIEDO,2,1,1,0.8
+Villarreal B,ALBACETE,2,2,0,0.8
+ALBACETE,MIRANDES,2,2,0,0.8
+Amorebieta,RCD Espanyol de Barcelona,0,0,0,0.8
+BURGOS,TENERIFE,1,1,0,0.8
+CARTAGENA,HUESCA,0,2,-1,0.8
+ELCHE,ELDENSE,1,2,-1,0.8
+FERROL,CD Leganés,2,2,0,0.8
+LEVANTE,Alcorcon,2,2,0,0.8
+OVIEDO,Andorra,3,0,1,0.8
+RACING,ZARAGOZA,0,2,-1,0.8
+SPORTING,EIBAR,1,0,1,0.8
+Real Valladolid CF,Villarreal B,3,2,1,0.8
+Alcorcon,BURGOS,1,1,0,0.8
+Andorra,FERROL,1,0,1,0.8
+HUESCA,LEVANTE,0,0,0,0.8
+EIBAR,OVIEDO,4,3,1,0.8
+ELDENSE,SPORTING,0,1,-1,0.8
+RCD Espanyol de Barcelona,CARTAGENA,3,0,1,0.8
+CD Leganés,ELCHE,2,0,1,0.8
+MIRANDES,Amorebieta,1,0,1,0.8
+TENERIFE,Real Valladolid CF,2,1,1,0.8
+Villarreal B,RACING,1,0,1,0.8
+ZARAGOZA,ALBACETE,1,1,0,0.8
+GRANADA,ALBACETE,1,2,-1,1.0
+MIRANDES,CORDOBA,1,0,1,1.0
+CADIZ,ZARAGOZA,0,4,-1,1.0
+EIBAR,CASTELLON,1,0,1,1.0
+FERROL,MALAGA,2,2,0,1.0
+DEPORTIVO,OVIEDO,0,1,-1,1.0
+RACING,ALMERIA,2,2,0,1.0
+SPORTING,LEVANTE,1,2,-1,1.0
+BURGOS,CARTAGENA,3,1,1,1.0
+ELCHE,HUESCA,0,1,-1,1.0
+ELDENSE,TENERIFE,2,1,1,1.0
+RACING,EIBAR,2,2,0,1.0
+HUESCA,DEPORTIVO,2,1,1,1.0
+FERROL,GRANADA,0,1,-1,1.0
+SPORTING,ELDENSE,0,0,0,1.0
+LEVANTE,CADIZ,1,1,0,1.0
+MALAGA,MIRANDES,1,1,0,1.0
+TENERIFE,ALMERIA,0,1,-1,1.0
+ALBACETE,ELCHE,1,0,1,1.0
+CASTELLON,OVIEDO,0,0,0,1.0
+CARTAGENA,ZARAGOZA,1,2,-1,1.0
+CORDOBA,BURGOS,2,2,0,1.0
+GRANADA,HUESCA,1,3,-1,1.0
+OVIEDO,RACING,1,3,-1,1.0
+CADIZ,TENERIFE,2,2,0,1.0
+ALMERIA,SPORTING,1,1,0,1.0
+MALAGA,ALBACETE,2,1,1,1.0
+BURGOS,CASTELLON,0,2,-1,1.0
+DEPORTIVO,FERROL,1,0,1,1.0
+ELDENSE,CARTAGENA,1,2,-1,1.0
+MIRANDES,ZARAGOZA,0,0,0,1.0
+EIBAR,LEVANTE,2,2,0,1.0
+ELCHE,CORDOBA,3,1,1,1.0
+TENERIFE,RACING,0,1,-1,1.0
+GRANADA,DEPORTIVO,1,1,0,1.0
+HUESCA,BURGOS,0,1,-1,1.0
+SPORTING,OVIEDO,3,1,1,1.0
+CORDOBA,MALAGA,0,0,0,1.0
+FERROL,MIRANDES,0,0,0,1.0
+CARTAGENA,LEVANTE,0,1,-1,1.0
+ELDENSE,ALMERIA,1,0,1,1.0
+ZARAGOZA,ELCHE,3,0,1,1.0
+ALBACETE,EIBAR,0,1,-1,1.0
+CASTELLON,CADIZ,1,3,-1,1.0
+CORDOBA,DEPORTIVO,2,0,1,1.0
+EIBAR,TENERIFE,1,0,1,1.0
+LEVANTE,ELDENSE,3,1,1,1.0
+MALAGA,HUESCA,1,0,1,1.0
+RACING,SPORTING,1,0,1,1.0
+MIRANDES,ALBACETE,2,0,1,1.0
+OVIEDO,CARTAGENA,1,0,1,1.0
+BURGOS,ZARAGOZA,1,0,1,1.0
+CADIZ,FERROL,0,0,0,1.0
+ELCHE,GRANADA,2,2,0,1.0
+ALMERIA,CASTELLON,2,5,-1,1.0
+GRANADA,MALAGA,2,2,0,1.0
+FERROL,ALBACETE,1,4,-1,1.0
+ELDENSE,OVIEDO,1,1,0,1.0
+DEPORTIVO,BURGOS,0,2,-1,1.0
+ZARAGOZA,LEVANTE,2,1,1,1.0
+TENERIFE,SPORTING,1,1,0,1.0
+CARTAGENA,CADIZ,1,2,-1,1.0
+CASTELLON,RACING,0,1,-1,1.0
+ELCHE,MIRANDES,1,0,1,1.0
+ALMERIA,EIBAR,2,2,0,1.0
+HUESCA,CORDOBA,4,1,1,1.0
+ALBACETE,DEPORTIVO,2,5,-1,1.0
+CADIZ,ELDENSE,1,2,-1,1.0
+MIRANDES,HUESCA,1,0,1,1.0
+SPORTING,ZARAGOZA,1,0,1,1.0
+MALAGA,ELCHE,0,3,-1,1.0
+LEVANTE,ALMERIA,4,2,1,1.0
+BURGOS,GRANADA,2,2,0,1.0
+CASTELLON,TENERIFE,2,1,1,1.0
+CORDOBA,FERROL,3,1,1,1.0
+OVIEDO,EIBAR,1,0,1,1.0
+RACING,CARTAGENA,1,2,-1,1.0
+HUESCA,CADIZ,3,1,1,1.0
+FERROL,ELCHE,1,0,1,1.0
+EIBAR,SPORTING,1,3,-1,1.0
+MIRANDES,GRANADA,0,1,-1,1.0
+ALMERIA,BURGOS,2,0,1,1.0
+ZARAGOZA,RACING,2,3,-1,1.0
+TENERIFE,CARTAGENA,2,0,1,1.0
+DEPORTIVO,MALAGA,0,0,0,1.0
+ELDENSE,CASTELLON,2,3,-1,1.0
+LEVANTE,OVIEDO,0,0,0,1.0
+ALBACETE,CORDOBA,1,1,0,1.0
+TENERIFE,ZARAGOZA,2,3,-1,1.0
+CARTAGENA,FERROL,0,1,-1,1.0
+CADIZ,MALAGA,2,2,0,1.0
+EIBAR,ELDENSE,1,0,1,1.0
+HUESCA,ALBACETE,2,2,0,1.0
+OVIEDO,ALMERIA,3,2,1,1.0
+RACING,LEVANTE,1,0,1,1.0
+BURGOS,MIRANDES,0,1,-1,1.0
+GRANADA,CORDOBA,1,0,1,1.0
+ELCHE,DEPORTIVO,0,0,0,1.0
+SPORTING,CASTELLON,2,1,1,1.0
+CORDOBA,CARTAGENA,2,1,1,1.0
+DEPORTIVO,ELDENSE,1,1,0,1.0
+MALAGA,OVIEDO,0,0,0,1.0
+CASTELLON,LEVANTE,2,0,1,1.0
+GRANADA,TENERIFE,4,0,1,1.0
+MIRANDES,EIBAR,1,0,1,1.0
+CADIZ,RACING,0,1,-1,1.0
+FERROL,HUESCA,0,0,0,1.0
+ELCHE,SPORTING,2,1,1,1.0
+ZARAGOZA,ALMERIA,1,2,-1,1.0
+ALBACETE,BURGOS,2,0,1,1.0
+OVIEDO,MIRANDES,4,1,1,1.0
+CASTELLON,GRANADA,2,3,-1,1.0
+EIBAR,CADIZ,1,0,1,1.0
+ELDENSE,ZARAGOZA,2,3,-1,1.0
+CARTAGENA,ELCHE,0,0,0,1.0
+RACING,CORDOBA,2,0,1,1.0
+ALMERIA,ALBACETE,3,1,1,1.0
+LEVANTE,DEPORTIVO,2,1,1,1.0
+BURGOS,FERROL,1,1,0,1.0
+SPORTING,HUESCA,2,1,1,1.0
+TENERIFE,MALAGA,0,0,0,1.0
+CADIZ,OVIEDO,2,0,1,1.0
+MIRANDES,CARTAGENA,3,1,1,1.0
+CORDOBA,ELDENSE,2,0,1,1.0
+ZARAGOZA,CASTELLON,1,2,-1,1.0
+MALAGA,EIBAR,1,0,1,1.0
+ELCHE,BURGOS,1,0,1,1.0
+DEPORTIVO,RACING,1,2,-1,1.0
+ALBACETE,SPORTING,3,3,0,1.0
+HUESCA,ALMERIA,2,2,0,1.0
+GRANADA,LEVANTE,1,2,-1,1.0
+FERROL,TENERIFE,1,1,0,1.0
+EIBAR,ELCHE,0,2,-1,1.0
+CARTAGENA,DEPORTIVO,1,5,-1,1.0
+SPORTING,CADIZ,2,0,1,1.0
+RACING,ALBACETE,1,1,0,1.0
+ZARAGOZA,GRANADA,2,1,1,1.0
+OVIEDO,BURGOS,3,1,1,1.0
+TENERIFE,MIRANDES,1,0,1,1.0
+ELCHE,ALMERIA,1,2,-1,1.0
+MIRANDES,CADIZ,2,2,0,1.0
+GRANADA,ELDENSE,3,2,1,1.0
+HUESCA,ZARAGOZA,1,1,0,1.0
+MALAGA,CARTAGENA,1,0,1,1.0
+CORDOBA,CASTELLON,2,2,0,1.0
+BURGOS,SPORTING,0,2,-1,1.0
+FERROL,RACING,1,2,-1,1.0
+ALBACETE,OVIEDO,2,2,0,1.0
+DEPORTIVO,EIBAR,1,0,1,1.0
+EIBAR,FERROL,2,0,1,1.0
+CASTELLON,MIRANDES,1,3,-1,1.0
+ELDENSE,ALBACETE,2,0,1,1.0
+LEVANTE,ELCHE,1,1,0,1.0
+RACING,BURGOS,2,0,1,1.0
+SPORTING,GRANADA,1,2,-1,1.0
+CADIZ,CORDOBA,2,0,1,1.0
+OVIEDO,TENERIFE,3,1,1,1.0
+ALMERIA,DEPORTIVO,2,1,1,1.0
+CARTAGENA,HUESCA,1,0,1,1.0
+ZARAGOZA,MALAGA,0,0,0,1.0
+ELDENSE,HUESCA,2,1,1,1.0
+FERROL,LEVANTE,0,0,0,1.0
+CARTAGENA,ALMERIA,1,2,-1,1.0
+GRANADA,CADIZ,0,0,0,1.0
+BURGOS,EIBAR,1,0,1,1.0
+CORDOBA,ZARAGOZA,2,2,0,1.0
+MALAGA,RACING,0,0,0,1.0
+ALBACETE,TENERIFE,2,1,1,1.0
+DEPORTIVO,SPORTING,1,1,0,1.0
+MIRANDES,ELDENSE,1,0,1,1.0
+HUESCA,CASTELLON,1,1,0,1.0
+ELCHE,OVIEDO,4,0,1,1.0
+ALMERIA,CORDOBA,4,0,1,1.0
+CASTELLON,FERROL,0,0,0,1.0
+LEVANTE,MALAGA,4,2,1,1.0
+OVIEDO,HUESCA,0,3,-1,1.0
+ALMERIA,GRANADA,2,1,1,1.0
+ZARAGOZA,ALBACETE,0,1,-1,1.0
+CADIZ,DEPORTIVO,2,4,-1,1.0
+RACING,MIRANDES,0,1,-1,1.0
+TENERIFE,ELCHE,1,1,0,1.0
+CASTELLON,MALAGA,2,0,1,1.0
+ELDENSE,FERROL,0,0,0,1.0
+LEVANTE,BURGOS,3,1,1,1.0
+SPORTING,CORDOBA,2,0,1,1.0
+EIBAR,CARTAGENA,1,0,1,1.0
+MIRANDES,LEVANTE,2,1,1,1.0
+ELCHE,CADIZ,2,1,1,1.0
+GRANADA,RACING,3,0,1,1.0
+DEPORTIVO,ZARAGOZA,1,1,0,1.0
+HUESCA,EIBAR,2,1,1,1.0
+FERROL,OVIEDO,1,5,-1,1.0
+MALAGA,ALMERIA,1,1,0,1.0
+ALBACETE,CASTELLON,0,0,0,1.0
+BURGOS,ELDENSE,1,0,1,1.0
+CORDOBA,TENERIFE,3,0,1,1.0
+CARTAGENA,SPORTING,1,0,1,1.0
+ALMERIA,MIRANDES,1,0,1,1.0
+LEVANTE,CORDOBA,2,2,0,1.0
+CADIZ,ALBACETE,1,0,1,1.0
+CASTELLON,CARTAGENA,4,1,1,1.0
+EIBAR,ZARAGOZA,2,1,1,1.0
+ELDENSE,ELCHE,0,0,0,1.0
+OVIEDO,GRANADA,2,0,1,1.0
+SPORTING,FERROL,1,3,-1,1.0
+BURGOS,MALAGA,0,0,0,1.0
+RACING,HUESCA,0,1,-1,1.0
+ALBACETE,LEVANTE,0,0,0,1.0
+GRANADA,CARTAGENA,4,1,1,1.0
+CORDOBA,EIBAR,2,1,1,1.0
+ZARAGOZA,OVIEDO,2,3,-1,1.0
+FERROL,ALMERIA,1,4,-1,1.0
+MALAGA,ELDENSE,3,0,1,1.0
+MIRANDES,SPORTING,1,1,0,1.0
+CADIZ,BURGOS,1,1,0,1.0
+ELCHE,RACING,3,0,1,1.0
+HUESCA,TENERIFE,1,0,1,1.0
+DEPORTIVO,CASTELLON,5,1,1,1.0
+CARTAGENA,ALBACETE,0,0,0,1.0
+EIBAR,GRANADA,1,1,0,1.0
+OVIEDO,CORDOBA,2,3,-1,1.0
+SPORTING,MALAGA,1,3,-1,1.0
+ZARAGOZA,FERROL,1,0,1,1.0
+BURGOS,TENERIFE,1,0,1,1.0
+CASTELLON,ELCHE,0,2,-1,1.0
+ALMERIA,CADIZ,1,1,0,1.0
+RACING,ELDENSE,2,2,0,1.0
+DEPORTIVO,MIRANDES,0,4,-1,1.0
+LEVANTE,HUESCA,1,1,0,1.0
+TENERIFE,LEVANTE,0,3,-1,1.0
+GRANADA,BURGOS,0,0,0,1.0
+FERROL,CARTAGENA,0,0,0,1.0
+ALBACETE,RACING,2,2,0,1.0
+HUESCA,MIRANDES,1,0,1,1.0
+MALAGA,DEPORTIVO,1,1,0,1.0
+TENERIFE,CASTELLON,2,0,1,1.0
+OVIEDO,SPORTING,1,1,0,1.0
+CORDOBA,ALMERIA,0,3,-1,1.0
+CADIZ,LEVANTE,0,0,0,1.0
+ELCHE,ZARAGOZA,1,0,1,1.0
+ELDENSE,EIBAR,1,3,-1,1.0
+CARTAGENA,OVIEDO,0,1,-1,1.0
+ELDENSE,CADIZ,1,4,-1,1.0
+EIBAR,ALBACETE,1,1,0,1.0
+SPORTING,ELCHE,1,1,0,1.0
+LEVANTE,GRANADA,3,1,1,1.0
+BURGOS,DEPORTIVO,0,1,-1,1.0
+RACING,FERROL,6,0,1,1.0
+CASTELLON,CORDOBA,1,2,-1,1.0
+ZARAGOZA,TENERIFE,2,2,0,1.0
+ALMERIA,HUESCA,0,0,0,1.0
+MIRANDES,MALAGA,3,2,1,1.0
+ELCHE,EIBAR,2,0,1,1.0
+CORDOBA,RACING,1,2,-1,1.0
+HUESCA,CARTAGENA,4,0,1,1.0
+DEPORTIVO,LEVANTE,1,2,-1,1.0
+TENERIFE,ELDENSE,0,1,-1,1.0
+GRANADA,SPORTING,3,1,1,1.0
+ALBACETE,ALMERIA,2,1,1,1.0
+OVIEDO,CASTELLON,1,0,1,1.0
+MALAGA,ZARAGOZA,1,2,-1,1.0
+CADIZ,MIRANDES,3,1,1,1.0
+TENERIFE,DEPORTIVO,0,0,0,1.0
+ELDENSE,GRANADA,0,3,-1,1.0
+MIRANDES,ELCHE,3,0,1,1.0
+SPORTING,BURGOS,2,0,1,1.0
+ALMERIA,OVIEDO,1,1,0,1.0
+RACING,MALAGA,2,1,1,1.0
+CASTELLON,HUESCA,0,1,-1,1.0
+EIBAR,DEPORTIVO,0,1,-1,1.0
+CARTAGENA,CORDOBA,0,1,-1,1.0
+ZARAGOZA,CADIZ,0,0,0,1.0
+TENERIFE,ALBACETE,3,1,1,1.0
+LEVANTE,FERROL,0,1,-1,1.0
+ALBACETE,ZARAGOZA,2,1,1,1.0
+FERROL,CASTELLON,1,3,-1,1.0
+GRANADA,MIRANDES,0,0,0,1.0
+MALAGA,LEVANTE,1,1,0,1.0
+SPORTING,EIBAR,0,0,0,1.0
+ELCHE,TENERIFE,2,0,1,1.0
+BURGOS,RACING,2,1,1,1.0
+CORDOBA,HUESCA,1,2,-1,1.0
+CADIZ,CARTAGENA,5,2,1,1.0
+DEPORTIVO,ALMERIA,3,1,1,1.0
+OVIEDO,ELDENSE,0,0,0,1.0
+MIRANDES,FERROL,4,1,1,1.0
+CASTELLON,EIBAR,2,0,1,1.0
+CARTAGENA,MALAGA,0,1,-1,1.0
+RACING,CADIZ,2,3,-1,1.0
+TENERIFE,CORDOBA,2,3,-1,1.0
+LEVANTE,SPORTING,0,0,0,1.0
+ELDENSE,DEPORTIVO,2,0,1,1.0
+HUESCA,GRANADA,1,1,0,1.0
+ZARAGOZA,BURGOS,0,1,-1,1.0
+OVIEDO,ALBACETE,1,0,1,1.0
+ALMERIA,ELCHE,1,1,0,1.0
+MALAGA,TENERIFE,1,0,1,1.0
+FERROL,CORDOBA,0,1,-1,1.0
+BURGOS,OVIEDO,1,2,-1,1.0
+EIBAR,RACING,2,2,0,1.0
+GRANADA,ZARAGOZA,2,2,0,1.0
+SPORTING,ALMERIA,1,1,0,1.0
+DEPORTIVO,HUESCA,0,0,0,1.0
+ELCHE,CARTAGENA,2,1,1,1.0
+ALBACETE,ELDENSE,0,1,-1,1.0
+LEVANTE,MIRANDES,1,0,1,1.0
+CADIZ,CASTELLON,0,0,0,1.0
+CARTAGENA,EIBAR,0,2,-1,1.0
+CASTELLON,BURGOS,2,1,1,1.0
+HUESCA,FERROL,3,1,1,1.0
+ZARAGOZA,SPORTING,1,1,0,1.0
+ALMERIA,MALAGA,2,2,0,1.0
+CORDOBA,GRANADA,5,0,1,1.0
+OVIEDO,DEPORTIVO,1,2,-1,1.0
+ALBACETE,CADIZ,3,0,1,1.0
+ELDENSE,LEVANTE,1,2,-1,1.0
+RACING,ELCHE,2,0,1,1.0
+MIRANDES,TENERIFE,2,0,1,1.0
+FERROL,BURGOS,0,1,-1,1.0
+EIBAR,ALMERIA,1,0,1,1.0
+DEPORTIVO,CORDOBA,1,1,0,1.0
+MIRANDES,OVIEDO,1,0,1,1.0
+ELCHE,CASTELLON,3,1,1,1.0
+SPORTING,RACING,1,1,0,1.0
+ZARAGOZA,ELDENSE,2,4,-1,1.0
+TENERIFE,HUESCA,2,0,1,1.0
+MALAGA,CADIZ,0,2,-1,1.0
+LEVANTE,CARTAGENA,3,0,1,1.0
+GRANADA,FERROL,3,0,1,1.0
+BURGOS,ALBACETE,1,0,1,1.0
+OVIEDO,ELCHE,1,1,0,1.0
+FERROL,EIBAR,0,0,0,1.0
+ALBACETE,MALAGA,2,0,1,1.0
+CARTAGENA,BURGOS,0,1,-1,1.0
+ALMERIA,ZARAGOZA,4,1,1,1.0
+CORDOBA,SPORTING,1,1,0,1.0
+ELDENSE,MIRANDES,2,2,0,1.0
+HUESCA,LEVANTE,1,2,-1,1.0
+RACING,TENERIFE,2,1,1,1.0
+CADIZ,GRANADA,1,0,1,1.0
+CASTELLON,DEPORTIVO,2,2,0,1.0
+BURGOS,ALMERIA,3,1,1,1.0
+ELCHE,ELDENSE,2,0,1,1.0
+MALAGA,FERROL,2,0,1,1.0
+MIRANDES,RACING,2,1,1,1.0
+GRANADA,OVIEDO,1,0,1,1.0
+LEVANTE,CASTELLON,3,2,1,1.0
+EIBAR,HUESCA,2,1,1,1.0
+SPORTING,ALBACETE,0,2,-1,1.0
+DEPORTIVO,CARTAGENA,2,2,0,1.0
+TENERIFE,CADIZ,2,1,1,1.0
+ZARAGOZA,CORDOBA,1,1,0,1.0
+TENERIFE,GRANADA,2,1,1,1.0
+ELDENSE,BURGOS,0,0,0,1.0
+FERROL,DEPORTIVO,0,1,-1,1.0
+CARTAGENA,CASTELLON,2,2,0,1.0
+RACING,ZARAGOZA,2,0,1,1.0
+ALMERIA,LEVANTE,1,0,1,1.0
+CORDOBA,ELCHE,1,2,-1,1.0
+OVIEDO,MALAGA,2,1,1,1.0
+ALBACETE,MIRANDES,3,2,1,1.0
+HUESCA,SPORTING,3,2,1,1.0
+CADIZ,EIBAR,0,0,0,1.0
+CASTELLON,ALBACETE,2,2,0,1.0
+EIBAR,OVIEDO,1,1,0,1.0
+CARTAGENA,ELDENSE,0,1,-1,1.0
+GRANADA,ALMERIA,3,1,1,1.0
+SPORTING,TENERIFE,1,3,-1,1.0
+ZARAGOZA,MIRANDES,1,0,1,1.0
+LEVANTE,RACING,3,1,1,1.0
+BURGOS,HUESCA,2,1,1,1.0
+MALAGA,CORDOBA,0,1,-1,1.0
+DEPORTIVO,CADIZ,1,0,1,1.0
+ELCHE,FERROL,1,0,1,1.0
+CORDOBA,LEVANTE,2,2,0,1.0
+ZARAGOZA,EIBAR,2,2,0,1.0
+CADIZ,ELCHE,0,1,-1,1.0
+TENERIFE,BURGOS,0,0,0,1.0
+OVIEDO,FERROL,3,0,1,1.0
+ALBACETE,GRANADA,0,2,-1,1.0
+RACING,CASTELLON,1,1,0,1.0
+ELDENSE,SPORTING,1,2,-1,1.0
+MIRANDES,DEPORTIVO,2,2,0,1.0
+ALMERIA,CARTAGENA,2,1,1,1.0
+HUESCA,MALAGA,1,0,1,1.0
+SPORTING,MIRANDES,3,1,1,1.0
+CASTELLON,ALMERIA,4,1,1,1.0
+FERROL,ELDENSE,1,0,1,1.0
+HUESCA,RACING,1,3,-1,1.0
+LEVANTE,ZARAGOZA,5,2,1,1.0
+BURGOS,CADIZ,2,2,0,1.0
+CARTAGENA,GRANADA,2,3,-1,1.0
+CORDOBA,OVIEDO,0,0,0,1.0
+ELCHE,ALBACETE,2,2,0,1.0
+DEPORTIVO,TENERIFE,0,0,0,1.0
+EIBAR,MALAGA,2,2,0,1.0
+CADIZ,SPORTING,1,0,1,1.0
+ALBACETE,CARTAGENA,3,1,1,1.0
+ELDENSE,CORDOBA,1,1,0,1.0
+OVIEDO,LEVANTE,1,0,1,1.0
+GRANADA,ELCHE,1,1,0,1.0
+MIRANDES,BURGOS,2,1,1,1.0
+RACING,DEPORTIVO,2,1,1,1.0
+MALAGA,CASTELLON,1,0,1,1.0
+TENERIFE,EIBAR,1,1,0,1.0
+ZARAGOZA,HUESCA,1,1,0,1.0
+ALMERIA,FERROL,2,1,1,1.0
+CORDOBA,CADIZ,4,2,1,1.0
+HUESCA,OVIEDO,1,2,-1,1.0
+EIBAR,MIRANDES,0,1,-1,1.0
+MALAGA,GRANADA,1,0,1,1.0
+BURGOS,ELCHE,0,1,-1,1.0
+LEVANTE,TENERIFE,1,1,0,1.0
+FERROL,ZARAGOZA,1,2,-1,1.0
+ALMERIA,ELDENSE,5,0,1,1.0
+CARTAGENA,RACING,1,0,1,1.0
+DEPORTIVO,ALBACETE,5,1,1,1.0
+CASTELLON,SPORTING,4,3,1,1.0
+CADIZ,ALMERIA,2,1,1,1.0
+MIRANDES,CASTELLON,3,2,1,1.0
+SPORTING,DEPORTIVO,2,1,1,1.0
+BURGOS,CORDOBA,3,2,1,1.0
+ELCHE,LEVANTE,1,3,-1,1.0
+ZARAGOZA,CARTAGENA,3,2,1,1.0
+RACING,OVIEDO,1,1,0,1.0
+ALBACETE,HUESCA,3,2,1,1.0
+ELDENSE,MALAGA,1,0,1,1.0
+TENERIFE,FERROL,0,0,0,1.0
+GRANADA,EIBAR,0,2,-1,1.0
+LEVANTE,ALBACETE,1,0,1,1.0
+EIBAR,BURGOS,1,0,1,1.0
+DEPORTIVO,GRANADA,2,3,-1,1.0
+CARTAGENA,TENERIFE,1,0,1,1.0
+HUESCA,ELCHE,2,1,1,1.0
+MALAGA,SPORTING,2,1,1,1.0
+FERROL,CADIZ,1,0,1,1.0
+CASTELLON,ELDENSE,1,1,0,1.0
+OVIEDO,ZARAGOZA,1,0,1,1.0
+ALMERIA,RACING,2,0,1,1.0
+CORDOBA,MIRANDES,1,2,-1,1.0
+ALBACETE,FERROL,2,0,1,1.0
+BURGOS,LEVANTE,2,3,-1,1.0
+CADIZ,HUESCA,4,0,1,1.0
+EIBAR,CORDOBA,4,1,1,1.0
+ELCHE,MALAGA,2,0,1,1.0
+ELDENSE,RACING,3,3,0,1.0
+GRANADA,CASTELLON,2,1,1,1.0
+MIRANDES,ALMERIA,0,0,0,1.0
+SPORTING,CARTAGENA,3,2,1,1.0
+TENERIFE,OVIEDO,0,1,-1,1.0
+ZARAGOZA,DEPORTIVO,1,0,1,1.0
+CASTELLON,ZARAGOZA,4,1,1,1.0
+FERROL,SPORTING,0,2,-1,1.0
+MALAGA,BURGOS,2,2,0,1.0
+ALMERIA,TENERIFE,2,0,1,1.0
+CARTAGENA,MIRANDES,1,3,-1,1.0
+HUESCA,ELDENSE,3,2,1,1.0
+DEPORTIVO,ELCHE,0,4,-1,1.0
+LEVANTE,EIBAR,1,0,1,1.0
+OVIEDO,CADIZ,2,1,1,1.0
+RACING,GRANADA,2,1,1,1.0
+CORDOBA,ALBACETE,1,1,0,1.0
